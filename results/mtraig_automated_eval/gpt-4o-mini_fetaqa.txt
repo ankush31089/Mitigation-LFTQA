@@ -1,0 +1,12 @@
+FETAQA – MT-RAIG Mitigation Summary
+examples revised     : 717
+
+--- On Revised Only ---
+before               : 2.640
+after                : 3.537
+improvement          : +17.95%
+
+--- On Full Dataset ---
+overall before       : 3.835
+overall after        : 4.278
+overall improvement  : +8.86%

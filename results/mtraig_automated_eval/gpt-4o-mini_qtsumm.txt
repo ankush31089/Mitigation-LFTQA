@@ -1,0 +1,12 @@
+QTSUMM – MT-RAIG Mitigation Summary
+examples revised     : 1001
+
+--- On Revised Only ---
+before               : 3.014
+after                : 3.464
+improvement          : +9.01%
+
+--- On Full Dataset ---
+overall before       : 3.568
+overall after        : 3.892
+overall improvement  : +6.49%

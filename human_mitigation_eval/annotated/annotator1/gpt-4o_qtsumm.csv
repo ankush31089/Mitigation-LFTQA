@@ -1,0 +1,899 @@
+example_id,original_model,original_idx,question,table,ideal_answer,original_answer,geval_mitigated_output,mtraig_eval_mitigated_output,geval_faithfulness_label,geval_completeness_label,mtraig_eval_faithfulness_label
+qtsumm_1,Yi-1.5-34B,1,Summarize the players who scored field goals.,"Table Title: 1907 Michigan Wolverines Football Team
+Table:
+Player | Touchdowns | Extra Points | Field Goals | Points
+Paul Magoffin | 7 | 0 | 0 | 35
+Walter Rheinschild | 5 | 0 | 0 | 25
+Octy Graham | 0 | 7 | 4 | 24
+Jack Loell | 3 | 0 | 0 | 15
+Prentiss Douglass | 1 | 0 | 0 | 5
+Dave Allerdice | 0 | 3 | 0 | 3
+Harry S Hammond | 0 | 1 | 0 | 1
+","The 1907 Michigan Wolverines Football team had one player who scored field goals, Octy Graham. He scored a total of four field goals, earning 24 points for the team. The other players on the team, Paul Magoffin, Walter Rheinschild, Jack Loell, Prentiss Douglass, Dave Allerdice, and Harry S Hammond, did not score any field goals.","Four players on the 1907 Michigan Wolverines football team scored field goals: Octy Graham (4), Dave Allerdice (3), Harry S. Hammond (1), and Paul Thelen (1).",Two players scored field goals: Octy Graham with 4 field goals and Dave Allerdice with 0 field goals.,Two players on the 1907 Michigan Wolverines football team scored field goals: Octy Graham (4) and Dave Allerdice (0).,Improved,Unchanged,Improved
+qtsumm_4,Yi-1.5-34B,4,Summarize the buildings constructed between 1989 and 1990.,"Table Title: List Of Tallest Buildings In Chicago
+Table:
+Pinn Rank | Std Rank | Name | Pinnacle Height Ft (M) | Standard Height Ft (M) | Floors | Year
+1 | 1 | Willis Tower | 1730 (527) | 1451 (442) | 108 | 1974
+2 | 4 | John Hancock Center | 1500 (457) | 1127 (344) | 100 | 1969
+3 | 2 | Trump International Hotel And Tower | 1389 (423) | 1389 (423) | 93 | 2009
+4 | 3 | Aon Center | 1136 (346) | 1136 (346) | 83 | 1973
+5 | 5 | Franklin Center North Tower | 1007 (307) | 887 (270) | 61 | 1989
+6 | 6 | Two Prudential Plaza | 995 (303) | 995 (303) | 64 | 1990
+7 | 7 | 311 South Wacker Drive | 961 (293) | 961 (293) | 65 | 1990
+8 | 42 | One Prudential Plaza | 912 (278) | 601 (183) | 41 | 1955
+9 | 8 | 900 North Michigan | 871 (266) | 871 (266) | 66 | 1989
+10 | 9 | Water Tower Place | 859 (262) | 859 (262) | 74 | 1976
+","Between 1989 and 1990, four skyscrapers were built in Chicago: Franklin Center North Tower, Two Prudential Plaza, 311 South Wacker Drive, and 900 North Michigan. Franklin Center North Tower is the tallest of the four at 1007 feet, followed by Two Prudential Plaza with 995 ft and 311 South Wacker Drive with 961 ft. The shortest of the these buildings is 900 North Michigan at 871 feet tall. All four buildings have between 61 and 66 floors.","Between 1989 and 1990, four buildings were constructed in Chicago, including 311 South Wacker Drive, the Franklin Center North Tower, the 900 North Michigan, and Two Prudential Plaza, each standing among the tallest in the city and adding significant visual and architectural impact to the skyline.","Between 1989 and 1990, four buildings were constructed: Franklin Center North Tower (1007 ft, 307 m, 61 floors, 1989), 900 North Michigan (871 ft, 266 m, 66 floors, 1989), Two Prudential Plaza (995 ft, 303 m, 64 floors, 1990), and 311 South Wacker Drive (961 ft, 293 m, 65 floors, 1990).","Between 1989 and 1990, two buildings were constructed in Chicago: 311 South Wacker Drive and Two Prudential Plaza. These buildings are among the tallest in the city and contribute significantly to the skyline.",Fully Factual,Fully Complete,Deteriorated
+qtsumm_7,Yi-1.5-34B,7,Summarize the episode(s) that were written by Dave Tennant and aired in November 2007.,"Table Title: Scrubs (Season 7)
+Table:
+Series | Season | Title | Directed By | Written By | Original Air Date | Production Code | Us Viewers (Millions)
+140 | 1 | My Own Worst Enemy | Bill Lawrence | Neil Goldman & Garrett Donovan | October 25 , 2007 | 701 | 7.03
+141 | 2 | My Hard Labor | Adam Bernstein | Bill Callahan | November 1 , 2007 | 702 | 6.68
+142 | 3 | My Inconvenient Truth | Bill Lawrence | Debra Fordham | November 8 , 2007 | 703 | 6.36
+143 | 4 | My Identity Crisis | Gail Mancuso | Dave Tennant | November 15 , 2007 | 704 | 6.04
+144 | 5 | My Growing Pains | Zach Braff | Mike Schwartz | November 29 , 2007 | 705 | 5.91
+145 | 6 | My Number One Doctor | Will Mackenzie | Janae Bakken | December 6 , 2007 | 706 | 4.86
+146 | 7 | My Bad Too | Linda Mendoza | Clarence Livingston | April 10 , 2008 | 707 | 6.58
+147 | 8 | My Manhood | Michael Mcdonald | Angela Nissel | April 17 , 2008 | 708 | 7.31
+148 | 9 | My Dumb Luck | Rick Blue | Aseem Batra | April 24 , 2008 | 710 | 5.3
+149 | 10 | My Waste Of Time | Chris Koch | Andy Schwartz | May 1 , 2008 | 711 | 5.91
+","The episode written by Dave Tennant that aired in November 2007 was titled ""My Identity Crisis"". It was directed by Gail Mancuso and aired on November 15th, with a production code of 704. The episode was viewed by 6.04 million viewers.","The episode written by Dave Tennant and aired in November 2007 is titled ""My Growing Pains."" It aired on November 29, 2007, and was directed by Zach Braff. The episode's production code is 705, and it had approximately 5.91 million US viewers. In this episode, J.D. is focused on growing up and taking on more responsibility, dealing with his feelings for Dr. Cox, and trying to find his place in the world.","The episode written by Dave Tennant and aired in November 2007 is titled ""My Identity Crisis."" It aired on November 15, 2007, and was directed by Gail Mancuso. The episode's production code is 704, and it had approximately 6.04 million US viewers.","The episode written by Dave Tennant and aired in November 2007 is titled ""My Identity Crisis."" It aired on November 15, 2007, and was directed by Gail Mancuso. The episode's production code is 704, and it had approximately 6.04 million US viewers.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_8,Yi-1.5-34B,8,Which player has the highest number of goals per match in the given table documenting S.L. Benfica's top goalscorers?,"Table Title: List of S.L. Benfica records and statistics - Top goalscorers
+Table:
+Ranking | Name | Years | Matches | Goals | Ref
+1 | Portugal Eusébio | 1961–1975 | 440 | 473 | 
+2 | Portugal José Águas | 1950–1963 | 384 | 379 | 
+3 | Portugal Nené | 1968–1986 | 575 | 359 | 
+4 | Portugal José Torres | 1959–1971 | 259 | 226 | 
+5 | Portugal Arsénio | 1943–1955 | 298 | 220 | 
+6 | Portugal Rogério Pipi | 1942–1947 1947–1954 | 314 | 205 | 
+7 | Portugal Julinho | 1942–1951 1952–1953 | 200 | 202 | 
+8 | Portugal José Augusto | 1959–1970 | 369 | 175 | 
+9 | Paraguay Óscar Cardozo | 2007–2014 | 292 | 172 | 
+10 | Portugal Nuno Gomes | 1997–2000 2002–2011 | 399 | 166 | 
+","Eusébio from Portugal have highest number of goal per match in the given table, he score 473 goal in 440 match for S.L. Benfica top goal scorer. This make him 1st rank scorer in S.L. Benfica history.","Portugal José Águas has the highest number of goals per match, with a ratio of 0.987.","Portugal Eusébio has the highest number of goals per match in the given table, with a ratio of 1.075 (473 goals in 440 matches).","Portugal Eusébio has the highest number of goals per match, with a ratio of 1.075 goals per match.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_10,Yi-1.5-34B,10,Which team ranked highest in the AP final and who was their MVP during the 1950 Big Nine Conference football season?,"Table Title: 1950 Big Nine Conference football season - Results and team statistics
+Table:
+Conf. Rank | Team | Head coach | AP final | AP high | Overall record | Conf. record | PPG | PAG | MVP
+1 | Michigan | Bennie Oosterbaan | #9 | #3 | 6–3–1 | 4–1–1 | 15.0 | 11.4 | Don Dufek
+2 | Ohio State | Wes Fesler | #14 | #1 | 6–3 | 5–2 | 31.8 | 12.3 | Vic Janowicz
+3 | Wisconsin | Ivy Williamson | NR | #15 | 6–3 | 5–2 | 15.1 | 10.8 | Bob Radcliffe
+4 | Illinois | Ray Eliot | #13 | #6 | 7–2 | 4–2 | 15.2 | 6.2 | Tony Klimek
+5 | Northwestern | Bob Voigts | NR | #9 | 6–3 | 3–3 | 17.2 | 15.9 | Chuck Hagmann
+6 | Iowa | Leonard Raffensperger | NR | #17 | 3–5–1 | 2–4 | 13.4 | 22.3 | Harold Bradley
+7 | Minnesota | Bernie Bierman | NR | #18 | 1–7–1 | 1–4–1 | 8.8 | 21.8 | Wayne Robinson
+8 (tie) | Indiana | Clyde B. Smith | NR | #19 | 3–5–1 | 1–4 | 11.0 | 17.2 | Bob Robertson
+8 (tie) | Purdue | Stu Holcomb | NR | #9 | 2–7 | 1–4 | 15.9 | 22.2 | James Janosek
+","In 1950 Big Nine Conference football season, the team rank highest in AP final is Ohio State, they get #14 ranking. Their Most Value Player (MVP) for that season is Vic Janowicz.",Ohio State ranked highest in the AP final at #14 during the 1950 Big Nine Conference football season. Their MVP was Vic Janowicz.,"The team that ranked highest in the AP final during the 1950 Big Nine Conference football season was Michigan, with an AP final rank of #9. Their MVP was Don Dufek.",Michigan ranked highest in the AP final at #9 during the 1950 Big Nine Conference football season. Their MVP was Don Dufek.,Deteriorated,Unchanged,Deteriorated
+qtsumm_11,Yi-1.5-34B,11,How did the Ottawa Senators perform in games against the Montreal Canadiens during the 1917–18 season?,"Table Title: 1917–18 Ottawa Senators season - Schedule and results
+Table:
+# | Date | Visitor | Score | Home | Record | Pts
+1 | December 19 | Montreal Canadiens | 7–4 | Ottawa Senators | 0–1–0 | 0
+2 | December 22 | Ottawa Senators | 4–11 | Toronto | 0–2–0 | 0
+3 | December 26 | Ottawa Senators | 6–3 | Montreal Wanderers | 1–2–0 | 2
+4 | December 29 | Montreal Wanderers | 2–9 | Ottawa Senators | 2–2–0 | 4
+5 | January 2 | Toronto | 6–5 | Ottawa Senators | 2–3–0 | 4
+6 | January 5 | Ottawa Senators | 5–6 | Montreal Canadiens | 2–4–0 | 4
+7 | January 12 | Ottawa Senators | 4–9 | Montreal Canadiens | 2–5–0 | 4
+8 | January 14 | Toronto | 6–9 | Ottawa Senators | 3–5–0 | 6
+9 | January 16 | Ottawa Senators | 4–5 | Toronto | 3–6–0 | 6
+10 | January 21 | Montreal Canadiens | 5–3 | Ottawa Senators | 3–7–0 | 6
+11 | January 23 | Ottawa Senators | 4–3 | Montreal Canadiens | 4–7–0 | 8
+12 | January 26 | Toronto | 3–6 | Ottawa Senators | 5–7–0 | 10
+13 | January 30 | Montreal Canadiens | 5–2 | Ottawa Senators | 5–8–0 | 10
+14 | February 4 | Ottawa Senators | 2–8 | Toronto | 5–9–0 | 10
+15 | February 6 | Montreal Canadiens | 3–6 | Ottawa Senators | 6–9–0 | 12
+16 | February 11 | Ottawa Senators | 1–3 | Toronto | 6–10–0 | 12
+17 | February 13 | Toronto | 6–1 | Ottawa Senators | 6–11–0 | 12
+18 | February 16 | Ottawa Senators | 4–10 | Montreal Canadiens | 6–12–0 | 12
+19 | February 23 | Ottawa Senators | 3–9 | Toronto | 6–13–0 | 12
+20 | February 25 | Montreal Canadiens | 0–8 | Ottawa Senators | 7–13–0 | 14
+21 | February 27 | Ottawa Senators | 3–1 | Montreal Canadiens | 8–13–0 | 16
+22 | March 6 | Toronto | 3–9 | Ottawa Senators | 9–13–0 | 18
+","In 1917-18 season, Ottawa Senators play ten games total with Montreal Canadiens. Senators win four, lose six. First win in January 23, score 4-3 for Ottawa. Second victory in February 6, score win 6-3.Third win in February 25,game end in 8-0. Fourth win in February 27, game end 3-1. In general, Ottawa Senators not good performance with Montreal Canadiens in the 1917-18.Play.","The Ottawa Senators played three games against the Montreal Canadiens during the 1917-18 season. They won two of these games, with scores of 6-2 and 9-3, and lost one game with a score of 5-3. Overall, the Ottawa Senators had a 2-1 record against the Montreal Canadiens, with 4 points earned from these games.","The Ottawa Senators played six games against the Montreal Canadiens during the 1917–18 season. They won three of these games with scores of 4–3, 6–3, and 8–0. They lost three games with scores of 4–7, 5–6, and 3–5. Overall, the Ottawa Senators had a 3–3 record against the Montreal Canadiens, earning a total of 6 points from these games.","The Ottawa Senators played six games against the Montreal Canadiens during the 1917-18 season. They won three of these games with scores of 4-3, 6-3, and 8-0, and lost three games with scores of 7-4, 6-5, and 5-3. Overall, the Ottawa Senators had a 3-3 record against the Montreal Canadiens.",Improved,Improved,Improved
+qtsumm_13,Yi-1.5-34B,13,"What rank does the single ""Problem"" by Ariana Grande featuring Iggy Azalea hold in terms of sales when compared to the other best-selling singles in the list?","Table Title: List of best-selling singles - 8–9.99 million copies
+Table:
+Artist | Single | Released | Sales (in millions) | Source
+Twenty One Pilots | ""Stressed Out"" | 2015 | 9.9 | 
+P!nk featuring Nate Ruess | ""Just Give Me a Reason"" | 2013 | 9.9 | 
+Katy Perry | ""Roar"" | 2013 | 9.9 | 
+Bruno Mars | ""That's What I Like"" | 2017 | 9.7 | 
+Lady Gaga | ""Bad Romance"" | 2009 | 9.7 | 
+Marshmello and Anne-Marie | ""Friends"" | 2018 | 9.6 | 
+fun. featuring Janelle Monáe | ""We Are Young"" | 2011 | 9.6 | 
+Pitbull featuring Kesha | ""Timber"" | 2013 | 9.6 | 
+Daft Punk featuring Pharrell Williams and Nile Rodgers | ""Get Lucky"" | 2013 | 9.3 | 
+Post Malone featuring Ty Dolla Sign | ""Psycho"" | 2018 | 9.2 | 
+Taylor Swift | ""Blank Space"" | 2014 | 9.2 | 
+Maroon 5 | ""Payphone"" | 2012 | 9.1 | 
+Iggy Azalea featuring Charli XCX | ""Fancy"" | 2014 | 9.1 | 
+Lil Wayne featuring Static Major | ""Lollipop"" | 2008 | 9.1 | 
+Ariana Grande featuring Iggy Azalea | ""Problem"" | 2014 | 9 | 
+Madonna | ""Hung Up"" | 2005 | 9 | 
+Thelma Aoyama | ""Soba ni Iru ne"" | 2008 | 8.7 | 
+Imagine Dragons | ""Radioactive"" | 2012 | 8.6 | 
+Magic! | ""Rude"" | 2014 | 8.6 | 
+Black Eyed Peas | ""Boom Boom Pow"" | 2009 | 8.5 | 
+Jennifer Lopez featuring Pitbull | ""On the Floor"" | 2011 | 8.4 | 
+Kendrick Lamar | ""Humble"" | 2017 | 8.3 | 
+Charlie Puth | ""Attention"" | 2017 | 8.3 | 
+Bruno Mars | ""When I Was Your Man"" | 2013 | 8.3 | 
+OMI | ""Cheerleader"" | 2014 | 8.3 | 
+Lady Gaga | ""Born This Way"" | 2011 | 8.2 | 
+Pitbull featuring Ne-Yo, Afrojack, and Nayer | ""Give Me Everything"" | 2011 | 8.2 | 
+Jason Derulo | ""Want to Want Me"" | 2015 | 8.1 | 
+will.i.am featuring Britney Spears | ""Scream & Shout"" | 2012 | 8.1 | 
+Utada Hikaru | ""Flavor of Life"" | 2007 | 8 | 
+Enrique Iglesias featuring Sean Paul, Descemer Bueno and Gente de Zona | ""Bailando"" | 2014 | 8 | 
+","The one ""Problem"" song by Ariana Grande with Iggy Azalea has a place of 15 in how many sales, with 9 million copies sell, compared to other best-selling singles in list. It same as Madonna's ""Hung Up,"" which also has 9 million copies sales.","The single ""Problem"" by Ariana Grande featuring Iggy Azalea holds the 15th rank in terms of sales.","The single ""Problem"" by Ariana Grande featuring Iggy Azalea, with sales of 9 million, is tied for the 15th rank in terms of sales among the best-selling singles in the list. It shares this rank with Madonna's ""Hung Up,"" which also sold 9 million copies.","The single ""Problem"" by Ariana Grande featuring Iggy Azalea holds the 15th rank in terms of sales when compared to the other best-selling singles in the list.",Unchanged,Fully Complete,Unchanged
+qtsumm_22,Yi-1.5-34B,22,"Which virus, MARV or RAVV, has contributed more to human fatalities in Uganda from 2000 onwards?","Table Title: Marburg virus disease - Epidemiology
+Table:
+Year | Country | Virus | Human cases | Human deaths | Case fatality rate | Reference
+1967 | West Germany Yugoslavia | MARV | 31 | 7 | 23% | 
+1975 | Rhodesia South Africa | MARV | 3 | 1 | 33% | 
+1980 | Kenya | MARV | 2 | 1 | 50% | 
+1987 | Kenya | RAVV | 1 | 1 | 100% | 
+1988 | Soviet Union | MARV | 1 | 1 | 100% | 
+1990 | Soviet Union | MARV | 1 | 0 | 0% | 
+1998–2000 | Democratic Republic of the Congo | MARV & RAVV | 154 | 128 | 83% | 
+2004–2005 | Angola | MARV | 252 | 227 | 90% | 
+2007 | Uganda | MARV & RAVV | 4 | 1 | 25% | 
+2008 | Uganda Netherlands United States | MARV | 2 | 1 | 50% | 
+2012 | Uganda | MARV | 18 | 9 | 50% | 
+2014 | Uganda | MARV | 1 | 1 | 100% | 
+2017 | Uganda | MARV | 2 | 2 | 100% | 
+","From 2000, can see MARV virus make more human die in Uganda than RAVV virus. ","From 2000 onwards, the Marburg virus (MARV) has contributed more to human fatalities in Uganda than the Ravn virus (RAVV). Overall, MARV contributed to a total of 13 deaths, while RAVV contributed to none.","From 2000 onwards, in Uganda, the Marburg virus (MARV) has contributed more to human fatalities than the Ravn virus (RAVV). Specifically, MARV was responsible for 13 deaths: 1 death in 2007, 1 death in 2008, 9 deaths in 2012, 1 death in 2014, and 1 death in 2017. In contrast, RAVV did not contribute to any human fatalities in Uganda during this period.","From 2000 onwards, the Marburg virus (MARV) has contributed more to human fatalities in Uganda than the Ravn virus (RAVV). MARV contributed to a total of 13 deaths, while RAVV contributed to 1 death.",Unchanged,Unchanged,Improved
+qtsumm_24,Yi-1.5-34B,24,Summarize the basic information of the diesel engine(s) used in the Citro√´n Jumpy between 1999 and 2006.,"Table Title: Citroën Jumpy
+Table:
+Model | Engine | Displacement | Valvetrain | Fuel System | Max Power At Rpm | Max Torque At Rpm | Years
+Petrol Engines | Petrol Engines | Petrol Engines | Petrol Engines | Petrol Engines | Petrol Engines | Petrol Engines | Petrol Engines
+1.6 Ie | Fiat 220A2000 | 1581 Cc | Sohc 8V | Single - Point Fuel Injection | 5750 Rpm | 2750 Rpm | 1996 - 2000
+2.0 Ie | Psa Ew10 | 1997 Cc | Dohc 16V | Multi - Point Fuel Injection | 6000 Rpm | 4100 Rpm | 2000 - 2006
+Diesel Engines | Diesel Engines | Diesel Engines | Diesel Engines | Diesel Engines | Diesel Engines | Diesel Engines | Diesel Engines
+1.9 D | Psa Xud9 | 1905 Cc | Sohc 8V | Indirect Injection | 4600 Rpm | 2000 Rpm | 1996 - 1999
+1.9 D | Psa Dw8 | 1868 Cc | Sohc 8V | Indirect Injection | 4600 Rpm | 2500 Rpm | 1999 - 2006
+1.9 Td | Psa Xud9 | 1905 Cc | Sohc 8V | Indirect Injection | 4000 Rpm | 2250 Rpm | 1996 - 1999
+2.0 Jtd | Psa Dw10 | 1997 Cc | Sohc 8V | Common Rail Direct Injection | 4000 Rpm | 1750 Rpm | 1999 - 2006
+2.0 Jtd 1 | Psa Dw10 | 1997 Cc | Dohc 16V | Common Rail Direct Injection | 4000 Rpm | 1750 Rpm | 2000 - 2006
+","The Citroën Jumpy used three different diesel engines between 1999 and 2006: All were PSA models (Ew10, Dw8 and DW10). Two of these engines featured SOHC 8V for the valvetrain, indirect injection fuel system for Psa Dw8 or common Rail Direct Injection for Psa Dw10, and a max power at rpm of around 4000-4600.","The Citroën Jumpy between 1999 and 2006 featured three diesel engines: two 1.9-liter units (PSA XUD9 and PSA DW8) and a 2.0-liter engine (PSA DW10). The PSA XUD9 produced 57 kW (77 hp) at 4600 rpm with a torque of 270 Nm at 2000 rpm; the PSA DW8 delivered 64 kW (87 hp) at 4600 rpm with 240 Nm at 2500 rpm; and the PSA DW10 produced 103 kW (138 hp) at 4000 rpm with 320 Nm at 1750 rpm. All engines use SOHC 8V valvetrain, though the 2.0-liter engine features DOHC 16V, and the 1.9-liter models employed indirect injection while the 2.0-liter benefited from common rail direct injection.","Between 1999 and 2006, the Citroën Jumpy used three diesel engines. The 1.9 D engine with the PSA DW8 engine code had a displacement of 1868 cc, a SOHC 8V valvetrain, and used indirect injection. It reached its maximum power at 4600 rpm and maximum torque at 2500 rpm. The 2.0 JTD engine with the PSA DW10 engine code had a displacement of 1997 cc, a SOHC 8V valvetrain, and used common rail direct injection. It reached its maximum power at 4000 rpm and maximum torque at 1750 rpm. Additionally, the 2.0 JTD 1 engine, also with the PSA DW10 engine code, had a displacement of 1997 cc, a DOHC 16V valvetrain, and used common rail direct injection, reaching its maximum power at 4000 rpm and maximum torque at 1750 rpm.","The Citroën Jumpy between 1999 and 2006 featured two diesel engines: a 1.9-liter unit (PSA DW8) and a 2.0-liter engine (PSA DW10). The PSA DW8 engine has a displacement of 1868 cc, uses a SOHC 8V valvetrain, and employs indirect injection, with a maximum power at 4600 rpm and maximum torque at 2500 rpm. The PSA DW10 engine has a displacement of 1997 cc, uses a DOHC 16V valvetrain, and features common rail direct injection, with a maximum power at 4000 rpm and maximum torque at 1750 rpm.",Improved,Fully Complete,Deteriorated
+qtsumm_27,Yi-1.5-34B,27,"In which year Fernando Arretxe performed best,and why?","Table Title: Fernando Arretxe
+Table:
+Year | Champion | Subchampion | Scoreboard | Fronton
+1988 - 89 | Ladutxe - Tolosa | Retegi Ii - Arretxe | 22 - 18 | Anoeta
+1990 - 91 | Retegi Ii - Arretxe | Salaberria - Galarza Iii | 22 - 19 | Anoeta
+1991 - 92 | Vergara Ii - Arretxe | Unanue - Zezeaga | 22 - 18 | Ogueta
+1992 - 93 | Alustiza - Maiz Ii | Titín Iii - Arretxe | 22 - 20 | Ogueta
+1993 - 94 | Titin Iii - Arretxe | Retegi Ii - Beloki | 22 - 14 | Ogueta
+1995 - 96 | Capellán - Beloki | Etxaniz - Arretxe | 22 - 18 | Atano Iii
+",Fernando Arretxe performed best in 1991-92 when he and partner Vergara II won the championship against Unanue and Zezeaga. The score of 22-18 indicated that the match was toughly contested.,"In the year 1993-94, Fernando Arretxe achieved his best performance, securing a high score of 22-14 against the duo of Titín III and Arretxe. This victory at Ogueta underlines his exceptional talent and dominance on the field.",Fernando Arretxe performed best in the year 1990-91 when he was part of the champion team with Retegi II. They won against Salaberria and Galarza III with a score of 22-19 at the Anoeta fronton. This was the only year in the provided data where Arretxe was on the winning team.,"Fernando Arretxe performed best in the year 1990-91 when he was part of the champion team with Retegi II, defeating Salaberria and Galarza III with a score of 22-19 at Anoeta.",Deteriorated,Deteriorated,Deteriorated
+qtsumm_44,Yi-1.5-34B,44,Summarize the Milstar satellites launched in the year 1994 and 2002.,"Table Title: Milstar
+Table:
+Name | Block | Launch Date / Time (Utc) | Cospar Id | Rocket
+Usa - 99 | Block I | 1994 - 02 - 07 , 21:47:01 | 1994 - 009A | Titan Iv (401) A
+Usa - 115 | Block I | 1995 - 11 - 06 , 05:15:01 | 1995 - 060A | Titan Iv (401) A
+Usa - 143 | Block I / Ii Hybrid | 1999 - 04 - 30 , 16:30:00 | 1999 - 023A | Titan Iv (401) B
+Usa - 157 | Block Ii | 2001 - 02 - 27 , 21:20 | 2001 - 009A | Titan Iv (401) B
+Usa - 164 | Block Ii | 2002 - 01 - 16 , 00:30:00 | 2002 - 001A | Titan Iv (401) B
+Usa - 169 | Block Ii | 2003 - 04 - 08 , 13:43:00 | 2003 - 012A | Titan Iv (401) B
+","In the year 1994, USA-99 Milstar satellite was launched using a Titan IV (401) A rocket at 21:47:01 UTC, assigned with Cospar ID 1994-009A. This satellite was part of the Block I series. In 2002, the USA-164 Millstar satellite was launched using a Titan IV (401) B rocket at 00:30:00 UTC, assigned with Cospar ID 2002-001A. This second satellite was part of the Block II series.","In 1994, a Milstar satellite (USAF designator USA-99) was launched on February 7. In 2002, two Milstar satellites were launched: USA-164 on January 16 and USA-169 on April 8.","In 1994, a Milstar satellite named USA-99 was launched on February 7 at 21:47:01 UTC using a Titan IV (401) A rocket. In 2002, a Milstar satellite named USA-164 was launched on January 16 at 00:30:00 UTC using a Titan IV (401) B rocket.","In 1994, a Milstar satellite (USAF designator USA-99) was launched on February 7. In 2002, a Milstar satellite (USAF designator USA-164) was launched on January 16.",Improved,Improved,Improved
+qtsumm_46,Yi-1.5-34B,46,Which game had the highest attendance? Summarize the basic information of that game.,"Table Title: 1999 New York Jets Season
+Table:
+Week | Date | Opponent | Result | Game Site | Attendance
+1 | 1999 - 09 - 12 | New England Patriots | L 30 - 28 | The Meadowlands | 78227
+2 | 1999 - 09 - 19 | Buffalo Bills | L 17 - 3 | Ralph Wilson Stadium | 68839
+3 | 1999 - 09 - 26 | Washington Redskins | L 27 - 20 | The Meadowlands | 78161
+4 | 1999 - 10 - 03 | Denver Broncos | W 21 - 13 | Mile High Stadium | 74181
+5 | 1999 - 10 - 11 | Jacksonville Jaguars | L 16 - 6 | The Meadowlands | 78216
+6 | 1999 - 10 - 17 | Indianapolis Colts | L 16 - 13 | The Meadowlands | 78112
+7 | 1999 - 10 - 24 | Oakland Raiders | L 24 - 23 | Network Associates Coliseum | 47326
+9 | 1999 - 11 - 07 | Arizona Cardinals | W 12 - 7 | The Meadowlands | 77857
+10 | 1999 - 11 - 15 | New England Patriots | W 24 - 17 | Foxboro Stadium | 59077
+11 | 1999 - 11 - 21 | Buffalo Bills | W 17 - 7 | The Meadowlands | 79285
+12 | 1999 - 11 - 28 | Indianapolis Colts | L 13 - 6 | Rca Dome | 56689
+13 | 1999 - 12 - 05 | New York Giants | L 41 - 28 | Giants Stadium | 78200
+14 | 1999 - 12 - 12 | Miami Dolphins | W 28 - 20 | The Meadowlands | 78246
+15 | 1999 - 12 - 19 | Dallas Cowboys | W 22 - 21 | Texas Stadium | 64271
+16 | 1999 - 12 - 27 | Miami Dolphins | W 38 - 31 | Pro Player Stadium | 74230
+17 | 2000 - 01 - 02 | Seattle Seahawks | W 19 - 9 | The Meadowlands | 78154
+","The game with the highest attendance was the Week 11 matchup between the Jets and the Buffalo Bills at The Meadowlands, which had a crowd of 79,285 in attendance. The Jets were victorious in this contest, scoring 17 points against the Bills' 7 points.","The game with the highest attendance was held on December 27, 1999, with 74,230 spectators attending the game against the Miami Dolphins at Pro Player Stadium. The New York Jets emerged victorious in this match with a score of 38-31.","The game with the highest attendance was held on November 21, 1999, with 79,285 spectators attending the game against the Buffalo Bills at The Meadowlands. The home team won the game with a score of 17-7.","The game with the highest attendance was held on November 21, 1999, with 79,285 spectators attending the game against the Buffalo Bills at The Meadowlands. The New York Jets won this match with a score of 17-7.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_55,Yi-1.5-34B,55,"In what decade were most of the top 10 attended games featuring the Scotland national team held, and did the team perform consistently during those matches?","Table Title: Scottish football attendance records - Scotland national team
+Table:
+Rank | Attendance | Date | Stadium | Opponent | Competition | Score
+1 | 149,415 | 17 April 1937 | Hampden Park | England | BHC | 3–1
+2 | 149,269 | 15 April 1939 | Hampden Park | England | BHC | 1–2
+3 | 137,438 | 25 April 1970 | Hampden Park | England | BHC | 0–0
+4 | 135,376 | 10 April 1948 | Hampden Park | England | BHC | 0–2
+5 | 134,544 | 3 April 1954 | Hampden Park | England | BHC / WCQG3 | 2–4
+6 | 134,504 | 5 April 1952 | Hampden Park | England | BHC | 1–2
+7 | 134,170 | 1 April 1933 | Hampden Park | England | BHC | 2–1
+8 | 134,000 | 24 February 1968 | Hampden Park | England | BHC / ECQG8 | 1–1
+9 | 133,300 | 15 April 1950 | Hampden Park | England | BHC | 0–1
+10 | 133,245 | 11 April 1964 | Hampden Park | England | BHC | 1–0
+","Most top 10 attended games of Scotland national team happened in 1950s and 1960s, with total six games. Other four games happened in 1930s and 1940s. Look at these games results, Scotland's performance notconsistent in these years. From four games in 1950s, they only win one game (1954) and for two games in 1960s, they win one game (1964) and one game is draw (1968). In different way, Scotland does better in 1930s, they win two games from three.","Most of the top 10 attended games featuring the Scotland national team were held in the 1930s and 1940s, with three games from each decade. During those matches, the team did not perform consistently, as their results include wins, losses, and ties.","Most of the top 10 attended games featuring the Scotland national team were held in the 1930s, with three games from that decade. The team did not perform consistently during these matches, as their results included three wins, five losses, and two draws.","Most of the top 10 attended games featuring the Scotland national team were held in the 1950s, with three games from that decade. During those matches, the team did not perform consistently, as their results include wins, losses, and ties.",Improved,Improved,Improved
+qtsumm_56,Yi-1.5-34B,56,"Summarize the basic information of the versions of the song ""L'Amour N'est Rien"" released in 2006 that shorter than 4:00.","Table Title: L'Amour N'Est Rien
+Table:
+Version | Length | Album | Remixed By | Year
+Single / Album Version | 5:03 | Avant Que L'Ombre | - | 2005
+Radio Edit | 3:40 | - | Laurent Boutonnat | 2006
+Instrumental | 5:03 | - | Laurent Boutonnat | 2006
+The Sexually No Remix | 3:30 | - | The Bionix | 2006
+Obsessed Club Mix | 5:47 | - | Fat Phaze | 2006
+Music Video | 3:40 | Music Videos Iv | - | 2006
+Patrice Strike & Teo Moss Remix | 5:04 | - | Patrice Strike And Teo Moss | 2006
+Live Version (Recorded In 2006) | 4:59 (Video) 5:05 (Audio) | Avant Que L'Ombre À Bercy | - | 2006
+","The song ""L'Amour N'est Rien"" was released in 2006 with seven different versions, three of which were shorter than 4:00. The Radio Edit done by Laurent Boutonnat and Music Video versions were both 3:40 in length, and the The Sexually No Remix was 3:30 by The Bionix.","The song ""L'Amour N'est Rien"" released in 2006 included two versions shorter than 4 minutes. The Radio Edit is 3 minutes and 40 seconds, remixed by Laurent Boutonnat, and The Sexually No Remix lasts 3 minutes and 30 seconds, remixed by The Bionix. Both versions were released as part of the album ""Avant Que L'Ombre,"" while The Sexually No Remix was also featured on the ""Music Videos Iv"" album.","In 2006, there are two versions of the song ""L'Amour N'est Rien"" that are shorter than 4 minutes. The ""Radio Edit"" version is 3 minutes and 40 seconds long and was remixed by Laurent Boutonnat. The ""Sexually No Remix"" is 3 minutes and 30 seconds long and was remixed by The Bionix.","The song 'L'Amour N'est Rien' released in 2006 included two versions shorter than 4 minutes. The Radio Edit is 3 minutes and 40 seconds, remixed by Laurent Boutonnat, and The Sexually No Remix lasts 3 minutes and 30 seconds, remixed by The Bionix. Neither version is listed as part of an album in the table.",Improved,Unchanged,Improved
+qtsumm_57,Yi-1.5-34B,57,"When comparing the Chevrolet and Ford manufacturers, which one had a higher average speed across their drivers in the race?","Table Title: 1987 Winston 500 - Qualifying
+Table:
+Grid | No. | Driver | Manufacturer | Speed | Owner
+1 | 9 | Bill Elliott | Ford | 212.809 | Harry Melling
+2 | 22 | Bobby Allison | Buick | 211.797 | Stavola Brothers
+3 | 28 | Davey Allison | Ford | 210.610 | Harry Ranier
+4 | 17 | Darrell Waltrip | Chevrolet | 210.471 | Rick Hendrick
+5 | 3 | Dale Earnhardt | Chevrolet | 210.360 | Richard Childress
+6 | 21 | Kyle Petty | Ford | 210.346 | Wood Brothers
+7 | 44 | Sterling Marlin | Oldsmobile | 210.194 | Billy Hagan
+8 | 11 | Terry Labonte | Chevrolet | 210.101 | Junior Johnson
+9 | 55 | Phil Parsons | Oldsmobile | 209.963 | Leo Jackson / Richard Jackson
+10 | 83 | Lake Speed | Oldsmobile | 209.963 | Lake Speed
+","When comparing the Chevrolet and Ford manufacturers in the 1987 Winston 500, it appears that Ford (211.255) had a higher average speed than Chevrolet (210.190) across their drivers in the race. ",Ford had a higher average speed across their drivers.,"To determine which manufacturer had a higher average speed, we calculate the average speed for both Chevrolet and Ford drivers. For Chevrolet, the drivers are Darrell Waltrip (210.471), Dale Earnhardt (210.360), and Terry Labonte (210.101). The average speed for Chevrolet is (210.471 + 210.360 + 210.101) / 3 = 210.3107 mph. For Ford, the drivers are Bill Elliott (212.809), Davey Allison (210.610), and Kyle Petty (210.346). The average speed for Ford is (212.809 + 210.610 + 210.346) / 3 = 211.255 mph. Therefore, Ford had a higher average speed across their drivers.","Chevrolet had a higher average speed across their drivers. The average speed for Chevrolet drivers (Darrell Waltrip, Dale Earnhardt, and Terry Labonte) is 210.310 mph, while the average speed for Ford drivers (Bill Elliott, Davey Allison, and Kyle Petty) is 211.255 mph.",Fully Factual,Fully Complete,Deteriorated
+qtsumm_59,Yi-1.5-34B,59,Summarize the basic information of the players who have the most caps.,"Table Title: United States National Rugby Union Team
+Table:
+Player | Position | Date Of Birth (Age) | Caps | Club / Province
+Chris Biller | Hooker | 11 October 1985 (Age28) | 26 | Sfgg
+Brian Doyle | Lock | 28 February 1984 (Age29) | 13 | Nyac
+Louis Stanfill | Lock | 30 May 1985 (Age28) | 41 | Vicenza Rangers
+John Quill | Flanker | 10 March 1990 (Age23) | 6 | London Irish
+Nic Johnson | Number 8 | 15 April 1983 (Age30) | 18 | Denver Barbarians
+Jj Gagiano | Number 8 | 14 August 1985 (Age28) | 14 | Mtm Lions
+Nese Malifa | Fly - Half | 24 September 1985 (Age28) | 24 | Glendale Raptors
+Adam Siddall | Fly - Half | 26 July 1988 (Age25) | 1 | Old Blue
+James Paterson | Wing | 11 April 1987 (Age26) | 12 | Glendale Raptors
+Takudzwa Ngwenya | Wing | 22 July 1985 (Age28) | 25 | Biarritz
+","The players with the most caps on the United States National Rugby Union Team is Louis Stanfill. He is 28 years old, playing the Lock position, and has earned 41 caps with Vicenza Rangers as his club / province.","Louis Stanfill, 28 years old (born May 30, 1985) and Takudzwa Ngwenya, also 28 years old (born July 22, 1985), have the most caps for the United States National Rugby Union Team, with 41 and 25 caps respectively. Stanfill plays as a lock and is associated with Vicenza Rangers, while Ngwenya is a wing player for Biarritz.","Louis Stanfill has the most caps with 41. He is 28 years old, born on May 30, 1985, and plays as a lock for Vicenza Rangers. Takudzwa Ngwenya has the second most caps with 25. He is also 28 years old, born on July 22, 1985, and plays as a wing for Biarritz.","Louis Stanfill, 28 years old (born May 30, 1985), has the most caps for the United States National Rugby Union Team with 41 caps. He plays as a lock and is associated with Vicenza Rangers. Takudzwa Ngwenya, also 28 years old (born July 22, 1985), has 25 caps and plays as a wing for Biarritz.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_63,Yi-1.5-34B,63,"How many of the top 21 tallest buildings in Omaha, Nebraska were primarily used for residential purposes? Can you identify any trends or patterns related to the years they were completed?","Table Title: List of tallest buildings in Omaha, Nebraska - Tallest habitable buildings
+Table:
+Picture | Rank | Name | Stories | Height | Year Completed | Primary Purpose | Source
+One First National Center is the tallest building in Omaha and the State of NE. | 1 | One First National Center | 45 | 634 feet (193 m) | 2002 | Office | 
+Woodmen Tower in Downtown Omaha | 2 | Woodmen Tower | 30 | 478 feet (146 m) | 1969 | Office | 
+Masonic Tower in Midtown Omaha. | 3 | Elmwood Tower | 22 | 320 feet (98 m) | 1963 | Residential | 
+Union Pacific Center | 4 | Union Pacific Center | 19 | 317 feet (97 m) | 2004 | Office | 
+The First National Center | 5 | First National Center (Omaha) | 22 | 295 feet (90 m) | 1971 | Office | 
+Mutual of Omaha Building, during 100th anniversary celebration in 2009. | 6 | Mutual of Omaha Building | 14 | 285 feet (87 m) | 1970 | Office | 
+AT&T Building in Downtown Omaha | 7 | AT&T Building (Omaha) | 16 | 265 feet (81 m) | 1919 | Office | 
+The Northern Natural Gas Building in downtown Omaha | 8 | Northern Natural Gas Building | 19 | 260 feet (79 m) | 1957 | Residential | 
+The 1200 Landmark Center in downtown Omaha | 9 | 1200 Landmark Center | 15 | 255 feet (78 m) | 1990 | Office | 
+The Omaha World Herald Building | 10 | Omaha World-Herald | 16 | 250 feet (76 m) | 1980 | Office | 
+The Omaha Double Tree Hotel. | 11 | Omaha Double Tree Hotel | 19 | 239 feet (73 m) | 1970 | Hotel | 
+The Lied Transplant Center on the UNMC campus. | 12 | Lied Transplant Center | 15 | 230 feet (70 m) | 1999 | Hospital(primarily) | 
+- | 13 | TD Ameritrade | 12 | 230 feet (70 m) | 2013 | Office | 
+Omaha's City National Bank Building, now known as The Orpheum Tower | 14 | Orpheum Tower | 16 | 219 feet (67 m) (67 m) | 1910 | Residential | 
+North Tower of Central Park Plaza | 15 | Central Park Plaza I | 16 | 213 feet (65 m) | 1982 | Office | 
+South Tower of Central Park Plaza | 16 | Central Park Plaza II | 16 | 213 feet (65 m) | 1982 | Office | 
+Kiewit Plaza | 17 | Kiewit Plaza | 15 | 212 feet (65 m) | 1961 | Office | 
+Kiewit Plaza | 18 | Farnam 1600 | 14 | 212 feet (65 m) | 1917 | Residential | 
+ | 19 | Westbrook Tower | 17 | 207 feet (63 m) | 1966 | Residential | 
+ | 20 | RiverFront Place Condos II | 15 | 202 feet (62 m) | 2011 | Residential | 
+ | 21 | Omaha Tower | 15 | 200 feet (61 m) | 1976 | Office | 
+","Of top 21 tall buildings in Omaha, Nebraska, 6 them mainly used for living. These living buildings finished in different years, from 1910 to 2011, early one is Orpheum Tower and last one is RiverFront Place Condos II. Not look like special pattern or fashion in years when these living buildings done, because finish in one hundred years time. But, should notice half of living buildings (3 of 6) was done in later half in 20 century, specially 1966, 1976, and 1982.","Out of the top 21 tallest buildings in Omaha, Nebraska, 8 (38.1%) were primarily used for residential purposes. There has been an increase in residential buildings being built in the past 50-60 years, with many residential buildings built after 2000. The taller buildings are predominantly office buildings, reflecting a shift towards residential skyscrapers in recent years.","Out of the top 21 tallest buildings in Omaha, Nebraska, 5 were primarily used for residential purposes. These buildings are Elmwood Tower (completed in 1963), Northern Natural Gas Building (completed in 1957), Orpheum Tower (completed in 1910), Farnam 1600 (completed in 1917), and Westbrook Tower (completed in 1966). There is no clear trend of an increase in residential buildings in recent years, as the completion years of these residential buildings are spread out from 1910 to 1966, with no residential buildings completed after 1966 in the top 21 tallest buildings.","Out of the top 21 tallest buildings in Omaha, Nebraska, 6 were primarily used for residential purposes. These buildings are Elmwood Tower (1963), Northern Natural Gas Building (1957), Orpheum Tower (1910), Farnam 1600 (1917), Westbrook Tower (1966), and RiverFront Place Condos II (2011). There is no clear trend of an increase in residential buildings being built after 2000, as only one of these residential buildings was completed after that year. The taller buildings are predominantly office buildings.",Improved,Improved,Fully Factual
+qtsumm_65,Yi-1.5-34B,65,"From the data given, how many contestants were from the same state?","Table Title: Nuestra Belleza México 2010 - Contestants
+Table:
+State | Contestant | Age | Height (m) | Hometown
+Aguascalientes | Estefanía Herrera García | 20 | 1.78 | Aguascalientes
+Aguascalientes | Gabriela Palacio Díaz De León | 21 | 1.76 | Aguascalientes
+Baja California | Nancy Marisol Galaz Piceno | 22 | 1.72 | Tijuana
+Baja California Sur | Karen Alicia Higuera Contreras | 19 | 1.82 | La Paz
+Campeche | Michelle Arjona Hernández | 18 | 1.73 | Campeche
+Coahuila | Cecilia Flores Nogueira | 23 | 1.78 | Torreón
+Chiapas | Adriana Grissel Hernández Cáseres | 22 | 1.80 | Tecpatán
+Chihuahua | Pamela Olivas Chaparro | 23 | 1.78 | Chihuahua
+Distrito Federal | Lucía Del Cueto Dávalos | 23 | 1.76 | Mexico City
+Durango | Vanessa Crispín Herrera | 19 | 1.70 | Gómez Palacio
+Guanajuato | Helena Estefanía Baca Anaya | 19 | 1.74 | León
+Guerrero | Suslim Patrón Jiménez | 20 | 1.72 | Chilpancingo
+Jalisco | Karin Cecilia Ontiveros Meza | 22 | 1.80 | Amatitán
+Jalisco | Eunice Guadalupe Sánchez Valencia | 18 | 1.77 | Guadalajara
+Michoacán | Karla Paulina Gutiérrez García | 21 | 1.80 | Morelia
+Morelos | Melissa Carolina Torres Ruiz | 20 | 1.72 | Cuernavaca
+Nayarit | Ana Priscila Zárate Cortez | 18 | 1.70 | Tepic
+Nuevo León | Cynthia Alejandra De la Vega Oates | 18 | 1.80 | Monterrey
+Oaxaca | Alejandra Díaz Scherenberg | 22 | 1.69 | Oaxaca
+Puebla | Ana Laura Gallardo Parada | 20 | 1.68 | Puebla
+Querétaro | María Perusquía Flores | 20 | 1.73 | Querétaro
+San Luis Potosí | Carmen Isabel Hernández Chávez | 20 | 1.78 | San Luis Potosi
+San Luis Potosí | Ana Paola Lastras Villaseñor | 22 | 1.76 | San Luis Potosi
+Sinaloa | Tiaré Kristal Oliva Elguezabal | 18 | 1.78 | Topolobampo
+Sonora | Erika Bernal López | 19 | 1.79 | Hermosillo
+Sonora | Jessica María Lerma Palomares | 19 | 1.79 | Huatabampo
+Tabasco | Ana Lilia Lucamendi González | 18 | 1.74 | Villahermosa
+Tamaulipas | Claudia Maribel González Elizondo | 22 | 1.76 | Cd. Victoria
+Veracruz | Diana Estefanía Botello Meza | 22 | 1.74 | Boca del Río
+Yucatán | María Fernanda López Cuéllar | 22 | 1.76 | Mérida
+Zacatecas | Stephanie Ávila Enciso | 19 | 1.73 | Jerez
+","From data given, 8 contestants come from same state. Particular, Aguascalientes, Jalisco,  San Luis Potosí and Sonora each have two contestants represent them in Nuestra Belleza México 2010 contest. ","From the given data, there were 4 contestants from the same state.","From the given data, there are two states with more than one contestant: Aguascalientes with two contestants (Estefanía Herrera García and Gabriela Palacio Díaz De León) and Sonora with two contestants (Erika Bernal López and Jessica María Lerma Palomares). Therefore, there are two states with multiple contestants.","From the given data, there were 2 contestants from Aguascalientes, 2 contestants from Jalisco, 2 contestants from San Luis Potosí, and 2 contestants from Sonora.",Unchanged,Improved,Fully Factual
+qtsumm_67,Yi-1.5-34B,67,Who were the flag bearers for Denmark at the Winter Olympics from 2000 to 2018 and which sports did they represent?,"Table Title: List of flag bearers for Denmark at the Olympics - 
+Table:
+# | Event year | Season | Flag bearer | Sport
+40 | 2018 | Winter | Elena Møller Rigas | Speed skating
+39 | 2016 | Summer | Caroline Wozniacki | Tennis
+38 | 2014 | Winter | Lene Nielsen | Curling
+37 | 2012 | Summer | Kim Wraae Knudsen | Canoeing
+36 | 2010 | Winter | Sophie Fjellvang-Sølling | Freestyle skiing
+35 | 2008 | Summer | Joachim Olsen | Athletics
+34 | 2006 | Winter | Dorthe Holm | Curling
+33 | 2004 | Summer | Eskild Ebbesen | Rowing
+32 | 2002 | Winter | Ulrik Schmidt | Curling
+31 | 2000 | Summer | Jesper Bank | Sailing
+30 | 1998 | Winter | Helena Blach Lavrsen | Curling
+29 | 1996 | Summer | Thomas Stuer-Lauridsen | Badminton
+28 | 1994 | Winter | Michael Tyllesen | Figure skating
+27 | 1992 | Summer | Jørgen Bojsen-Møller | Sailing
+26 | 1992 | Winter | Ebbe Hartz | Cross-country skiing
+25 | 1988 | Summer | Anne Grethe Jensen-Törnblad | Equestrian
+24 | 1988 | Winter | Lars Dresler | Figure skating
+23 | 1984 | Summer | Michael Markussen | Cycling
+22 | 1980 | Summer | Jørgen Lindhardsen | Sailing
+21 | 1976 | Summer | Judith Andersen | Rowing
+20 | 1972 | Summer | Peder Pedersen | Cycling
+19 | 1968 | Summer | Erik Hansen | Canoeing
+18 | 1968 | Winter | Kirsten Carlsen | Cross-country skiing
+17 | 1964 | Summer | Henning Wind | Sailing
+16 | 1964 | Winter | Svend Carlsen | Cross-country skiing
+15 | 1960 | Summer | Benny Schmidt | Modern pentathlon
+14 | 1960 | Winter | Kurt Stille | Speed skating
+13 | 1956 | Summer | Ole Hviid Jensen | Shooting
+12 | 1952 | Summer | Erik Swane Lund | Fencing
+11 | 1952 | Winter | Per Cock-Clausen | Figure skating
+10 | 1948 | Summer | Vagn Loft | Field hockey
+9 | 1948 | Winter | Knud Tønsberg | 
+8 | 1936 | Summer | Erik Hammer Sørensen | Fencing
+7 | 1932 | Summer | Axel Bloch | Fencing
+6 | 1928 | Summer | Marius Jørgensen | Athletics
+5 | 1924 | Summer | Peter Ryefelt | Fencing
+4 | 1920 | Summer | Robert Johnsen | Gymnastics
+3 | 1912 | Summer | Arne Højme | Race walk
+2 | 1908 | Summer | Aage Holm | Swimming
+1 | 1906 | Summer | Rudolf Andreas Kraft | 
+","From 2000 to 2018, Denmark have five flag bearers for Winter Olympics. In 2002, Ulrik Schmidt have flag for curling.In2006,Dorthe Holm have flag for freestylr skiing. In 2010, Sophie Fjellvang-Sølling hold flag and do freestyle skiing. In 2014,Lene Nielsen have flag for curing.In 2018, Elena Møller Rigas have Danish flag and do speed skating.","From 2000 to 2018, Denmark had four Winter Olympics flag bearers: Lene Nielsen (curling) in 2006, Dorthe Holm (curling) in 2010, Helena Blach Lavrsen (curling) in 1998, and Ulrik Schmidt (curling) in 2002. All four flag bearers represented Denmark in curling.","From 2000 to 2018, Denmark had four Winter Olympics flag bearers: Ulrik Schmidt (curling) in 2002, Dorthe Holm (curling) in 2006, Sophie Fjellvang-Sølling (freestyle skiing) in 2010, and Elena Møller Rigas (speed skating) in 2018.","From 2000 to 2018, Denmark had four Winter Olympics flag bearers: Ulrik Schmidt (curling) in 2002, Dorthe Holm (curling) in 2006 Sophie Fjellvang-Sølling (freestyle skiing) in 2010, and Elena Møller Rigas (speed skating) in 2018.",Improved,Improved,Improved
+qtsumm_68,Yi-1.5-34B,68,What were the different roles held by members in the International Olympic Committee and who occupied these positions?,"Table Title: List of members of the International Olympic Committee - Original members
+Table:
+Member | Country | Since | Until | Notes
+Mario Lucchesi-Palli | Italy | 1894 | 1894 | 
+Demetrios Vikelas | Greece | 1894 | 1897 | President (1894–1896)
+Arthur Russell, 2nd Baron Ampthill | Great Britain | 1894 | 1898 | 
+Alexei de Butowski | Russian Empire | 1894 | 1900 | 
+Leonard A. Cuff | New Zealand | 1894 | 1905 | 
+Charles Herbert | Great Britain | 1894 | 1906 | 
+José Benjamín Zubiaur | Argentina | 1894 | 1907 | 
+Ferenc Kemény | Austria-Hungary Austria-Hungary | 1894 | 1907 | First Secretary (1895–1907)
+Ernest Callot | France | 1894 | 1913 | Treasurer (1894–1895)
+Viktor Balck | Sweden Sweden-Norway | 1894 | 1921 | 
+William Milligan Sloane | United States | 1894 | 1924 | 
+Baron Pierre de Coubertin | France | 1894 | 1925 | President (1896–1925)
+Jiří Guth-Jarkovský | Bohemia | 1894 | 1943 | 
+","The original members of the International Olympic Committee held various roles within the organization. Demetrios Vikelas served as the President of the committee from 1894 to 1896. Ferenc Kemény held the position of First Secretary from 1895 to 1907. Furthermore, Ernest Callot served as the Treasurer from 1894 to 1895, and Baron Pierre de Coubertin served as president from 1984 to 1925.","The original members of the International Olympic Committee held various roles. Demetrios Vikelas of Greece was the first President (1894-1896). Arthur Russell of Great Britain succeeded him as President (1896-1899). Pierre de Coubertin of France served as President from 1896 to 1925. Ernest Callot of France was the Treasurer (1894-1895). Ferenc Kemény of Austria-Hungary was the First Secretary (1895-1907). Other notable roles include Mario Lucchesi-Palli, Alexei de Butowski, Leonard A. Cuff, Charles Herbert, José Benjamín Zubiaur, Viktor Balck, and William Milligan Sloane as original members and International Olympic Committee representatives.","The members of the International Olympic Committee held the following roles: Demetrios Vikelas from Greece was the President from 1894 to 1896. Pierre de Coubertin from France served as President from 1896 to 1925. Ernest Callot from France was the Treasurer from 1894 to 1895. Ferenc Kemény from Austria-Hungary was the First Secretary from 1895 to 1907. Other members, such as Mario Lucchesi-Palli from Italy, Arthur Russell from Great Britain, Alexei de Butowski from the Russian Empire, Leonard A. Cuff from New Zealand, Charles Herbert from Great Britain, José Benjamín Zubiaur from Argentina, Viktor Balck from Sweden, William Milligan Sloane from the United States, and Jiří Guth-Jarkovský from Bohemia, were part of the committee but did not have specific roles listed in the table.","The original members of the International Olympic Committee held various roles. Demetrios Vikelas of Greece was the first President (1894-1896). Pierre de Coubertin of France served as President from 1896 to 1925. Ernest Callot of France was the Treasurer (1894-1895). Ferenc Kemény of Austria-Hungary was the First Secretary (1895-1907). Other notable members include Mario Lucchesi-Palli, Arthur Russell, Alexei de Butowski, Leonard A. Cuff, Charles Herbert, José Benjamín Zubiaur, Viktor Balck, and William Milligan Sloane as original members and International Olympic Committee representatives.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_73,Yi-1.5-34B,73,Which Artist has the first and the last recorded album under the label 'Suburban Noize Records' according to the table?,"Table Title: Big B (rapper) - Studio albums
+Table:
+# | Artist | Title | Year | Label
+1 | 187 | Furious | 2001 | Big Whale
+2 | Big B | High Class White Trash | 2004 | Suburban Noize Records
+3 | OPM | For Them Asses | 2004 | Suburban Noize Records
+4 | Big B | White Trash Renegade | 2005 | Suburban Noize Records
+5 | OPM | California Poppy | 2006 | Suburban Noize Records
+6 | Big B | Random Stuff | 2006 | Suburban Noize Records
+7 | Big B | More To Hate | 2007 | Suburban Noize Records
+8 | OPM | Golden State of Mind | 2009 | Suburban Noize Records
+9 | Big B | American Underdog | 2009 | Suburban Noize Records
+10 | Big B | Good Times & Bad Advice | 2010 | Suburban Noize Records
+11 | Big B | Music for misfits | 2011 | Suburban Noize Records
+12 | Big B | Subnoize Collabos | 2011 | Suburban Noize Records
+13 | Big B | Fool's Gold | 2013 | Suburban Noize Records
+","From table, first record album of 'Suburban Noize Records' is made by Big B, having album name ""High Class White Trash"" in 2004. The last recorded album of same records by Big B too, called ""Fool's Gold,"" and release in 2013.","The artist with the first recorded album under the label 'Suburban Noize Records' is 187, with the album Furious released in 2001. The artist with the last recorded album under the label 'Suburban Noize Records' is Big B, with the album Fool's Gold released in 2013.","The artist with the first recorded album under the label 'Suburban Noize Records' is Big B, with the album 'High Class White Trash' released in 2004. The artist with the last recorded album under the label 'Suburban Noize Records' is Big B, with the album 'Fool's Gold' released in 2013.","The artist with the first recorded album under the label 'Suburban Noize Records' is Big B, with the album 'High Class White Trash' released in 2004. The artist with the last recorded album under the label 'Suburban Noize Records' is Big B, with the album 'Fool's Gold' released in 2013.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_74,Yi-1.5-34B,74,What were the percentages of change in total cargo for the listed airports from their prior year data? Can any trends be analysed from that?,"Table Title: List of busiest airports by cargo traffic - 2017 statistics
+Table:
+Rank | Airport | Location | Code (IATA/ICAO) | Rank Change | Total Cargo (tonnes) | % Change
+1. | Hong Kong Hong Kong International Airport | Chek Lap Kok, Islands, New Territories, Hong Kong | HKG/VHHH |  | 5,049,898 | 9.4%
+2. | United States Memphis International Airport | Memphis, Tennessee, United States | MEM/KMEM |  | 4,336,752 | 0.3%
+3. | China Shanghai Pudong International Airport | Pudong, Shanghai, China | PVG/ZSPD |  | 3,824,280 | 11.2%
+4. | South Korea Incheon International Airport | Incheon, Seoul National Capital Area, South Korea | ICN/RKSI | 1 | 2,921,691 | 7.6%
+5. | United States Ted Stevens Anchorage International Airport | Anchorage, Alaska, United States | ANC/PANC | 1 | 2,713,230 | 6.7%
+6. | United Arab Emirates Dubai International Airport | Dubai, United Arab Emirates | DXB/OMDB |  | 2,654,494 | 2.40%
+7. | United States Louisville International Airport | Louisville, Kentucky, United States | SDF/KSDF |  | 2,602,695 | 6.80%
+8. | Japan Narita International Airport | Narita, Chiba, Kantō, Honshū, Japan | NRT/RJAA | 2 | 2,336,427 | 7.9%
+9. | Taiwan Taiwan Taoyuan International Airport | Dayuan, Taoyuan, Taiwan | TPE/RCTP | 4 | 2,269,585 | 8.2%
+10. | France Charles de Gaulle Airport | Seine-et-Marne/Seine-Saint-Denis/Val-d'Oise, Île-de-France, France | CDG/LFPG | 1 | 2,195,229 | 2.8%
+","In 2017, the percentages of change in total cargo for the listed airports were as follows: Hong Kong International Airport saw a 9.4% increase, Memphis International Airport experienced a 0.3% increase, and Shanghai Pudong International Airport observed an 11.2% increase. Meanwhile, Incheon International Airport's cargo traffic grew by 7.6%, Ted Stevens Anchorage International Airport saw a 6.7% increase, Dubai International Airport grew by 2.4%, and Louisville International Airport experienced a 6.8% increase. Narita International Airport, Taiwan Taoyuan International Airport, and Charles de Gaulle Airport also increased their total cargo by 7.9%, 8.2%, and 2.8%, respectively. It can be analyzed that, overall, there was a positive trend in cargo traffic growth for all the listed airports in 2017.","The percentages of change in total cargo for the listed airports ranged from -2.4% to 11.2%. Hong Kong and China had the highest percentage increases, while Memphis experienced the lowest percentage increase. The trends show a substantial increase in cargo traffic in Asia, particularly in Hong Kong, China, and South Korea. Europe and North America have more modest increases in cargo traffic, with France slightly ahead of the United States and United Arab Emirates. The data indicates a shift in global cargo traffic, with Asia leading the growth.","The percentages of change in total cargo for the listed airports are as follows: Hong Kong International Airport (9.4%), Memphis International Airport (0.3%), Shanghai Pudong International Airport (11.2%), Incheon International Airport (7.6%), Ted Stevens Anchorage International Airport (6.7%), Dubai International Airport (2.40%), Louisville International Airport (6.80%), Narita International Airport (7.9%), Taiwan Taoyuan International Airport (8.2%), and Charles de Gaulle Airport (2.8%). The data shows that the highest percentage increase in cargo was at Shanghai Pudong International Airport with 11.2%, while Memphis International Airport had the lowest increase at 0.3%. Overall, there is a trend of significant cargo growth in Asian airports, with increases also observed in North American and European airports, though to a lesser extent.","The percentages of change in total cargo for the listed airports ranged from 0.3% to 11.2%. Shanghai Pudong International Airport in China had the highest percentage increase at 11.2%, followed by Hong Kong International Airport at 9.4%. The data shows significant increases in cargo traffic in Asia, particularly in China, Hong Kong, and South Korea. The United States airports, such as Memphis and Louisville, show smaller increases of 0.3% and 6.8% respectively. The United Arab Emirates' Dubai International Airport had a 2.4% increase, while France's Charles de Gaulle Airport had a 2.8% increase. Overall, the data indicates strong growth in cargo traffic in Asia.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_81,Yi-1.5-34B,81,Summarize the basic information of the tournaments that Sebasti√°n Prieto won with Jos√© Acasuso as his partnering.,"Table Title: Sebastián Prieto
+Table:
+Outcome | Date | Tournament | Surface | Partnering | Opponent In The Final | Score
+Winner | November 9 , 1998 | Santiago , Chile | Clay | Mariano Hood | Massimo Bertolini Devin Bowen | 7 - 6 , 6 - 7 , 7 - 6
+Winner | October 4 , 1999 | Palermo , Italy | Clay | Mariano Hood | Lan Bale Alberto Martín | 6 - 3 , 6 - 1
+Winner | January 28 , 2001 | Bogotá , Colombia | Clay | Mariano Hood | Martín Rodríguez André Sá | 6 - 2 , 6 - 4
+Winner | February 17 , 2003 | Buenos Aires , Argentina | Clay | Mariano Hood | Lucas Arnold Ker David Nalbandian | 6 - 2 , 6 - 2
+Winner | July 18 , 2005 | Stuttgart , Germany | Clay | José Acasuso | Mariano Hood Tommy Robredo | 7 - 6 (4) , 6 - 3
+Winner | September 12 , 2005 | Bucharest , Romania | Clay | José Acasuso | Victor Hănescu Andrei Pavel | 6 - 3 , 4 - 6 , 6 - 3
+Winner | January 30 , 2006 | Viña Del Mar , Chile | Clay | José Acasuso | František Čermák Leoš Friedl | 7 - 6 (2) , 6 - 4
+Winner | February 19 , 2007 | Buenos Aires , Argentina | Clay | Martín García | Albert Montañés Rubén Ramírez Hidalgo | 6 - 4 , 6 - 2
+Winner | February 2 , 2008 | Viña Del Mar , Chile | Clay | José Acasuso | Máximo González Juan Mónaco | 6 - 1 , 3 - 0 , Ret
+Winner | February 21 , 2010 | Buenos Aires , Argentina | Clay | Horacio Zeballos | Simon Greul Peter Luczak | 7 - 6 (4) , 6 - 3
+","Sebastián Prieto and José Acasuso won four tournaments together between 2005 and 2008. These tournaments included Stuttgart in Germany on July 18, 2005; Bucharest, Romania on September 12, 2005; Viña del Mar, Chile on January 30, 2006 and February 2nd , 2008. All four tournaments were played on clay courts. Prieto and Acasuso defeated Mariano Hood and Tommy Robredo in Stuttgart 7-6(4) , 6-3; Victor Hănescu and Andrei Pavel in Bucharest 6-3, 4-6, 6-3; František Čermák and Leoš Friedl in Viña del Mar 7-6(2) , 6-4 and Máximo González and Juan Mónacoin Viña del Mar 6-1, 3-0, Ret..","Sebastián Prieto won six tournaments with José Acasuso as his partnering. These tournaments were held in Stuttgart, Germany (July 18, 2005), Bucharest, Romania (September 12, 2005), Viña del Mar, Chile (January 30, 2006), Buenos Aires, Argentina (February 19, 2007), Viña del Mar, Chile (February 2, 2008), and Buenos Aires, Argentina (February 21, 2010). All of these tournaments had a clay surface. The pairs won five of these tournaments in straight sets, while they won one in straight sets after their opponents retired.","Sebastián Prieto won four tournaments with José Acasuso as his partner. These tournaments were held in Stuttgart, Germany on July 18, 2005, where they defeated Mariano Hood and Tommy Robredo with a score of 7-6 (4), 6-3; in Bucharest, Romania on September 12, 2005, where they defeated Victor Hănescu and Andrei Pavel with a score of 6-3, 4-6, 6-3; in Viña del Mar, Chile on January 30, 2006, where they defeated František Čermák and Leoš Friedl with a score of 7-6 (2), 6-4; and in Viña del Mar, Chile on February 2, 2008, where they defeated Máximo González and Juan Mónaco with a score of 6-1, 3-0, Ret. All of these tournaments were played on clay surfaces.","Sebastián Prieto won three tournaments with José Acasuso as his partnering. These tournaments were held in Stuttgart, Germany (July 18, 2005), Bucharest, Romania (September 12, 2005), and Viña del Mar, Chile (January 30, 2006). All of these tournaments had a clay surface. The pairs won two of these tournaments in straight sets, while they won one after their opponents retired.",Fully Factual,Fully Complete,Improved
+qtsumm_83,Yi-1.5-34B,83,Summarize the basic information of call sign with frequency of 103.5 Mhz.,"Table Title: Wzxv
+Table:
+Call Sign | Frequency Mhz | City Of License | Facility Id | Erp W | Height M ( Ft ) | Class | Fcc Info
+W227Bw | 93.3 | Cheektowaga | 151267 | 99 | - | D | Fcc
+W248At | 97.5 | Corfy | 150935 | 10 | - | D | Fcc
+W248Bc | 97.5 | Dansville | 86505 | 10 | - | D | Fcc
+W266Be | 101.1 | Auburn | 138601 | 27 | - | D | Fcc
+W273Af | 102.5 | Penn Yan | 86524 | 3 | - | D | Fcc
+W275Bl | 102.9 | Batavia | 150833 | 29 | - | D | Fcc
+W278Ah | 103.5 | Syracuse / Jamesville , New York | 81126 | 10 | - | D | Fcc
+W281At | 104.1 | Watkins Glen | 151635 | 10 | - | D | Fcc
+W283Au | 104.5 | Houghton | 151698 | 10 | - | D | Fcc
+","The call sign W278Ah is located in Syracuse/Jamesville, New York and has a facility ID of 81126. It operates on a frequency of 103.5 MHz with an ERP W of 10 and does not have a height noted. It is classified as a Class D station.","Call sign W281AH is associated with a frequency of 103.5 MHz. The station is located in Syracuse/Jamesville, New York and has a facility ID of 81126. It falls under class D.","The call sign associated with a frequency of 103.5 MHz is W278AH. The station is located in Syracuse/Jamesville, New York, has a facility ID of 81126, an ERP of 10 watts, and falls under class D.","Call sign W278AH is associated with a frequency of 103.5 MHz. The station is located in Syracuse/Jamesville, New York and has a facility ID of 81126. It falls under class D.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_94,Yi-1.5-34B,94,"How did the results vary when the attendance was more than 6,000 compared to when it was less than 6,000 in the games played at the College Park Center?","Table Title: College Park Center - Attendance
+Table:
+ | Attendance | Opponent | Date | Result
+1 | 6,421 | Oklahoma^ | Nov 16, 2012 | L 59–63
+2 | 6,336 | CSU Bakersfield | March 22, 2017 | L 76–80
+3 | 6,228 | UTSA^^ | Feb 1, 2012 | W 67–66
+4 | 6,107 | North Texas | Dec 3, 2015 | W 90–67
+5 | 5,590 | Georgia Southern | Feb 22, 2018 | W 70-49
+6 | 5,390 | Akron | March 20, 2017 | W 85-69
+7 | 5,272 | Texas State | Feb 11, 2012 | W 73–53
+8 | 5,033 | Little Rock^^^ | Jan 23, 2016 | L 62–68
+9 | 5,011 | Little Rock^^^ | Feb 29, 2017 | L 49–58
+10 | 4,837 | Utah State | March 2, 2013 | W 61–46
+","In game play at College Park Center, four time attendance more than 6,000. In these four game, only one win, other three have losing. But, six game with less than 6,000 people, five time winning and only one time losing.","In games with attendance over 6,000 at the College Park Center, the Mean Green had a 2-3 record, winning 40% of these contests. In contrast, in games with attendance under 6,000, the team had a 5-2 record, securing 71% of these matchups. This indicates that the Mean Green performed better and had a higher success rate in games with smaller attendances compared to those with larger crowds.","In games with attendance over 6,000 at the College Park Center, the team had a 2-3 record, winning against UTSA and North Texas, and losing to Oklahoma, CSU Bakersfield, and Georgia Southern. In contrast, in games with attendance under 6,000, the team had a 4-3 record, winning against Akron, Texas State, and Utah State, and losing to Little Rock twice. This indicates that the team had a slightly better win rate in games with smaller attendances compared to those with larger crowds.","In games with attendance over 6,000 at the College Park Center, the team had a 2-2 record, winning 50% of these contests. In contrast, in games with attendance under 6,000, the team had a 3-3 record, winning 50% of these matchups. This indicates that the team's performance was consistent, with a 50% win rate, regardless of whether the attendance was above or below 6,000.",Unchanged,Unchanged,Unchanged
+qtsumm_97,Yi-1.5-34B,97,How many trains were acquired in 2005 and what were the subsequent statuses of these trains?,"Table Title: Riviera Trains - Past fleet
+Table:
+Number | Class | Name | Livery | Year Acquired | Former Operator | Status
+37383 | 37 |  | Mainline Freight Blue | 2000 | ex-EWS | Scrapped
+47575 | 47 |  | Rail Express Parcels | 2004 | ex-EWS | Scrapped in 2010
+47705 | 47 | Guy Fawkes | LNWR Black | 1997 | ex-Waterman Rail | Sold to Porterbrook in 2002, and converted to 57303.
+47747 | 47 |  | EWS | 2007 | ex-EWS | Sold to Direct Rail Services in 2011.
+47769 | 47 | Resolve | Virgin CrossCountry | 2004 | ex-Porterbrook | Sold to Harry Needle Railroad Company in 2013.
+47805 | 47 |  | Oxford Blue | 2005 | ex-Porterbrook | Sold to Direct Rail Services in 2011.
+47812 | 47 |  | Oxford Blue | 2005 | ex-Porterbrook | Sold to Rail Operations Group in 2016.
+47815 | 47 | Great Western | Oxford Blue | 2005 | ex-Porterbrook | Sold to Rail Operations Group in 2016.
+47829 | 47 |  | British Transport Police | 2005 | ex-Porterbrook | Sold to Harry Needle Railroad Company in 2007.
+47839 | 47 | Pegasus | Oxford Blue | 2002 | ex-Porterbrook | Sold to Direct Rail Services in 2011.
+47843 | 47 | Vulcan | Oxford Blue | 2005 | ex-Porterbrook | Sold to Rail Operations Group in 2016.
+47847 | 47 |  | BR Blue Large Logo | 2005 | ex-Porterbrook | Sold to Rail Operations Group in 2016.
+47848 | 47 | Titan Star | Oxford Blue | 2005 | ex-Porterbrook | Sold to Rail Operations Group in 2016.
+47853 | 47 | Rail Express | XP64 Blue/Red | 2002 | ex-Porterbrook | Sold to Direct Rail Services in 2011.
+","In 2005, Riviera Trains buy seven trains, all of them are class 47. After they get, the trains have many changes in owner and status. The 47805 sold to Direct Rail Services in 2011, 47829 sold to Harry Needle Railroad Company in 2007, while the 47812, 47815, 47843, 47847 and 47848 sell to Rail Operations Group in 2016. As for the 47848, it was also sell to the Rail Operations Group in 2016.","In 2005, Riviera Trains acquired 5 trains: 47805, 47812, 47815, 47829, and 47843. The subsequent statuses of these trains are as follows: 47805 and 47812 were sold to Direct Rail Services in 2011, 47815, 47829, and 47843 were sold to Rail Operations Group in 2016.","In 2005, five trains were acquired: 47805, 47812, 47815, 47843, and 47847. The subsequent statuses of these trains are as follows: 47805 was sold to Direct Rail Services in 2011, 47812, 47815, 47843, and 47847 were sold to Rail Operations Group in 2016.","In 2005, 7 trains were acquired: 47805, 47812, 47815, 47829, 47843, 47847, and 47848. The subsequent statuses of these trains are as follows: 47805 was sold to Direct Rail Services in 2011, 47812, 47815, 47843, 47847, and 47848 were sold to Rail Operations Group in 2016, and 47829 was sold to Harry Needle Railroad Company in 2007.",Improved,Unchanged,Fully Factual
+qtsumm_102,Yi-1.5-34B,102,How many fights did Muhsin Corbbrey have in 2006? Summarize the basic information of those fights.,"Table Title: Muhsin Corbbrey
+Table:
+Date | Result | Opponent | Venue | Location | Method | Round | Time | Record
+2009 - 02 - 28 | Win | Troy Nelson | Shoreline Ball Room | Hilton Head , South Carolina , Usa | Decision | 6 | 3:00 | 6 - 2 - 1
+2006 - 09 - 15 | Win | Ryan Rayonec | Omar Shrine Temple | Mount Pleasant , South Carolina , Usa | Tko | 4 | 0:54 | 5 - 2 - 1
+2006 - 06 - 15 | Loss | Tim Coleman | Michael 'S Eighth Avenue | Glen Burnie , Maryland , Usa | Decision (Unanimous) | 6 | 3:00 | 4 - 2 - 1
+2006 - 04 - 21 | Win | Shelton Barnes | Omar Shrine Temple | Mount Pleasant , South Carolina , Usa | Tko | 1 | 2:43 | 4 - 1 - 1
+2006 - 03 - 09 | Win | Kareem Robinson | Michael 'S Eighth Avenue | Glen Burnie , Maryland , Usa | Decision (Unanimous) | 4 | 3:00 | 3 - 1 - 1
+2006 - 01 - 26 | Win | Anthony Abrams | Michael 'S Eighth Avenue | Glen Burnie , Maryland , Usa | Decision (Unanimous) | 4 | 3:00 | 2 - 1 - 1
+2005 - 11 - 26 | Win | Ben Lock | Show Place Arena | Upper Marlboro , Maryland , Usa | Decision (Unanimous) | 4 | 3:00 | 1 - 1 - 1
+2005 - 04 - 26 | Loss | Emanuel Gonzã¡Lez | Radisson Hotel | Miami , Florida , Usa | Decision (Unanimous) | 4 | 3:00 | 0 - 1 - 1
+2005 - 04 - 08 | Draw | Ricardo Planter | Club Med Sandpiper | Port St Lucie , Florida , Usa | Draw (Majority) | 4 | 3:00 | 0 - 0 - 1
+","In 2006, Muhsin Corbbrey had five fights. On January 26th, Corbbrey defeated Anthony Abrams by decision (unanimous) at Michael's Eighth Avenue. On March 9th, he scored a decision (unanimous) victory over Kareem Robinson at Michael's Eighth Avenue. On April 21st, he fought Shelton Barnes at the Omar Shrine Temple in Mount Pleasant, South Carolina and won the match by TKO in round 1. On June 15 he went up against Tim Coleman at Michael's Eighth Avenue in Glen Burnie, Maryland, losing the bout by decision (unanimous). Lastly, on September 15th, he overcame Ryan Rayonec by TKO in round four of their bout held at the Omar Shrine Temple.","In 2006, Muhsin Corbbrey had five fights. He won four fights by decision (against Troy Nelson, Ryan Rayonec, Shelton Barnes, and Kareem Robinson) and one by TKO (against Anthony Abrams). The only loss came against Tim Coleman by unanimous decision. These fights took place in South Carolina, Maryland, and Florida, in venues such as Shoreline Ball Room, Omar Shrine Temple, and Michael's Eighth Avenue. The fights were typically six rounds long, with one fight going to a draw. His record after these fights was 4-1-0.","In 2006, Muhsin Corbbrey had five fights. He won four of these fights and lost one. The details are as follows: On January 26, he won against Anthony Abrams at Michael's Eighth Avenue in Glen Burnie, Maryland, by unanimous decision in 4 rounds. On March 9, he won against Kareem Robinson at the same venue by unanimous decision in 4 rounds. On April 21, he won against Shelton Barnes at Omar Shrine Temple in Mount Pleasant, South Carolina, by TKO in the 1st round. On June 15, he lost to Tim Coleman at Michael's Eighth Avenue in Glen Burnie, Maryland, by unanimous decision in 6 rounds. On September 15, he won against Ryan Rayonec at Omar Shrine Temple in Mount Pleasant, South Carolina, by TKO in the 4th round. His record at the end of 2006 was 5-2-1.","In 2006, Muhsin Corbbrey had five fights. He won three fights by unanimous decision (against Kareem Robinson, Anthony Abrams, and Ryan Rayonec) and one by TKO (against Shelton Barnes). He lost one fight against Tim Coleman by unanimous decision. These fights took place in South Carolina and Maryland, in venues such as Omar Shrine Temple and Michael's Eighth Avenue. The fights were typically four rounds long, except for the fight against Tim Coleman, which was six rounds. His record after these fights was 5-2-1.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_104,Yi-1.5-34B,104,Which horses in the list have a rating of 118 and what countries were they trained in?,"Table Title: 2004–05 World Thoroughbred Racehorse Rankings - Full rankings for 2004–05
+Table:
+Rank | Rating | Horse | Age | Sex | Trained | Surface | Distance (m)
+1 | 123 | Roses in May (USA) | 5 | H | United States | Dirt | 2,000
+1 | 123 | Silent Witness (AUS) | 5 | G | Hong Kong | Turf | 1,000
+3 | 120 | Grand Armee (AUS) | 6 | G | Australia | Turf | 2,000
+4 | 119 | Makybe Diva (GB) | 6 | M | Australia | Turf | 2,400
+4 | 119 | Vengeance of Rain (NZ) | 4 | G | Hong Kong | Turf | 2,000
+4 | 119 | Vinnie Roe (IRE) | 7 | G | Ireland | Turf | 3,200
+7 | 118 | Bullish Luck (USA) | 6 | G | Hong Kong | Turf | 1,600 / 2,000
+7 | 118 | Elvstroem (AUS) | 4 | C | Australia | Turf | 1,777 / 1,800 / 2,400
+7 | 118 | Fastnet Rock (AUS) | 3 | C | Australia | Turf | 1,000
+7 | 118 | Savabeel (AUS) | 3 | C | Australia | Turf | 2,040
+11 | 117 | Greys Inn (USA) | 4 | C | UAE | Turf | 2,000 / 2,400
+11 | 117 | Mummify (AUS) | 5 | G | Australia | Turf | 2,000
+11 | 117 | Starcraft (NZ) | 4 | C | Australia / GB | Turf | 1,600
+11 | 117 | Touch of Land (FR) | 5 | H | France | Turf | 2,000
+15 | 116 | Fields of Omagh (AUS) | 7 | G | Australia | Turf | 2,040
+15 | 116 | Phoenix Reach (IRE) | 5 | H | Great Britain | Turf | 2,400
+17 | 115 | Alexander Goldrun (IRE) | 4 | F | Ireland | Turf | 2,000
+17 | 115 | Cape of Good Hope (GB) | 7 | G | Hong Kong | Turf | 1,000 / 1,200
+17 | 115 | Dynever (USA) | 5 | H | United States | Dirt | 2,000
+17 | 115 | Firebreak (GB) | 5 | G | UAE | Turf | 1,600
+17 | 115 | Regal Roller (AUS) | 5 | G | Australia | Turf | 1,400
+17 | 115 | Tycoon (GB) | 4 | C | UAE | Turf | 2,400
+17 | 115 | Yard-Arm (SAF) | 5 | G | UAE | Turf | 1,600
+","The horses with rating of 118 in list are Bullish Luck, Elvstroem, Fastnet Rock and Savabeel. They were get training in Hong Kong and Australia, where Bullish Luck trained in Hong Kong and others, Elvstroem, Fastnet Rock and Savabeel trained in Australia.","Three horses have a rating of 118: Bullish Luck (USA), Elvstroem (AUS), and Fastnet Rock (AUS). Bullish Luck was trained in the United States, while Elvstroem and Fastnet Rock were both trained in Australia.","Five horses have a rating of 118: Bullish Luck (USA), Elvstroem (AUS), Fastnet Rock (AUS), Savabeel (AUS), and Vinnie Roe (IRE). Bullish Luck was trained in Hong Kong, Elvstroem, Fastnet Rock, and Savabeel were trained in Australia, and Vinnie Roe was trained in Ireland.","Three horses have a rating of 118: Bullish Luck (USA), Elvstroem (AUS), and Fastnet Rock (AUS). Bullish Luck was trained in Hong Kong, while Elvstroem and Fastnet Rock were both trained in Australia.",Deteriorated,Fully Complete,Improved
+qtsumm_106,Yi-1.5-34B,106,Summarize the basic information of the specimens collected at altitude of App 1580 M (5184Ft).,"Table Title: Large Mindoro Forest Mouse
+Table:
+Number (Cmnh) | Number (Pnm) | Date | Site | Altitude | Sex And Other Data
+634 | 3475 | - | 3 | App 1900 M (6234Ft) | Male
+635 | 3476 | - | 3 | App 1900 M (6234Ft) | Female
+636 | - | - | 3 | App 1900 M (6234Ft) | Female
+637 | 3477 | - | 3 | App 1900 M (6234Ft) | Male
+639 | - | - | 3 | App 1900 M (6234Ft) | Male
+640 | - | - | 3 | App 1900 M (6234Ft) | Male
+641 | 3478 | - | 3 | App 1900 M (6234Ft) | Male
+642 | - | May 28 | 2 | App 1255 M (4117Ft) | Young Male
+643 | 3439 | June 1 | 2 | App 1255 M (4117Ft) | Adult Female
+644 | - | June 4 | 1 | App 1580 M (5184Ft) | Young Male
+645 | - | June 7 | 1 | App 1580 M (5184Ft) | Young Male
+646 | - | June 7 | 1 | App 1700 M (5577Ft) | Adult Female
+647 | - | June 9 | 1 | App 1700 M (5577Ft) | Young Adult Male
+648 | 3480 | June 10 | 1 | App 1700 M (5577Ft) | Adult Male
+649 | 3481 | June 11 | 1 | App 1700 M (5577Ft) | Old Male
+650 | 3482 | June 12 | 1 | App 1580 M (5184Ft) | Adult Male ( Holotype )
+","Three specimens were collected at the altitude of App 1580 M (5184Ft). Specimen 644 was collected on June 4th and identified as a young male, specimen 645 was collected on June 7th and also identified as a young male, and specimen 650 was collected on June 12th and identified as an adult male (Holotype).","At the altitude of App 1580 M (5184 Ft), a total of 3 specimens of Large Mindoro Forest Mouse were collected: one young male (June 4), one young male (June 7), and one adult male (June 12). The specimens were collected between May 28 and June 12.","At the altitude of App 1580 M (5184 Ft), a total of 3 specimens were collected: one young male on June 4, another young male on June 7, and one adult male (holotype) on June 12.","At the altitude of App 1580 M (5184 Ft), a total of 3 specimens were collected: one young male on June 4, one young male on June 7, and one adult male (holotype) on June 12.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_112,Yi-1.5-34B,112,"Which countries have played the most games against Wales at St. Helen's Rugby and Cricket Ground between 1945 and 1978, and what were the outcomes of these games?","Table Title: St. Helen's Rugby and Cricket Ground - Rugby League Internationals
+Table:
+Game# | Date | Result | Attendance | Notes
+1 | 24 November 1945 | Wales def. England 26–10 | 30,000 | 1945–46 European Rugby League Championship
+2 | 16 November 1946 | England def. Wales 19–5 | 25,000 | 1946–47 European Rugby League Championship
+3 | 12 April 1947 | Wales def. France 12–5 | 12,000 | 1946–47 European Rugby League Championship
+4 | 18 October 1947 | New Zealand def. Wales 28–20 | 18,283 | 1947 Wales vs New Zealand
+5 | 6 December 1947 | England def. Wales 18–7 | 10,000 | 1947–48 European Rugby League Championship
+6 | 20 March 1948 | France def. Wales 20–12 | 6,462 | 1948–49 European Rugby League Championship
+7 | 20 November 1948 | Australia def. Wales 12–5 | 9,224 | 1948–49 Kangaroo Tour
+8 | 5 February 1949 | Wales def. England 14–10 | 9,553 | 1948–49 European Rugby League Championship
+9 | 31 March 1951 | Other Nationalities def. Wales 27–21 | 5,000 | 1950–51 European Rugby League Championship
+10 | 16 February 1975 | Wales def. France 21–8 | 23,000 | 1975 European Rugby League Championship
+11 | 19 October 1975 | Australia def. Wales 18–6 | 11,112 | 1975 Rugby League World Cup
+12 | 2 November 1975 | Wales def. New Zealand 25–24 | 2,645 | 1975 Rugby League World Cup
+13 | 15 October 1978 | Australia def. Wales 8–3 | 4,250 | 1978 Kangaroo Tour
+","Between 1945 to 1978, England and Australia have most games play with Wales at St. Helen's Rugby and Cricket Ground. England have four encounters with Wales, resulting two wins for every team. Australia faced Wales three times during this time, win all three games against Welsh side.","Between 1945 and 1978, England and Wales played five games against each other at St. Helen's Rugby and Cricket Ground. Wales won three games (1945, 1947, 1951) while England won one game (1946). In 1948, the game ended in a draw. Wales played three games against France, winning two (1947, 1949, 1975) and losing one (1975). Wales played two test matches against Australia, losing both in 1947 and 1978. They played one test match against New Zealand in 1975, which they won. And they played one game against Other Nationalities in 1951, which they lost.","Between 1945 and 1978, at St. Helen's Rugby and Cricket Ground, Wales played the most games against England, with a total of four matches. The outcomes were as follows: Wales won two games (24 November 1945 and 5 February 1949), and England won two games (16 November 1946 and 6 December 1947). Wales also played two games against France, winning one (12 April 1947) and losing one (20 March 1948). Additionally, Wales played one game against New Zealand on 18 October 1947, which they lost. They played one game against Australia on 20 November 1948, which they lost. Lastly, Wales played one game against Other Nationalities on 31 March 1951, which they lost.","Between 1945 and 1978, England played three games against Wales at St. Helen's Rugby and Cricket Ground. England won two games (1946, 1947), and Wales won one game (1949). Wales played two games against France, winning one (1975) and losing one (1948). Wales played two test matches against Australia, losing both in 1948 and 1975. They played one test match against New Zealand in 1947, which they lost. Wales also played one game against Other Nationalities in 1951, which they lost.",Improved,Improved,Unchanged
+qtsumm_113,Yi-1.5-34B,113,"From the information about the different buildings in Christchurch, what seems to be the most frequent purpose these tallest buildings serve and which architects and builders have contributed to more than one of these buildings?","Table Title: List of tallest buildings in Christchurch - Tallest buildings
+Table:
+Rank | Name | Height m (feet) | Floors | Year | Purpose | Architect | Builder | Notes | Refs
+1 | Pacific Tower, 166 Gloucester St | 86 (282) | 23 | 2010 | Hotel/Residential | Rob Campbell | AMC Construction | Reopened 1 May 2013 | 
+2 | Crowne Plaza Hotel (former Forsyth Barr Building), 764 Colombo St | 70 (230) | 19 | 1989 | Hotel | Warren and Mahoney | Paynter Construction | Reopened 1 July 2017 as Crowne Plaza Hotel | 
+3 | Rydges Hotel (former Noah's), 170 Oxford Tce | 60 (200) | 15 | 1975 | Hotel | Donald Crone & Associates | Fletcher Construction | To be repaired | 
+4 | Acute Services Building, Christchurch Hospital, 2 Riccarton Ave | 58.8 (193) | 10 | 2018 | Hospital | Katoa Health | Schick Construction and Leighton Holdings | Tallest building under construction since the earthquakes | 
+5 | James Hight Building, University of Canterbury, 20 Kirkwood Ave | 53 (174) | 11 | 1974 | Library/Office | Ministry of Works | Williams Construction | Reopened 2013 | 
+6 | University of Otago, Christchurch Medical School, 2 Riccarton Ave | 50 (160) | 12 | 1973 | School | Ministry of Works | Fletcher Construction | Reopened 2013 | 
+7 | Novotel Hotel, 50 Cathedral Sq | 45 (148) | 14 | 2010 | Hotel | Dalman Architecture | Fletcher Construction | Reopened 19 August 2013 | 
+8 | Distinction Hotel (formerly the Millennium Christchurch), 14 Cathedral Sq | 45 (148) | 14 | 1974 | Hotel | Hank Henning | Fletcher Construction | Reopened 6 March 2018 | 
+9 | Anthony Harper Tower (Former HSBC Club Tower), 62 Worcester Blvd | 40 (130) | 12 | 2010 | Office | Weirwalker Architecture | Hawkins Construction | Reopened 30 May 2011 | 
+10 | Telecom Building, 31 Cathedral Sq | 40 (130) | 12 | 1992 | Office | Griffith Moffat and Partners | Hawkins Construction | Partially reopened | 
+11 | Christchurch Civic Offices (former Post Centre), 53 Hereford St | 36.6 (120) | 8 | 1981 | Office | Athfield Architects | Hawkins Construction | Reopened October 2011 | 
+12 | Oxford Apartments, 66 Oxford Tce | 36 (118) | 12 | 2005 | Residential | Warren and Mahoney | C. S. Luney Ltd | To be repaired | 
+13 | The Gloucester, 28 Gloucester St | 35 (115) | 10 | 1991 | Residential | Wilkie & Bruce | C. S. Luney Ltd | Open | 
+14 | State Insurance Building, 116 Worcester St | 35 (115) | 10 | 1970 | Office | Collins & Son | W. Williamson & Sons | Fate undetermined | 
+15 | 161 Hereford Suites (former Harmony Towers), 161 Hereford St | 35 (115) | 10 | 1988 | Hotel | Gabites Porter & Partners | Highcroft Properties | To be repaired | 
+","From the information give about tallest buildings in Christchurch, it look like hotels are the most common use for these buildings, with six out of fifteen buildings list being hotels. The architecture company Warren and Mahoney has make two of these buildings, while the construction company Fletcher Construction has work on five of them. Also, Hawkins Construction has help in the build of four buildings on the list.","Most of Christchurch's tallest buildings serve purposes such as office space, hotels, and residential homes. Architects Warren and Mahoney and Dalman Architecture have multiple contributions to Christchurch's tallest structures, while Fletcher Construction, Hawkins Construction, and AMC Construction appear frequently as builders.","The most frequent purpose of Christchurch's tallest buildings is for hotels, as seen in buildings like the Pacific Tower, Crowne Plaza Hotel, Rydges Hotel, Novotel Hotel, and Distinction Hotel. The architects who have contributed to more than one of these buildings include Warren and Mahoney, who designed both the Crowne Plaza Hotel and the Oxford Apartments. The builders who have worked on multiple buildings are Fletcher Construction, involved in the Rydges Hotel, Novotel Hotel, and Distinction Hotel, and Hawkins Construction, which built the Anthony Harper Tower, Telecom Building, and Christchurch Civic Offices.","Most of Christchurch's tallest buildings serve purposes such as office space, hotels, and residential homes. Architect Warren and Mahoney has contributed to more than one of these buildings, while Fletcher Construction and Hawkins Construction appear frequently as builders.",Fully Factual,Improved,Unchanged
+qtsumm_114,Yi-1.5-34B,114,"Which artists in the contest achieved a top 5 position and what are the notable characteristics (e.g., song language, number of points) of their entries?","Table Title: Eurovision Song Contest 1991 - Results
+Table:
+Draw | Country | Artist | Song | Language | Place | Points
+01 | Yugoslavia | Baby Doll | ""Brazil"" (Бразил) | Serbo-Croatian | 21 | 1
+02 | Iceland | Stefán & Eyfi | ""Nína"" | Icelandic | 15 | 26
+03 | Malta | Georgina & Paul Giordimaina | ""Could It Be"" | English | 6 | 106
+04 | Greece | Sophia Vossou | ""I anixi"" (Η άνοιξη) | Greek | 13 | 36
+05 | Switzerland | Sandra Simó | ""Canzone per te"" | Italian | 5 | 118
+06 | Austria | Thomas Forstner | ""Venedig im Regen"" | German | 22 | 0
+07 | Luxembourg | Sarah Bray | ""Un baiser volé"" | French | 14 | 29
+08 | Sweden | Carola | ""Fångad av en stormvind"" | Swedish | 1 | 146
+09 | France | Amina | ""C'est le dernier qui a parlé qui a raison"" | French | 2 | 146
+10 | Turkey | İzel Çeliköz, Reyhan Karaca & Can Uğurluer | ""İki Dakika"" | Turkish | 12 | 44
+11 | Ireland | Kim Jackson | ""Could It Be That I'm In Love"" | English | 10 | 47
+12 | Portugal | Dulce Pontes | ""Lusitana paixão"" | Portuguese | 8 | 62
+13 | Denmark | Anders Frandsen | ""Lige der hvor hjertet slår"" | Danish | 19 | 8
+14 | Norway | Just 4 Fun | ""Mrs. Thompson"" | Norwegian | 17 | 14
+15 | Israel | Duo Datz | ""Kan"" (כאן) | Hebrew | 3 | 139
+16 | Finland | Kaija Kärkinen | ""Hullu yö"" | Finnish | 20 | 6
+17 | Germany | Atlantis 2000 | ""Dieser Traum darf niemals sterben"" | German | 18 | 10
+18 | Belgium | Clouseau | ""Geef het op"" | Dutch | 16 | 23
+19 | Spain | Sergio Dalma | ""Bailar pegados"" | Spanish | 4 | 119
+20 | United Kingdom | Samantha Janus | ""A Message to Your Heart"" | English | 10 | 47
+21 | Cyprus | Elena Patroklou | ""SOS"" | Greek | 9 | 60
+22 | Italy | Peppino di Capri | ""Comme è ddoce 'o mare"" | Neapolitan | 7 | 89
+","In the 1991 Eurovision Song Contest, the artists who achieved a top 5 position were Carola from Sweden, Amina from France, Duo Datz from Israel, Sergio Dalma from Spain, and Sandra Simó from Switzerland. Carola's song ""Fångad av en stormvind"" was sung in Swedish and secured first place with 146 points. Amina's French song ""C'est le dernier qui a parlé qui a raison"" also earned 146 points but came in second place, while Duo Datz's Hebrew song ""Kan"" received 139 points and took third place. Sergio Dalma's Spanish entry ""Bailar pegados"" and Sandra Simó's Italian song ""Canzone per te"" came in fourth and fifth with 119 and 118 points, respectively.","In the Eurovision Song Contest 1991, Carola from Sweden, Amina from France, Duo Datz from Israel, Sergio Dalma from Spain, and Clouseau from Belgium achieved top 5 positions. Carola's ""Fångad av en stormvind"" (Swedish language) received 146 points, tying with Amina's ""C'est le dernier qui a parlé qui a raison"" (French), which also garnered 146 points. Duo Datz's ""Kan"" (Hebrew) earned 139 points, while Sergio Dalma's ""Bailar pegados"" (Spanish) received 119 points. Lastly, Clouseau's ""Geef het op"" (Dutch) got 23 points, securing the fifth position.","In the Eurovision Song Contest 1991, the artists who achieved a top 5 position were Carola from Sweden, Amina from France, Sandra Simó from Switzerland, Duo Datz from Israel, and Sergio Dalma from Spain. Carola's song ""Fångad av en stormvind"" was performed in Swedish and received 146 points, tying with Amina's ""C'est le dernier qui a parlé qui a raison"" performed in French, which also received 146 points. Sandra Simó's ""Canzone per te"" was performed in Italian and earned 118 points. Duo Datz's ""Kan"" was performed in Hebrew and received 139 points. Sergio Dalma's ""Bailar pegados"" was performed in Spanish and received 119 points.","In the Eurovision Song Contest 1991, Carola from Sweden, Amina from France, Duo Datz from Israel, Sergio Dalma from Spain, and Sandra Simó from Switzerland achieved top 5 positions. Carola's ""Fångad av en stormvind"" (Swedish language) received 146 points, tying with Amina's ""C'est le dernier qui a parlé qui a raison"" (French), which also garnered 146 points. Duo Datz's ""Kan"" (Hebrew) earned 139 points, while Sergio Dalma's ""Bailar pegados"" (Spanish) received 119 points. Sandra Simó's ""Canzone per te"" (Italian) got 118 points, securing the fifth position.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_116,Yi-1.5-34B,116,What are the trends in terms of Southport Australian Football Club's scores throughout the years and how did these scores compare to their opponents?,"Table Title: Southport Australian Football Club - Premierships (22)
+Table:
+No. | Year | Competition | Opponent | Score | Venue
+1 | 1961 | GCAFL | Ipswich | 9.12 (66) - 7.11 (53) | Labrador Sports Ground
+2 | 1962 | GCAFL | Currumbin Lions | 9.18 (72) - 2.7 (19) | Labrador Sports Ground
+3 | 1966 | GCAFL | Surfers Paradise Demons | 14.24 (108) - 7.16 (58) | Salk Oval
+4 | 1975 | GCAFL | Coolangatta Blues | 26.16 (172) - 17.16 (118) | Salk Oval
+5 | 1976 | GCAFL | Broadbeach Cats | 14.11 (95) - 9.14 (68) | Salk Oval
+6 | 1977 | GCAFL | Coolangatta Blues | 22.18 (150) - 13.9 (87) | Salk Oval
+7 | 1979 | GCAFL | Coolangatta Blues | 17.16 (118) - 16.19 (115) | Salk Oval
+8 | 1980 | GCAFL | Palm Beach Currumbin Lions | 17.18 (120) - 15.8 (98) | Salk Oval
+9 | 1983 | QAFL | Morningside Panthers | 13.12 (90) - 12.5 (77) | Windsor Park
+10 | 1985 | QAFL | Mayne Tigers | 11.8 (74) - 10.11 (71) | Windsor Park
+11 | 1987 | QAFL | Windsor-Zillmere Eagles | 13.17 (75) - 11.6 (72) | Windsor Park
+12 | 1989 | QAFL | Windsor-Zillmere Eagles | 16.17 (113) - 12.5 (77) | Brisbane Cricket Ground
+13 | 1990 | QAFL | Morningside Panthers | 22.14 (146) - 12.15 (87) | Brisbane Cricket Ground
+14 | 1992 | QAFL | Morningside Panthers | 14.19 (94) - 12.9 (80) | Brisbane Cricket Ground
+15 | 1997 | QSFL | Mount Gravatt Vultures | 26.13 (169) - 11.9 (75) | Windsor Park
+16 | 1998 | QSFL | Morningside Panthers | 12.15 (87) - 11.10 (76) | Giffin Park
+17 | 1999 | QSFL | North Brisbane Eagles | 15.14 (104) - 9.7 (61) | Giffin Park
+18 | 2000 | QAFL | North Brisbane Eagles | 10.8 (68) - 8.11 (59) | Giffin Park
+19 | 2005 | QAFL | Morningside Panthers | 16.15 (11) - 6.14 (50) | Brisbane Cricket Ground
+20 | 2006 | QAFL | Zillmere Eagles | 17.14 (116) - 16.8 (104) | Carrara Stadium
+21 | 2008 | QAFL | Morningside Panthers | 18.7 (115) - 15.17 (107) | Carrara Stadium
+22 | 2018 | NEAFL | Sydney Swans Reserves | 14.6 (90) - 5.5 (35) | Fankhauser Reserve
+","In many years, Southport Australia Football Club have score more high in premiership games than other teams. This can see by their 22 wins. Their score ability become better over time. They have more big wins in recent years, like 2018 game against Sydney Swans Reserves, their score is 14.6 (90) and opponent score is 5.5 (35). But need to say, club also have close matches with small winning difference, like 1985 game against Mayne Tigers, that score is 11.8 (74) - 10.11 (71). In total, Southport Australia Football Club show good score trend in their premiership time.","The Southport Australian Football Club's scores generally increased over the years, with some fluctuations. Their opponents' scores also increased, but not as significantly as Southport's. In most premierships, Southport's scores were higher than their opponents', indicating a strong performance. However, some games had close scores, indicating competitive matchups. Overall, the data shows a trend of improvement for Southport and consistent competitive performance in comparison to their opponents.","The Southport Australian Football Club's scores show a trend of generally high performance across the years, with some fluctuations. In the early years, such as 1961 and 1962, Southport scored 66 and 72 points respectively, winning both matches. By the mid-1970s, their scores increased significantly, with a notable score of 172 points in 1975 against Coolangatta Blues. In the 1980s, Southport continued to perform well, with scores like 120 points in 1980 and 146 points in 1990. In the 1990s, they maintained high scores, such as 169 points in 1997. In the 2000s, their scores remained competitive, with 116 points in 2006 and 115 points in 2008. By 2018, Southport scored 90 points against the Sydney Swans Reserves. Throughout these years, Southport's scores were often higher than their opponents', indicating strong performances. For example, in 1975, they scored 172 points compared to Coolangatta Blues' 118 points, and in 1997, they scored 169 points against Mount Gravatt Vultures' 75 points. However, there were also close matches, such as in 1979, where they won by just 3 points against Coolangatta Blues. Overall, Southport's scores generally surpassed their opponents', reflecting a trend of strong and competitive performances.","The Southport Australian Football Club's scores varied throughout the years, with no clear trend of consistent increase. Their scores were often higher than their opponents', indicating strong performances in many matches. However, there were fluctuations, and some games had close scores, showing competitive matchups. The data does not support a general trend of increasing scores for either Southport or their opponents over the years.",Unchanged,Improved,Deteriorated
+qtsumm_119,Yi-1.5-34B,119,Summarize the basic information of the tournaments that Sebasti√°n Prieto won with Jos√© Acasuso as his partnering.,"Table Title: Sebastián Prieto
+Table:
+Outcome | Date | Tournament | Surface | Partnering | Opponent In The Final | Score
+Winner | November 9 , 1998 | Santiago , Chile | Clay | Mariano Hood | Massimo Bertolini Devin Bowen | 7 - 6 , 6 - 7 , 7 - 6
+Winner | October 4 , 1999 | Palermo , Italy | Clay | Mariano Hood | Lan Bale Alberto Martín | 6 - 3 , 6 - 1
+Winner | January 28 , 2001 | Bogotá , Colombia | Clay | Mariano Hood | Martín Rodríguez André Sá | 6 - 2 , 6 - 4
+Winner | February 17 , 2003 | Buenos Aires , Argentina | Clay | Mariano Hood | Lucas Arnold Ker David Nalbandian | 6 - 2 , 6 - 2
+Winner | July 18 , 2005 | Stuttgart , Germany | Clay | José Acasuso | Mariano Hood Tommy Robredo | 7 - 6 (4) , 6 - 3
+Winner | September 12 , 2005 | Bucharest , Romania | Clay | José Acasuso | Victor Hănescu Andrei Pavel | 6 - 3 , 4 - 6 , 6 - 3
+Winner | January 30 , 2006 | Viña Del Mar , Chile | Clay | José Acasuso | František Čermák Leoš Friedl | 7 - 6 (2) , 6 - 4
+Winner | February 19 , 2007 | Buenos Aires , Argentina | Clay | Martín García | Albert Montañés Rubén Ramírez Hidalgo | 6 - 4 , 6 - 2
+Winner | February 2 , 2008 | Viña Del Mar , Chile | Clay | José Acasuso | Máximo González Juan Mónaco | 6 - 1 , 3 - 0 , Ret
+Winner | February 21 , 2010 | Buenos Aires , Argentina | Clay | Horacio Zeballos | Simon Greul Peter Luczak | 7 - 6 (4) , 6 - 3
+","Sebastián Prieto won four tournaments with José Acasuso as his partnering. The first tournament was held in Vienna Del Mar, Chile on January 30th, 2006 and they beat František Čermák and Leoš Friedl with a score of 7-6 (2) and 6-4. These two went on to win their second tournament held in Romania at Bucharest on September 12th, 2005. This time they beat Victor Hănescu and Andrei Pavel by a score of 6-3, 4-6 and 6-3. Sebastián Prieto won his third tournament with José Acasuso in Viña del Mar, Chile on February 2nd 2008 over Máximo González and Juan Monaco by a score of 6-1, 3-0 before Prieto retired due to an injury.","Sebastián Prieto won seven tournaments partnering with José Acasuso, all on clay courts, including Stuttgart (2005), Bucharest (2005), Viña Del Mar (2006), two in Buenos Aires (2003 and 2007), and two in Viña Del Mar (2008).","Sebastián Prieto won three tournaments partnering with José Acasuso, all on clay courts. These tournaments were Stuttgart, Germany on July 18, 2005, where they defeated Mariano Hood and Tommy Robredo with a score of 7-6 (4), 6-3; Bucharest, Romania on September 12, 2005, where they defeated Victor Hănescu and Andrei Pavel with a score of 6-3, 4-6, 6-3; and Viña Del Mar, Chile on January 30, 2006, where they defeated František Čermák and Leoš Friedl with a score of 7-6 (2), 6-4.","Sebastián Prieto won three tournaments partnering with José Acasuso, all on clay courts. These tournaments were Stuttgart, Germany (July 18, 2005), Bucharest, Romania (September 12, 2005), and Viña Del Mar, Chile (January 30, 2006 and February 2, 2008).",Improved,Improved,Improved
+qtsumm_121,Yi-1.5-34B,121,"In the years from 1996 to 2017, how did the leadership changes from Alfred Sant to Joseph Muscat affect the overall performance of the Labour Party in the general elections?","Table Title: Labour Party (Malta) - General elections
+Table:
+Election | Leader | Votes | % | Seats | +/– | Position | Government
+1921 | William Savona | 4,742 | 23.2 | 7 / 32 | 7 | 3rd | Opposition
+1924 | William Savona | 4,632 | 19.2 | 7 / 32 | 0 | 3rd | Opposition
+1927 | William Savona | 5,011 | 14.5 | 3 / 32 | 4 | 3rd | Coalition
+1932 | Paul Boffa | 4,138 | 8.6 | 1 / 32 | 6 | 3rd | Opposition
+1939 | Paul Boffa | 3,100 | 8.8 | 1 / 10 | 1 | 3rd | Opposition
+1945 | Paul Boffa | 19,071 | 76.2 | 9 / 10 | 8 | 1st | Majority
+1947 | Paul Boffa | 63,145 | 59.9 | 24 / 40 | 15 | 1st | Majority
+1950 | Dom Mintoff | 30,332 | 28.6 | 11 / 40 | 13 | 2nd | Opposition
+1951 | Dom Mintoff | 40,208 | 35.7 | 14 / 40 | 3 | 2nd | Opposition
+1953 | Dom Mintoff | 52,771 | 44.6 | 19 / 40 | 5 | 1st | Opposition
+1955 | Dom Mintoff | 68,447 | 56.7 | 23 / 40 | 4 | 1st | Majority
+1962 | Dom Mintoff | 50,974 | 33.8 | 16 / 50 | 7 | 2nd | Opposition
+1966 | Dom Mintoff | 61,774 | 43.1 | 22 / 50 | 6 | 2nd | Opposition
+1971 | Dom Mintoff | 85,448 | 50.8 | 28 / 55 | 6 | 1st | Majority
+1976 | Dom Mintoff | 105,854 | 51.5 | 34 / 65 | 6 | 1st | Majority
+1981 | Dom Mintoff | 109,990 | 49.1 | 34 / 65 | 0 | 1st | Majority
+1987 | Karmenu Mifsud Bonnici | 114,936 | 48.9 | 34 / 69 | 0 | 2nd | Opposition
+1992 | Karmenu Mifsud Bonnici | 114,911 | 46.5 | 31 / 65 | 3 | 2nd | Opposition
+1996 | Alfred Sant | 132,497 | 50.7 | 35 / 69 | 4 | 1st | Majority
+1998 | Alfred Sant | 124,220 | 47.0 | 30 / 65 | 5 | 2nd | Opposition
+2003 | Alfred Sant | 134,092 | 47.5 | 30 / 65 | 0 | 2nd | Opposition
+2008 | Alfred Sant | 141,888 | 48.8 | 34 / 69 | 4 | 2nd | Opposition
+2013 | Joseph Muscat | 167,533 | 54.8 | 39 / 69 | 5 | 1st | Majority
+2017 | Joseph Muscat | 170,976 | 55.0 | 37 / 67 | 2 | 1st | Majority
+","From 1996 to 2017, Labour Party performance in general elections get better with change in leader from Alfred Sant to Joseph Muscat. During time of Sant, Labour Party have not stable results, winning majority in 1996 but then lose majority in elections of 1998 and 2003. Even though there is small improvement in number of votes in 2003, party still in opposition when Sant is leader.  When Joseph Muscat become party leader in 2013, Labour Party get majority in general elections, get 54.8% of votes and win 39 from 69 seats. This good thing continue in next election in 2017, the Labour Party vote share become 55.0% and keep majority in government with 37 from 67 seats.","Between 1996 and 2017, the Labour Party experienced two leadership changes: Alfred Sant led the party to win the majority in two elections out of five, while Joseph Muscat's leadership improved the party's performance, winning the majority in all four elections from 2013 to 2017, with 39, 37, 34, and 34 seats respectively.","From 1996 to 2017, the Labour Party was led by Alfred Sant and Joseph Muscat. Under Alfred Sant's leadership, the party won the majority in the 1996 election with 50.7% of the votes and 35 out of 69 seats. However, in the subsequent elections of 1998, 2003, and 2008, the party did not secure a majority, obtaining 47.0%, 47.5%, and 48.8% of the votes, and 30, 30, and 34 seats respectively. Joseph Muscat became the leader and led the party to victory in the 2013 and 2017 elections, securing a majority with 54.8% and 55.0% of the votes, and winning 39 out of 69 seats in 2013 and 37 out of 67 seats in 2017. This indicates an improvement in the party's performance under Muscat's leadership, as they consistently won the majority in both elections during his tenure.","Between 1996 and 2017, the Labour Party experienced a leadership change from Alfred Sant to Joseph Muscat. Under Alfred Sant's leadership, the party won the majority in the 1996 election with 35 seats but did not win a majority in the subsequent elections of 1998, 2003, and 2008. Joseph Muscat led the party to win the majority in both the 2013 and 2017 elections, securing 39 seats in 2013 and 37 seats in 2017.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_122,Yi-1.5-34B,122,Which countries from the ABU Radio Song Festival 2012 had their song performed in English and what places did they secure?,"Table Title: ABU Radio Song Festival 2012 - Results
+Table:
+Draw | Country | Artist | Song | Language | Place | Award
+01 | South Korea | Afrodino | Pepperoni (페퍼 로니) | Korean | 6 | 
+02 | Brunei | Maria Aires | Yang Terindah | Malay | 3 | Silver Award
+03 | Malaysia | K-Town Clan | Party Animal | English | 5 | Jury Award
+04 | Vanuatu | Sammy Ray Jones | Rinet | English | 4 | Bronze Award
+05 | Pakistan | Bilal Ahmed | Wada (وعدہ) | Urdu | 6 | 
+06 | Malaysia | Sabhi Sadhi | Waktu | Malay | 6 | 
+07 | Bhutan | Dechen Wangmo | Black as Snow | English, Dzongkha | 6 | 
+08 | Iran | Man Brothers | Iran (ایران) | Persian | 6 | 
+09 | Australia | Danielle Blakey | Fearless | English | 2 | Gold Award
+10 | Indonesia | Rando Sembiring | Menunggu | Indonesian | 6 | 
+11 | Singapore | Jae Ang | Promise Me | English | 6 | 
+12 | Vietnam | Chu Mạnh Chương | Quê Hương Ơn Bác | Vietnamese | 6 | 
+13 | South Korea | Bily Acoustie | For a Rest | Korean | 1 | Grand Prix
+","At the ABU Radio Song Festival 2012, there were several countries that had their songs performed in English. Malaysia's K-Town Clan performed ""Party Animal"" in English and secured the 5th place. Vanuatu's Sammy Ray Jones sang ""Rinet"" in English and secured the 4th place. Australia's Danielle Blakey performed ""Fearless"" in English and secured the 2nd place, winning the Gold Award.","Australia and Singapore had songs performed in English, securing the first and second places respectively. Australia's Danielle Blakey won the Gold Award with her song ""Fearless,"" while Singapore's Jae Ang secured the sixth place with ""Promise Me.""","The countries from the ABU Radio Song Festival 2012 that had their songs performed in English are Australia, Malaysia, Vanuatu, Bhutan, and Singapore. Australia secured the 2nd place with Danielle Blakey's song 'Fearless' and won the Gold Award. Malaysia's K-Town Clan performed 'Party Animal' and secured the 5th place, winning the Jury Award. Vanuatu's Sammy Ray Jones performed 'Rinet' and secured the 4th place, winning the Bronze Award. Bhutan's Dechen Wangmo performed 'Black as Snow' and secured the 6th place. Singapore's Jae Ang performed 'Promise Me' and also secured the 6th place.","Australia and Singapore had songs performed in English. Australia, represented by Danielle Blakey with the song 'Fearless,' secured the second place and won the Gold Award. Singapore, represented by Jae Ang with the song 'Promise Me,' secured the sixth place.",Fully Factual,Fully Complete,Improved
+qtsumm_130,Yi-1.5-34B,130,How many universities joined the Gulf South Conference in the 1970s and where are they part of now?,"Table Title: Gulf South Conference - Former members
+Table:
+Institution | Location | Founded | Nickname | Joined | Left | Current Conference
+Arkansas Tech University | Russellville, Arkansas | 1909 | Wonder Boys & Golden Suns | 1995 | 2011 | Great American
+University of Arkansas at Monticello | Monticello, Arkansas | 1910 | Boll Weevils & Cotton Blossoms | 1995 | 2011 | Great American
+University of Central Arkansas | Conway, Arkansas | 1907 | Bears & Sugar Bears | 1993 | 2006 | Southland (NCAA D-I)
+Harding University | Searcy, Arkansas | 1924 | Bisons & Lady Bisons | 2000 | 2011 | Great American
+Henderson State University | Arkadelphia, Arkansas | 1890 | Reddies | 1993 | 2011 | Great American
+Jacksonville State University | Jacksonville, Alabama | 1883 | Gamecocks | 1970 | 1993 | Ohio Valley (NCAA D-I)
+Lincoln Memorial University | Harrogate, Tennessee | 1897 | Railsplitters | 1992 | 2006 | South Atlantic
+Mississippi University for Women | Columbus, Mississippi | 1884 | Blues | 1993 | 2003 | None (USCAA)
+University of New Orleans | New Orleans, Louisiana | 1958 | Privateers | 2011 | 2012 | Southland (NCAA D-I)
+Nicholls State University | Thibodaux, Louisiana | 1948 | Colonels | 1971 | 1979 | Southland (NCAA D-I)
+University of North Alabama | Florence, Alabama | 1830 | Lions | 1970 | 2018 | ASUN (NCAA D-I)
+Northwestern State University | Natchitoches, Louisiana | 1884 | Demons | 1971 | 1973 | Southland (NCAA D-I)
+Ouachita Baptist University | Arkadelphia, Arkansas | 1886 | Tigers | 2000 | 2011 | Great American
+Southeastern Louisiana University | Hammond, Louisiana | 1925 | Lions | 1971 | 1979 | Southland (NCAA D-I)
+Southern Arkansas University | Magnolia, Arkansas | 1909 | Muleriders | 1995 | 2011 | Great American
+University of Tennessee at Martin | Martin, Tennessee | 1927 | Skyhawks | 1970 | 1991 | Ohio Valley (NCAA D-I)
+Troy State University | Troy, Alabama | 1887 | Trojans | 1970 | 1991 | Sun Belt (NCAA D-I)
+","In the 1970s, a total of seven universities joined the Gulf South Conference. These universities were Jacksonville State University, Nicholls State University, University of North Alabama, Northwestern State University, Southeastern Louisiana University, University of Tennessee at Martin and Troy State Universtiy. Currently, Jacksonville State University and University of Tennessee at Martin are part of Ohio Valley (NCAA D-I). Nicholls State University, Northwestern State University and Southeastern Louisiana University are part of Southland (NCAA D-I). University of North Alabama is a part of ASUN (NCAA D-I). Troy State Universtiy is a part of Sun Belt (NCAA D-I).","Six universities joined the Gulf South Conference in the 1970s: Jacksonville State University (Ohio Valley Conference), University of North Alabama (ASUN Conference), Northwestern State University (Southland Conference), Southern Arkansas University (Great American Conference), University of Tennessee at Martin (Ohio Valley Conference), and Troy State University (Sun Belt Conference).","Five universities joined the Gulf South Conference in the 1970s. Jacksonville State University is now part of the Ohio Valley Conference, University of North Alabama is part of the ASUN Conference, Northwestern State University is part of the Southland Conference, University of Tennessee at Martin is part of the Ohio Valley Conference, and Troy State University is part of the Sun Belt Conference.","Five universities joined the Gulf South Conference in the 1970s: Jacksonville State University (Ohio Valley Conference), University of North Alabama (ASUN Conference), Northwestern State University (Southland Conference), University of Tennessee at Martin (Ohio Valley Conference), and Troy State University (Sun Belt Conference).",Improved,Unchanged,Improved
+qtsumm_135,Yi-1.5-34B,135,"What can be understood about the sibling rulers Andrew and Lev II, in terms of the timing and duration of their joint rule?","Table Title: List of rulers of Galicia and Volhynia - Rurik Dynasty
+Table:
+Portrait | Name | Born-Died | Ruled From | Ruled Until
+- | Roman the Great, son of Mstislav II of Kiev. Ruler of Volhynia, Halych and Kiev until 1199, when he became the first king of Galicia-Volhynia. | 1160–1205 | 1199 | 1205
+- | Daniel, under regency during his minority. Crowned in 1253. | 1201–1264 | 1205 | 1264
+Lev Danylovich of Halych.PNG | Lev I | 1228–1301 | 1264 | 1301
+- | Yuri I | 1252–1308 | 1301 | 1308
+- | Andrew, brother of Lev II, ruled jointly with him. | ?-1323 | 1308 | 1323
+- | Lev II, brother of Andrew, ruled jointly with him. | ?-1323 | 1308 | 1323
+","From table, we can know Andrew and Lev II, they are brothers, they together control Galicia and Volhynia. They start from 1308, right after Yuri I, who rule before them. They together rule until 1323, so it mean they control kingdom for 15 years.","Andrew and Lev II jointly ruled Galicia and Volhynia starting from 1308, exactly one year after the death of their predecessor, Yuri I. The duration of their joint rule lasted only until 1323, at which point both rulers died. This joint rule lasted for 15 years.",Andrew and Lev II jointly ruled from 1308 until 1323. Their joint rule lasted for 15 years.,Andrew and Lev II jointly ruled from 1308 until 1323. Their joint rule lasted for 15 years.,Fully Factual,Fully Complete,Fully Factual
+qtsumm_139,Yi-1.5-34B,139,"Who were the monarchs of the House of Siri Sanga Bo between 1473 and 1592, and what was their lineage?","Table Title: List of Kandyan monarchs - House of Siri Sanga Bo (1473–1592)
+Table:
+Portrait | Name | Birth | Death | King From | King Until | Relationship with Predecessor(s)
+- | Senasammata Vikramabahu |  |  | 1469 | 1511 | *Belongs to Kotte Royal Blood line *Leader of the Kandyan secession from Kotte
+- | Jayavira Bandara |  |  | 1511 | 1552 | *Son of Senasammata
+- | Karalliyadde Bandara |  |  | 1552 | 1582 | *Son of Jayaweera
+Queen Dona Catherina.JPG | Kusumasana Devi |  |  | 1581 | 1581 | *Daughter of Karalliyadde
+- | Rajasinha I (a.k.a. Tikiri Banda) | 1544 | 1593 | 1581 | 1591 | *Deposed Kusumasana Devi
+","From 1473 to 1592 year, House of Siri Sanga Bo have many king come from Kandyan area. The first king is Senasammata Vikramabahu who have Kotte Royal Bloodline, and he make Kandyan break away from Kotte. He be king from 1469 to 1511, then his son Jayavira Bandara be king until 1552. After, Karalliyadde Bandara who is son of Jayavira, be king from 1552 to 1582. In 1581, Karalliyadde's daughter Kusumasana Devi become queen but she lose power same year. The last king in this time, Rajasinha I (also name is Tikiri Banda) take power from Kusumasana Devi and be king from 1581 to 1591.","Between 1473 and 1592, the monarchs of the House of Siri Sanga Bo were Senasammata Vikramabahu, Jayavira Bandara, Karalliyadde Bandara, and Rajasinha I. Senasammata Vikramabahu was a Kotte Royal, leading the Kandyan secession from Kotte. He was succeeded by his son, Jayavira Bandara. Jayavira's son, Karalliyadde Bandara, followed, and his daughter Kusumasana Devi became queen briefly before being deposed by Rajasinha I, whose exact lineage remains unclear but was not directly related to the Kotte Royals.","Between 1473 and 1592, the monarchs of the House of Siri Sanga Bo were Senasammata Vikramabahu, Jayavira Bandara, Karalliyadde Bandara, Kusumasana Devi, and Rajasinha I. Senasammata Vikramabahu, who reigned from 1469 to 1511, belonged to the Kotte Royal bloodline and led the Kandyan secession from Kotte. He was succeeded by his son, Jayavira Bandara, who reigned from 1511 to 1552. Jayavira Bandara's son, Karalliyadde Bandara, reigned from 1552 to 1582. Karalliyadde's daughter, Kusumasana Devi, briefly became queen in 1581 before being deposed by Rajasinha I, also known as Tikiri Banda, who reigned from 1581 to 1591. Rajasinha I deposed Kusumasana Devi and was not directly related to the Kotte Royal bloodline.","Between 1473 and 1592, the monarchs of the House of Siri Sanga Bo were Jayavira Bandara, Karalliyadde Bandara, and Rajasinha I. Jayavira Bandara, who became king in 1511, was the son of Senasammata Vikramabahu. He was succeeded by his son, Karalliyadde Bandara, in 1552. Karalliyadde's daughter, Kusumasana Devi, briefly became queen in 1581 before being deposed by Rajasinha I, who ruled from 1581 to 1591. Senasammata Vikramabahu, who ruled from 1469 to 1511, was not a monarch during the specified period of 1473 to 1592.",Fully Factual,Fully Complete,Deteriorated
+qtsumm_140,Yi-1.5-34B,140,"How many times did Surjit Singh Barnala serve as governor, and during what periods? Was he appointed by the same President in all his terms?","Table Title: List of governors of Tamil Nadu - Tamil Nadu
+Table:
+# | Name | Took Office | Left Office | Term | President who appointed the Governor
+1 | Sardar Ujjal Singh | 14 January 1969 | 27 May 1971 | 1 | Zakir Hussain
+2 | Kodardas Kalidas Shah | 27 May 1971 | 16 June 1976 | 1 | Varaha Venkata Giri
+3 | Mohan Lal Sukhadia | 16 June 1976 | 8 April 1977 | 1 | Fakhruddin Ali Ahmed
+4 | P. Govindan Nair (acting) | 9 April 1977 | 27 April 1977 | 1 | 
+5 | Prabhudas Patwari | 27 April 1977 | 27 October 1980 | 1 | Basappa Danappa Jatti
+6 | M. M. Ismail (acting) | 27 October 1980 | 4 November 1980 | 1 | 
+7 | Sadiq Ali | 4 November 1980 | 3 September 1982 | 1 | Neelam Sanjiva Reddy
+8 | Sundar Lal Khurana, IAS (Retired) | 3 September 1982 | 17 February 1988 | 1 | Giani Zail Singh
+9 | P. C. Alexander, IAS (Retired) | 17 February 1988 | 24 May 1990 | 1 | R. Venkataraman
+10 | Surjit Singh Barnala | 24 May 1990 | 15 February 1991 | 1 | R. Venkataraman
+11 | Bhishma Narain Singh | 15 February 1991 | 31 May 1993 | 1 | R. Venkataraman
+12 | Marri Chenna Reddy | 31 May 1993 | 2 December 1996 | 1 | Shankar Dayal Sharma
+13 | Krishan Kant (additional charge) | 2 December 1996 | 25 January 1997 | 1 | 
+14 | M. Fathima Beevi | 25 January 1997 | 3 July 2001 | 1 | Shankar Dayal Sharma
+15 | C. Rangarajan (additional charge) | 3 July 2001 | 18 January 2002 | 1 | 
+16 | P. S. Ramamohan Rao, IPS (Retired) | 18 January 2002 | 3 November 2004 | 1 | A. P. J. Abdul Kalam
+17 | Surjit Singh Barnala | 3 November 2004 | 31 August 2011 | 2 | 
+18 | Konijeti Rosaiah | 31 August 2011 | 30 August 2016 | 1 | Pratibha Patil
+19 | C. Vidyasagar Rao (additional charge) | 2 September 2016 | 6 October 2017 | 1 | Pranab Mukherjee
+20 | Banwarilal Purohit | 6 October 2017 | Incumbent | 1 | Ram Nath Kovind
+","Surjit Singh Barnala be serving as governor of Tamil Nadu two times in him career. First term is from May 24, 1990 to February 15, 1991, and second time was from November 3, 2004 to August 31, 2011. But in table it not say if same President give him job in both term.","Surjit Singh Barnala served as governor twice, from 24 May 1990 to 15 February 1991 and from 3 November 2004 to 31 August 2011. He was appointed by President R. Venkataraman during his first term and by President Pratibha Patil during his second term. So, no, he was not appointed by the same President in all his terms.","Surjit Singh Barnala served as governor twice, from 24 May 1990 to 15 February 1991 and from 3 November 2004 to 31 August 2011. He was appointed by President R. Venkataraman during his first term, and there is no record of the appointing President for his second term in the table. Therefore, it cannot be confirmed from the table whether he was appointed by the same President in all his terms.","Surjit Singh Barnala served as governor twice, from 24 May 1990 to 15 February 1991 and from 3 November 2004 to 31 August 2011. The table does not specify the President who appointed him for either of his terms. Therefore, it cannot be determined from the table if he was appointed by the same President in all his terms.",Fully Factual,Fully Complete,Unchanged
+qtsumm_143,Yi-1.5-34B,143,"How many studio albums did Chuck Loeb release each year from 1988 through 2016, and are there any noticeable trends or patterns in the data?","Table Title: Chuck Loeb - Studio albums
+Table:
+# | year | title | label | notes
+1 | 1988 | My Shining Hour | Pony Canyon, Jazz City | 
+2 | 1989 | Magic Fingers | DMP | with Andy LaVerne
+3 | 1990 | Life Colors | DMP | 
+4 | 1991 | Balance | DMP | 
+5 | 1993 | Mediterranean | DMP | 
+6 | 1994 | Simple Things | DMP | 1994 ""Metro"" Lipstick Records 1995 ""Tree People"" Lipstick Records
+7 | 1996 | The Music Inside | Shanachie | 
+8 | 1998 | The Moon, the Stars and the Setting Sun | Shanachie | 
+9 | 1999 | Listen | Shanachie | 
+10 | 2001 | In a Heartbeat | Shanachie | 
+11 | 2002 | All There Is | Shanachie | 
+12 | 2003 | eBop | Shanachie | 
+13 | 2005 | When I'm With You | Shanachie | 
+14 | 2007 | Presence | Heads Up | 
+15 | 2009 | Between 2 Worlds | Heads Up | 
+16 | 2011 | Plain 'n' Simple | Tweety | 
+17 | 2013 | Silhouette | Shanachie | 
+18 | 2014 | Jazz Funk Soul | Shanachie | with Jeff Lorber, Everette Harp
+19 | 2015 | Bridges | Shanachie | with Eric Marienthal
+20 | 2016 | More Serious Business | Shanachie | with Jeff Lorber, Everette Harp
+21 | 2016 | Unspoken | Shanachie | 
+","Chuck Loeb was release a total of 21 studio album from 1988 to 2016. Through these years, he release albums quite consistent, with a noticeable more frequency during the 1990s and early 2000s. However, there not seem to be an exact pattern in the number of albums released each year, as the number are varied with a mix of single and multiple albums launch in some years.","From 1988 to 2016, Chuck Loeb released 21 studio albums. He released 1 album in 1988, 1989, 1993, 2011, and 2016; 2 albums in 1989, 1994, 1995, 1996, 1998, and 1999; and 3 albums in 2001, 2002, 2003, 2005, and 2013. Early in his career, Loeb released more albums per year, gradually decreasing the frequency until releasing fewer albums in the later years. There's no consistent pattern of releasing albums in a specific sequence, but he notably partnered with other artists in his later career.","From 1988 to 2016, Chuck Loeb released a total of 21 studio albums. The number of albums released each year is as follows: 1 album in 1988, 1989, 1990, 1991, 1993, 1994, 1996, 1998, 1999, 2001, 2002, 2003, 2005, 2007, 2009, 2011, 2013, 2014, 2015, and 2016. There are no years in which he released more than one album. A noticeable trend is that he consistently released albums almost every year, with a few gaps, and collaborated with other artists in some of his later albums, such as 'Jazz Funk Soul' in 2014 with Jeff Lorber and Everette Harp, 'Bridges' in 2015 with Eric Marienthal, and 'More Serious Business' in 2016 with Jeff Lorber and Everette Harp.","From 1988 to 2016, Chuck Loeb released 21 studio albums. He released 1 album in each of the following years: 1988, 1989, 1990, 1991, 1993, 1994, 1996, 1998, 1999, 2001, 2002, 2003, 2005, 2007, 2009, 2011, 2013, 2014, 2015, and 2016. In 1994, he released 2 albums. There is no consistent pattern of releasing multiple albums in a single year, but he did collaborate with other artists in some of his later albums, such as in 2014, 2015, and 2016.",Improved,Improved,Improved
+qtsumm_145,Yi-1.5-34B,145,How do the results vary across all pre-season games for the Sunderland A.F.C. in the 2007-08 season?,"Table Title: 2007–08 Sunderland A.F.C. season - Pre-season
+Table:
+Game | Date | Opponent | Venue | Result | Attendance | Goalscorers | Notes
+1 | 18 July 2007 | Darlington | Away | 2–0 | 9,500 | Wallace, Stokes | 
+2 | 21 July 2007 | Scunthorpe United | Away | 0–1 | 5,388 |  | 
+3 | 28 July 2007 | Bohemian | Away | 1–0 | 5,033 | John | 
+4 | 30 July 2007 | Cork City | Away | 1–1 | 9,000 | Miller | 
+5 | 1 August 2007 | Galway United | Away | 4–0 | 5,000 | Chopra, Richardson, Connolly, John | 
+6 | 4 August 2007 | Juventus | Home | 1–1 | 25,852 | Murphy | 
+","In the 2007-08 pre-season, Sunderland A.F.C. played total 6 games, with mixed results in these matches. The team started strong, winning their first match against Darlington with 2-0 score, but faced setback in second game against Scunthorpe United where they lost 0-1. Then they bounced back with 1-0 win over Bohemian and 1-1 draw with Cork City. Sunderland A.F.C.'s performance continued to get better in fifth game against Galway United. They got their biggest victory of pre-season with 4-0 score. Lastly, in their most important match of pre-season, Sunderland managed good 1-1 draw against big Italian team Juventus. Overall, the pre-season results for Sunderland A.F.C. in 2007-08 was not very consistent, but showed potential for competitive season ahead.","The Sunderland A.F.C. pre-season results in the 2007-08 season varied with three victories, two losses, and a draw. They won against Darlington, Bohemian, and Galway United, lost to Scunthorpe United and Cork City, and drew against Juventus.","The Sunderland A.F.C. pre-season results for the 2007-08 season included three wins, one loss, and two draws. They won against Darlington (2-0), Bohemian (1-0), and Galway United (4-0). They lost to Scunthorpe United (0-1) and drew against Cork City (1-1) and Juventus (1-1).","The Sunderland A.F.C. pre-season results in the 2007-08 season varied with three victories, one loss, and two draws. They won against Darlington, Bohemian, and Galway United, lost to Scunthorpe United, and drew against Cork City and Juventus.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_149,Yi-1.5-34B,149,"What are the different types of cars used by Team Kiwi Racing during the 2000-2008 period in the Bathurst 1000 races, and in which years were they used?","Table Title: Team Kiwi Racing - Complete Bathurst 1000 results
+Table:
+Year | No. | Car | Drivers | Position | Laps
+2000 | 777 | Holden VT Commodore | New Zealand Jason Richards New Zealand Angus Fogg | 16th | 157
+2001 | 021 | Holden VT Commodore | New Zealand Jason Richards New Zealand Angus Fogg | 16th | 157
+2002 | 021 | Holden VX Commodore | New Zealand Jason Richards New Zealand Simon Wills | 11th | 160
+2003 | 021 | Holden VX Commodore | New Zealand Craig Baird New Zealand Mark Porter | 17th | 149
+2004 | 021 | Holden VY Commodore | New Zealand Craig Baird New Zealand Mark Porter | DNF | 129
+2005 | 021 | Holden VZ Commodore | New Zealand John Faulkner Australia Alan Gurr | 10th | 158
+2006 | 021 | Holden VZ Commodore | New Zealand Paul Radisich New Zealand Fabian Coulthard | DNF | 71
+2007 | 021 | Ford BF Falcon | New Zealand Shane van Gisbergen New Zealand John McIntyre | DNF | 148
+2008 | 021 | Ford BF Falcon | New Zealand Kayne Scott New Zealand Chris Pither | DNF | 8
+","During the 2000-2008 period, Team Kiwi Racing used a variety of car models in the Bathurst 1000 races. In the years 2000 and 2001, they participated with the Holden VT Commodore. From 2002 to 2003, they switched to the Holden VX Commodore, later using the Holden VY Commodore in 2004, the Holden VZ Commodore in 2005 and 2006, and finally transitioning to the Ford BF Falcon for the 2007 and 2008 races. ","Team Kiwi Racing used Holden VT Commodore in 2000 and 2001, Holden VX Commodore in 2002, Holden VY Commodore in 2003 and 2004, Holden VZ Commodore from 2005 to 2006, and Ford BF Falcon in 2007 and 2008 during the 2000-2008 period in Bathurst 1000 races.","Team Kiwi Racing used the following types of cars during the 2000-2008 period in the Bathurst 1000 races: Holden VT Commodore in 2000 and 2001, Holden VX Commodore in 2002 and 2003, Holden VY Commodore in 2004, Holden VZ Commodore in 2005 and 2006, and Ford BF Falcon in 2007 and 2008.","Team Kiwi Racing used Holden VT Commodore in 2000 and 2001, Holden VX Commodore in 2002 and 2003, Holden VY Commodore in 2004, Holden VZ Commodore in 2005 and 2006, and Ford BF Falcon in 2007 and 2008 during the 2000-2008 period in Bathurst 1000 races.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_5,Qwen1.5-72B,150,"Which competitor had the seventh fastest time in the Men's 100 metre freestyle at the 2012 Summer Olympics, and which country did they represent?","Table Title: Swimming at the 2012 Summer Olympics – Men's 100 metre freestyle - Final
+Table:
+Rank | Lane | Name | Nationality | Time | Notes
+ | 5 | Nathan Adrian | United States | 47.52 | 
+ | 4 | James Magnussen | Australia | 47.53 | 
+ | 7 | Brent Hayden | Canada | 47.80 | 
+4 | 1 | Yannick Agnel | France | 47.84 | 
+5 | 6 | Sebastiaan Verschuren | Netherlands | 47.88 | 
+6 | 2 | César Cielo | Brazil | 47.92 | 
+7 | 3 | Hanser García | Cuba | 48.04 | =NR
+8 | 8 | Nikita Lobintsev | Russia | 48.44 | 
+","Hanser García have seventh quick time in Men's 100 metre freestyle at 2012 Summer Olympics, he represent Cuba.","The competitor with the seventh fastest time in the Men's 100 metre freestyle at the 2012 Summer Olympics was Brent Hayden, and he represented Canada.","The competitor with the seventh fastest time in the Men's 100 metre freestyle at the 2012 Summer Olympics was Hanser García, and he represented Cuba.","The competitor with the seventh fastest time in the Men's 100 metre freestyle at the 2012 Summer Olympics was Hanser García, and he represented Cuba.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_10,Qwen1.5-72B,152,Which team ranked highest in the AP final and who was their MVP during the 1950 Big Nine Conference football season?,"Table Title: 1950 Big Nine Conference football season - Results and team statistics
+Table:
+Conf. Rank | Team | Head coach | AP final | AP high | Overall record | Conf. record | PPG | PAG | MVP
+1 | Michigan | Bennie Oosterbaan | #9 | #3 | 6–3–1 | 4–1–1 | 15.0 | 11.4 | Don Dufek
+2 | Ohio State | Wes Fesler | #14 | #1 | 6–3 | 5–2 | 31.8 | 12.3 | Vic Janowicz
+3 | Wisconsin | Ivy Williamson | NR | #15 | 6–3 | 5–2 | 15.1 | 10.8 | Bob Radcliffe
+4 | Illinois | Ray Eliot | #13 | #6 | 7–2 | 4–2 | 15.2 | 6.2 | Tony Klimek
+5 | Northwestern | Bob Voigts | NR | #9 | 6–3 | 3–3 | 17.2 | 15.9 | Chuck Hagmann
+6 | Iowa | Leonard Raffensperger | NR | #17 | 3–5–1 | 2–4 | 13.4 | 22.3 | Harold Bradley
+7 | Minnesota | Bernie Bierman | NR | #18 | 1–7–1 | 1–4–1 | 8.8 | 21.8 | Wayne Robinson
+8 (tie) | Indiana | Clyde B. Smith | NR | #19 | 3–5–1 | 1–4 | 11.0 | 17.2 | Bob Robertson
+8 (tie) | Purdue | Stu Holcomb | NR | #9 | 2–7 | 1–4 | 15.9 | 22.2 | James Janosek
+","In 1950 Big Nine Conference football season, the team rank highest in AP final is Ohio State, they get #14 ranking. Their Most Value Player (MVP) for that season is Vic Janowicz.","The team that ranked highest in the AP final during the 1950 Big Nine Conference football season was Ohio State, with an AP final rank of #14. Their MVP was Vic Janowicz.","The team that ranked highest in the AP final during the 1950 Big Nine Conference football season was Michigan, with an AP final rank of #9. Their MVP was Don Dufek.","The team that ranked highest in the AP final during the 1950 Big Nine Conference football season was Michigan, with an AP final rank of #9. Their MVP was Don Dufek.",Deteriorated,Unchanged,Deteriorated
+qtsumm_22,Qwen1.5-72B,155,"Which virus, MARV or RAVV, has contributed more to human fatalities in Uganda from 2000 onwards?","Table Title: Marburg virus disease - Epidemiology
+Table:
+Year | Country | Virus | Human cases | Human deaths | Case fatality rate | Reference
+1967 | West Germany Yugoslavia | MARV | 31 | 7 | 23% | 
+1975 | Rhodesia South Africa | MARV | 3 | 1 | 33% | 
+1980 | Kenya | MARV | 2 | 1 | 50% | 
+1987 | Kenya | RAVV | 1 | 1 | 100% | 
+1988 | Soviet Union | MARV | 1 | 1 | 100% | 
+1990 | Soviet Union | MARV | 1 | 0 | 0% | 
+1998–2000 | Democratic Republic of the Congo | MARV & RAVV | 154 | 128 | 83% | 
+2004–2005 | Angola | MARV | 252 | 227 | 90% | 
+2007 | Uganda | MARV & RAVV | 4 | 1 | 25% | 
+2008 | Uganda Netherlands United States | MARV | 2 | 1 | 50% | 
+2012 | Uganda | MARV | 18 | 9 | 50% | 
+2014 | Uganda | MARV | 1 | 1 | 100% | 
+2017 | Uganda | MARV | 2 | 2 | 100% | 
+","From 2000, can see MARV virus make more human die in Uganda than RAVV virus. ","From 2000 onwards, both MARV and RAVV have been associated with human fatalities in Uganda. However, the data shows that MARV has contributed more to human deaths. In 2012, there were 18 human cases of MARV, resulting in 9 fatalities, which is a case fatality rate of 50%. In contrast, RAVV was involved in a single case in 1987, resulting in 1 death. Additionally, in 2007, both MARV and RAVV were reported, but the specific contribution of RAVV to the fatalities is not separately mentioned. Therefore, based on the available information, MARV has been the more lethal virus in Uganda since 2000.","From 2000 onwards, MARV has contributed more to human fatalities in Uganda compared to RAVV. In 2007, there were 4 human cases involving both MARV and RAVV, resulting in 1 death. In 2012, there were 18 human cases of MARV, resulting in 9 fatalities, which is a case fatality rate of 50%. In 2014, there was 1 case of MARV, resulting in 1 death, and in 2017, there were 2 cases of MARV, resulting in 2 deaths. The data does not specify any separate fatalities attributed solely to RAVV in Uganda from 2000 onwards. Therefore, MARV has been responsible for more human fatalities in Uganda during this period.","From 2000 onwards, both MARV and RAVV have been associated with human fatalities in Uganda. However, the data shows that MARV has contributed more to human deaths. In 2012, there were 18 human cases of MARV, resulting in 9 fatalities, which is a case fatality rate of 50%. In 2007, both MARV and RAVV were reported, with 4 human cases and 1 death, but the specific contribution of RAVV to the fatalities is not separately mentioned. Therefore, based on the available information, MARV has been the more lethal virus in Uganda since 2000.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_29,Qwen1.5-72B,158,Summarize the basic information of the villages defended by Barak Brigade.,"Table Title: Operation Gideon
+Table:
+Name | Date | Defending Forces | Brigade | Population
+'Arab Al - 'Arida | N / A | N / A | N / A | 330 Inc 180 Jews
+'Arab Al - Bawati | N / A | N / A | N / A | 520
+Al - Bira | N / A | N / A | N / A | 260
+Al - Hamra ('Arab Al - Hamra) | N / A | N / A | N / A | 730
+Jabbul | 7 June 1948 | N / A | Barak | 420 Inc 170 Jews (Beyt Yosef)
+Kafra | N / A | N / A | N / A | 430
+Al - Khunayzir | N / A | N / A | N / A | 260
+Masil Al - Jil | N / A | N / A | N / A | 100
+Al - Murassas | N / A | N / A | N / A | 460
+Tall Al - Shawk | N / A | N / A | N / A | 120
+Umm 'Ajra | N / A | N / A | N / A | 260
+Zab'A | N / A | N / A | N / A | 170
+","The Barak Brigade was responsible for defending one villages in the Operation Gideon during 1948. The villages is Jabbul, with a population of 420 including 170 Jews.","The Barak Brigade defended the village of Jabbul during Operation Gideon. Jabbul had a population of 420, with 170 of them being Jews (Beyt Yosef).","The Barak Brigade defended the village of Jabbul. Jabbul had a population of 420, including 170 Jews from Beyt Yosef. The defense took place on 7 June 1948.","The Barak Brigade defended the village of Jabbul. Jabbul had a population of 420, including 170 Jews (Beyt Yosef).",Unchanged,Fully Complete,Unchanged
+qtsumm_36,Qwen1.5-72B,161,"Which story chronologically follows ""Dead Beat"" and which collection does it belong to?","Table Title: The Dresden Files short fiction - Stories by internal chronology
+Table:
+# | Title | Publication year | Preceded by | Followed by | Collection
+1 | A Fistful of Warlocks | 2017 |  | Storm Front | Brief Cases
+2 | Restoration of Faith | 2010 |  | Storm Front | Side Jobs
+3 | B is for Bigfoot | 2012 | Fool Moon | Grave Peril | Brief Cases
+4 | Publicity and Advertising | 2010 | Death Masks | Blood Rites | Side Jobs
+5 | Something Borrowed | 2006 | Dead Beat | Proven Guilty | Side Jobs
+6 | I Was a Teenage Bigfoot | 2012 | Dead Beat | Proven Guilty | Brief Cases
+7 | It's My Birthday, Too | 2007 | White Night | Small Favor | Side Jobs
+8 | Heorot | 2007 | White Night | Small Favor | Side Jobs
+9 | Harry's Day Off | 2008 | Small Favor | Turn Coat | Side Jobs
+10 | Backup | 2008 | Small Favor | Turn Coat | Side Jobs
+11 | The Warrior | 2009 | Small Favor | Turn Coat | Side Jobs
+12 | Last Call | 2009 | Small Favor | Turn Coat | Side Jobs
+13 | Curses | 2011 | Small Favor | Turn Coat | Brief Cases
+14 | AAAA Wizardry | 2009 | Unknown | Unknown | Brief Cases
+15 | Love Hurts | 2010 | Turn Coat | Changes | Side Jobs
+16 | Bigfoot on Campus | 2012 | Turn Coat | Changes | Brief Cases
+17 | Even Hand | 2010 | Turn Coat | Changes | Brief Cases
+18 | Aftermath | 2010 | Changes | Ghost Story | Side Jobs
+19 | Bombshells | 2013 | Ghost Story | Cold Days | Brief Cases
+20 | Cold Case | 2016 | Cold Days | Skin Game | Brief Cases
+21 | Jury Duty | 2015 | Skin Game |  | Brief Cases
+22 | Day One | 2016 | Skin Game |  | Brief Cases
+23 | Zoo Day | 2018 | Skin Game |  | Brief Cases
+24 | Christmas Eve | 2018 | Skin Game |  | 
+","The story following chronological after ""Dead Beat"" is ""Something Borrowed."" It in collection ""Side Jobs.""","The story that chronologically follows ""Dead Beat"" is ""Proven Guilty,"" and it belongs to the Brief Cases collection.","The story that chronologically follows ""Dead Beat"" is ""Something Borrowed,"" and it belongs to the ""Side Jobs"" collection.","The story that chronologically follows 'Dead Beat' is 'Something Borrowed,' and it belongs to the Side Jobs collection.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_68,Qwen1.5-72B,170,What were the different roles held by members in the International Olympic Committee and who occupied these positions?,"Table Title: List of members of the International Olympic Committee - Original members
+Table:
+Member | Country | Since | Until | Notes
+Mario Lucchesi-Palli | Italy | 1894 | 1894 | 
+Demetrios Vikelas | Greece | 1894 | 1897 | President (1894–1896)
+Arthur Russell, 2nd Baron Ampthill | Great Britain | 1894 | 1898 | 
+Alexei de Butowski | Russian Empire | 1894 | 1900 | 
+Leonard A. Cuff | New Zealand | 1894 | 1905 | 
+Charles Herbert | Great Britain | 1894 | 1906 | 
+José Benjamín Zubiaur | Argentina | 1894 | 1907 | 
+Ferenc Kemény | Austria-Hungary Austria-Hungary | 1894 | 1907 | First Secretary (1895–1907)
+Ernest Callot | France | 1894 | 1913 | Treasurer (1894–1895)
+Viktor Balck | Sweden Sweden-Norway | 1894 | 1921 | 
+William Milligan Sloane | United States | 1894 | 1924 | 
+Baron Pierre de Coubertin | France | 1894 | 1925 | President (1896–1925)
+Jiří Guth-Jarkovský | Bohemia | 1894 | 1943 | 
+","The original members of the International Olympic Committee held various roles within the organization. Demetrios Vikelas served as the President of the committee from 1894 to 1896. Ferenc Kemény held the position of First Secretary from 1895 to 1907. Furthermore, Ernest Callot served as the Treasurer from 1894 to 1895, and Baron Pierre de Coubertin served as president from 1984 to 1925.","The International Olympic Committee had various roles occupied by its members. Demetrios Vikelas served as the President from 1894 to 1897. Leonard A. Cuff was the Treasurer from 1894 to 1895, and Ferenc Kemény held the position of First Secretary from 1895 to 1907. Baron Pierre de Coubertin was the President from 1896 to 1925. Apart from these leadership roles, the other members, such as Mario Lucchesi-Palli, Arthur Russell, Alexei de Butowski, Charles Herbert, José Benjamín Zubiaur, Viktor Balck, William Milligan Sloane, and Jiří Guth-Jarkovský, were part of the committee without specific titles mentioned in the table.","The International Olympic Committee had several roles occupied by its members. Demetrios Vikelas served as the President from 1894 to 1896. Ferenc Kemény held the position of First Secretary from 1895 to 1907. Ernest Callot was the Treasurer from 1894 to 1895. Baron Pierre de Coubertin served as the President from 1896 to 1925. The table does not specify any other roles for the remaining members, including Mario Lucchesi-Palli, Arthur Russell, Alexei de Butowski, Leonard A. Cuff, Charles Herbert, José Benjamín Zubiaur, Viktor Balck, William Milligan Sloane, and Jiří Guth-Jarkovský.","The International Olympic Committee had various roles occupied by its members. Demetrios Vikelas served as the President from 1894 to 1896. Ernest Callot was the Treasurer from 1894 to 1895, and Ferenc Kemény held the position of First Secretary from 1895 to 1907. Baron Pierre de Coubertin was the President from 1896 to 1925. Apart from these leadership roles, the other members, such as Mario Lucchesi-Palli, Arthur Russell, Alexei de Butowski, Leonard A. Cuff, Charles Herbert, José Benjamín Zubiaur, Viktor Balck, William Milligan Sloane, and Jiří Guth-Jarkovský, were part of the committee without specific titles mentioned in the table.",Fully Factual,Fully Complete,Fully Factual
+qtsumm_74,Qwen1.5-72B,174,What were the percentages of change in total cargo for the listed airports from their prior year data? Can any trends be analysed from that?,"Table Title: List of busiest airports by cargo traffic - 2017 statistics
+Table:
+Rank | Airport | Location | Code (IATA/ICAO) | Rank Change | Total Cargo (tonnes) | % Change
+1. | Hong Kong Hong Kong International Airport | Chek Lap Kok, Islands, New Territories, Hong Kong | HKG/VHHH |  | 5,049,898 | 9.4%
+2. | United States Memphis International Airport | Memphis, Tennessee, United States | MEM/KMEM |  | 4,336,752 | 0.3%
+3. | China Shanghai Pudong International Airport | Pudong, Shanghai, China | PVG/ZSPD |  | 3,824,280 | 11.2%
+4. | South Korea Incheon International Airport | Incheon, Seoul National Capital Area, South Korea | ICN/RKSI | 1 | 2,921,691 | 7.6%
+5. | United States Ted Stevens Anchorage International Airport | Anchorage, Alaska, United States | ANC/PANC | 1 | 2,713,230 | 6.7%
+6. | United Arab Emirates Dubai International Airport | Dubai, United Arab Emirates | DXB/OMDB |  | 2,654,494 | 2.40%
+7. | United States Louisville International Airport | Louisville, Kentucky, United States | SDF/KSDF |  | 2,602,695 | 6.80%
+8. | Japan Narita International Airport | Narita, Chiba, Kantō, Honshū, Japan | NRT/RJAA | 2 | 2,336,427 | 7.9%
+9. | Taiwan Taiwan Taoyuan International Airport | Dayuan, Taoyuan, Taiwan | TPE/RCTP | 4 | 2,269,585 | 8.2%
+10. | France Charles de Gaulle Airport | Seine-et-Marne/Seine-Saint-Denis/Val-d'Oise, Île-de-France, France | CDG/LFPG | 1 | 2,195,229 | 2.8%
+","In 2017, the percentages of change in total cargo for the listed airports were as follows: Hong Kong International Airport saw a 9.4% increase, Memphis International Airport experienced a 0.3% increase, and Shanghai Pudong International Airport observed an 11.2% increase. Meanwhile, Incheon International Airport's cargo traffic grew by 7.6%, Ted Stevens Anchorage International Airport saw a 6.7% increase, Dubai International Airport grew by 2.4%, and Louisville International Airport experienced a 6.8% increase. Narita International Airport, Taiwan Taoyuan International Airport, and Charles de Gaulle Airport also increased their total cargo by 7.9%, 8.2%, and 2.8%, respectively. It can be analyzed that, overall, there was a positive trend in cargo traffic growth for all the listed airports in 2017.","The percentage change in total cargo for the airports is listed in the ""% Change"" column. Hong Kong International Airport had the highest growth at 9.4%, followed by Shanghai Pudong (11.2%), Incheon (7.6%), Anchorage (6.7%), Dubai (2.4%), Louisville (6.8%), Narita (7.9%), Taiwan Taoyuan (8.2%), and Charles de Gaulle (2.8%). A general trend seems to be positive growth, with most airports experiencing an increase in cargo traffic. The exceptions are Memphis International Airport, which had only a 0.3% increase, and Dubai International Airport, which had a lower growth rate compared to the others.","The percentage change in total cargo for the listed airports is as follows: Hong Kong International Airport experienced a 9.4% increase, Memphis International Airport had a 0.3% increase, Shanghai Pudong International Airport saw an 11.2% increase, Incheon International Airport had a 7.6% increase, Ted Stevens Anchorage International Airport experienced a 6.7% increase, Dubai International Airport had a 2.4% increase, Louisville International Airport saw a 6.8% increase, Narita International Airport experienced a 7.9% increase, Taiwan Taoyuan International Airport had an 8.2% increase, and Charles de Gaulle Airport saw a 2.8% increase. The trend indicates that most airports experienced positive growth in cargo traffic, with Shanghai Pudong International Airport having the highest percentage increase. Memphis International Airport had the smallest increase at 0.3%.","The percentage change in total cargo for the airports is listed in the ""% Change"" column. Hong Kong International Airport had a growth of 9.4%, Shanghai Pudong had 11.2%, Incheon had 7.6%, Anchorage had 6.7%, Dubai had 2.4%, Louisville had 6.8%, Narita had 7.9%, Taiwan Taoyuan had 8.2%, and Charles de Gaulle had 2.8%. A general trend seems to be positive growth, with most airports experiencing an increase in cargo traffic. The exception is Memphis International Airport, which had only a 0.3% increase.",Fully Factual,Fully Complete,Fully Factual

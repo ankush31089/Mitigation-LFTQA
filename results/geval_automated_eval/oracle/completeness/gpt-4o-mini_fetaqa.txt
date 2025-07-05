@@ -1,0 +1,10 @@
+FETAQA – coarse completeness
+examples total        : 1452
+mitigated datapoints  : 914
+average before (total): 4.048
+average after  (total): 4.851
+change total          : +16.1%
+
+average before (affected): 3.487
+average after  (affected): 4.764
+change affected          : +25.5%

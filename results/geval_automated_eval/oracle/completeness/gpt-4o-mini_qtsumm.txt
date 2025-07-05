@@ -1,0 +1,10 @@
+QTSUMM – coarse completeness
+examples total        : 1391
+mitigated datapoints  : 1068
+average before (total): 3.540
+average after  (total): 4.659
+change total          : +22.4%
+
+average before (affected): 3.098
+average after  (affected): 4.556
+change affected          : +29.2%

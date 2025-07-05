@@ -1,0 +1,10 @@
+QTSUMM – coarse faithfulness
+examples total        : 1391
+mitigated datapoints  : 1025
+average before (total): 3.595
+average after  (total): 4.301
+change total          : +14.1%
+
+average before (affected): 3.093
+average after  (affected): 4.052
+change affected          : +19.2%

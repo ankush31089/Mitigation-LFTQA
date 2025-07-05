@@ -1,0 +1,4921 @@
+[
+  {
+    "original_idx": 4,
+    "old_score": 4.333333333333334,
+    "new_score": 5.0,
+    "claims": [
+      "On December 7, 2014, a record was achieved in the 50 m breaststroke with a time of 25.63.",
+      "On December 7, 2014, a record was achieved in the 4 \u00d7 100 m medley with a time of 3:21.14."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 6,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "Mitsunori Yoshida played in a total of 246 matches for Yamaha Motors.",
+      "Mitsunori Yoshida scored 35 goals as a player for Yamaha Motors."
+    ],
+    "verifications": [
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 13,
+    "old_score": 4.333333333333334,
+    "new_score": 5.0,
+    "claims": [
+      "Mamta Kulkarni was a part of the Hindi film 'Aashiq Awara' in 1993.",
+      "Mamta Kulkarni was a part of the Hindi film 'Ashaant' in 1993.",
+      "Mamta Kulkarni was a part of the Hindi film 'Waqt Hamara Hai' in 1993.",
+      "Mamta Kulkarni was a part of the Hindi film 'Bhookamp' in 1993."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 24,
+    "old_score": 4.333333333333334,
+    "new_score": 4.0,
+    "claims": [
+      "The transfer happened on 12 August 2016.",
+      "The transfer involved the right winger, Calaum Jahraldo-Martin.",
+      "Calaum Jahraldo-Martin moved from Hull City to Oldham Athletic.",
+      "The transfer was on a free transfer."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 27,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2000, Gretchen Mol appeared in the TV film 'Picnic'.",
+      "In 2002, Gretchen Mol appeared in the TV film 'The Magnificent Ambersons'.",
+      "In 2002, Gretchen Mol appeared in the TV short 'Freshening Up'."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 32,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The table provides data for Barry Sanders' 1988 season.",
+      "Barry Sanders completed 2,850 yards in 1988.",
+      "Barry Sanders completed 42 touchdowns in 1988.",
+      "Barry Sanders played in 12 games in 1988."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 33,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Jack Donnelly guest-starred as Samuel Walker.",
+      "Jack Donnelly appeared on the series 'Death in Paradise'.",
+      "Jack Donnelly appeared in 2016."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 37,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Ogden Avenue intersects West Chestnut Street in Chicago, IL.",
+      "Ogden Avenue intersects 53 (Lincoln Avenue) in Lisle.",
+      "Ogden Avenue intersects I-294 (Tri-State Tollway) at the Hinsdale \u2013 Western Springs line."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 40,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Warren Woods Natural Area was designated as a National Natural Landmark in 1967.",
+      "Porcupine Mountains was designated as a National Natural Landmark in 1984."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 45,
+    "old_score": 4.428571428571429,
+    "new_score": 5.0,
+    "claims": [
+      "Georges Boucher played in the NHL from 1917 to 1933.",
+      "Georges Boucher amassed 117 goals.",
+      "Georges Boucher had 87 assists.",
+      "Georges Boucher had 204 points.",
+      "Georges Boucher played 449 games.",
+      "Georges Boucher recorded 88 penalty minutes in 28 playoff games."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 49,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "The single 'Scars' from the album '1927' charted on the Australian chart.",
+      "The single 'Scars' peaked at position 46 on the Australian chart.",
+      "The single 'It Ain't Love' from the album '1927' charted on the Australian chart.",
+      "The single 'It Ain't Love' peaked at position 123 on the Australian chart."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 50,
+    "old_score": 2.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2008, Sally Pearson achieved second place in the 100 m hurdles event."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 54,
+    "old_score": 3.0,
+    "new_score": 3.0,
+    "claims": [
+      "The Knife won the Album of the Year award in 2006.",
+      "The Knife won the Album of the Year award in 2007."
+    ],
+    "verifications": [
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 56,
+    "old_score": 1.0,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "The Michigan Wolverines men's basketball team played against Kalamazoo College on February 13, 1918.",
+      "The score of the game was 42-8.",
+      "The game took place at Waterman Gymnasium, Ann Arbor, MI."
+    ],
+    "verifications": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 62,
+    "old_score": 4.0,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "Cathy Freeman won a gold medal in the 200m event at the 1994 Commonwealth Games in Canada.",
+      "Cathy Freeman won a gold medal in the 400m event at the 1994 Commonwealth Games in Canada.",
+      "Cathy Freeman won a silver medal in the 4 \u00d7 100m relay at the 1994 Commonwealth Games in Canada."
+    ],
+    "verifications": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 65,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Maja Neuenschwander won the Vienna Marathon."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 69,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "USS Rasher has a total tonnage of 99,901.",
+      "USS Archerfish has a total tonnage of 59,800."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 75,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Ryan Cochrane finished third."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 78,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "The album 'From Fathoms' was released in 2009.",
+      "The album 'From Fathoms' was released on CD/2xLP format."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 80,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Davis Tarwater set one individual national record in the 200-meter SC butterfly.",
+      "The time was 1:51.90.",
+      "The record was set on December 17, 2011."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 81,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "The table does not provide any information about Brooks Ashmanskas's roles in movies.",
+      "The table only lists Brooks Ashmanskas's theatre roles.",
+      "The table lists Brooks Ashmanskas's role as Barry Glickman in the 2018 Broadway production of 'The Prom'."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 88,
+    "old_score": 4.2,
+    "new_score": 5.0,
+    "claims": [
+      "Kawasaki has won the Superbike World Championship in 1993 with Scott Russell.",
+      "Kawasaki has won the Superbike World Championship in 2013 with Tom Sykes.",
+      "Kawasaki has won the Superbike World Championship in 2015 with Jonathan Rea.",
+      "Kawasaki has won the Superbike World Championship in 2016 with Jonathan Rea.",
+      "Kawasaki has won the Superbike World Championship in 2017 with Jonathan Rea.",
+      "Kawasaki has won the Superbike World Championship in 2018 with Jonathan Rea."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 92,
+    "old_score": 3.0,
+    "new_score": 4.0,
+    "claims": [
+      "Unplugged (2016) received a nomination in the category of Best Musical Arrangement in a Song.",
+      "Unplugged (2016) received a nomination in the category of Best Engineered Album.",
+      "Unplugged (2016) received a nomination in the category of Best Album.",
+      "Unplugged (2016) won in the category of Best Album."
+    ],
+    "verifications": [
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 95,
+    "old_score": 3.2857142857142856,
+    "new_score": 5.0,
+    "claims": [
+      "In 2008, Janina Gavankar portrayed Terri in My Boys.",
+      "In 2008, Janina Gavankar portrayed Laura in Factory.",
+      "In 2008, Janina Gavankar portrayed Sgt. 'Dusty' Mehra in Stargate Atlantis.",
+      "In 2008, Janina Gavankar portrayed Intern Lisa in Grey's Anatomy."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 96,
+    "old_score": 2.333333333333333,
+    "new_score": 2.333333333333333,
+    "claims": [
+      "On 17 June 2010, Greece played against Nigeria.",
+      "The match took place in the 2010 FIFA World Cup.",
+      "Greece won the match with a score of 2-1."
+    ],
+    "verifications": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 107,
+    "old_score": 3.6666666666666665,
+    "new_score": 2.333333333333333,
+    "claims": [
+      "In 2009, Tadas \u0160u\u0161kevi\u010dius achieved 17th place.",
+      "The event was the World Championships.",
+      "The event was the 50 km event."
+    ],
+    "verifications": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 114,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Roger Cicero provided the German voice for the character Prince Naveen in 'The Princess and the Frog'."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 123,
+    "old_score": 4.2,
+    "new_score": 5.0,
+    "claims": [
+      "Momo Asakura had roles in 2014.",
+      "Momo Asakura appeared in Witch Craft Works in 2014.",
+      "Momo Asakura appeared in Sakura Trick in 2014.",
+      "Momo Asakura appeared in Noragami in 2014.",
+      "Momo Asakura appeared in Hamatora: The Animation in 2014.",
+      "Momo Asakura appeared in Bladedance of Elementalers in 2014.",
+      "Momo Asakura appeared in Sword Art Online II in 2014."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 126,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "From 2014 to 2016, JJ Feild portrayed Major John Andr\u00e9.",
+      "JJ Feild portrayed Major John Andr\u00e9 in the television series \"Turn: Washington's Spies\"."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 130,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "The 248Cm(22Ne,5n) reaction produces the isotope 265Sg.",
+      "The isotope 265Sg has a half-life of 8 s.",
+      "The 248Cm(22Ne,5n) reaction produces the isotope 265mSg.",
+      "The isotope 265mSg has a half-life of 16.2 s."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 141,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "Roshan Mathew appeared in the 2017 film 'Viswasapoorvam Mansoor'.",
+      "Roshan Mathew appeared in the 2017 film 'Kadam Kadha'.",
+      "Roshan Mathew appeared in the 2017 film 'Matchbox'."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 146,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "George Eastham scored 29 goals in 124 league appearances for Newcastle United.",
+      "George Eastham had a total of 34 goals in 129 appearances across all competitions for Newcastle United.",
+      "George Eastham scored 41 goals in 207 league appearances for Arsenal.",
+      "George Eastham had a total of 41 goals in 223 appearances across all competitions for Arsenal."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 153,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "Mitsunori Yoshida played for Yamaha Motors in 251 matches.",
+      "Mitsunori Yoshida scored 35 goals for Yamaha Motors."
+    ],
+    "verifications": [
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 160,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "U-21 sank the Swedish ship Carl Henckel.",
+      "U-21 sank the Swedish ship Mars."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 165,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Calum Jahraldo-Martin was transferred to Oldham Athletic.",
+      "The transfer occurred on 12 August 2016."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 169,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Neethling finished 8th.",
+      "Neethling had a time of 3:48.52.",
+      "Hackett finished 7th.",
+      "Hackett had a time of 3:48.22."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 174,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "In Chicago, Ogden Avenue intersects with I-90/I-94 west (Kennedy Expressway).",
+      "In the Hinsdale\u2013Western Springs line, Ogden Avenue intersects with I-294 (Tri-State Tollway).",
+      "In Lisle, Ogden Avenue intersects with IL 53 (Lincoln Avenue)."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 185,
+    "old_score": 3.0,
+    "new_score": 3.0,
+    "claims": [
+      "Sally Pearson achieved a 2nd place finish.",
+      "The event was the 100 m hurdles.",
+      "The competition was the 2008 Olympic Games.",
+      "The venue was Beijing, China."
+    ],
+    "verifications": [
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 189,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The Knife won the Album of the Year award in 2006.",
+      "The Knife won the 2013 Nordic Music Prize for Best Nordic Album of the Year."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 195,
+    "old_score": 3.6666666666666665,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "Cathy Freeman won a gold medal in the 200m event at the 1994 Commonwealth Games in Canada.",
+      "Cathy Freeman won a gold medal in the 400m event at the 1994 Commonwealth Games in Canada.",
+      "Cathy Freeman won a silver medal in the 4 \u00d7 100m relay at the 1994 Commonwealth Games in Canada."
+    ],
+    "verifications": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 198,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Maja Neuenschwander won the Vienna Marathon in 2015."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 202,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The USS Rasher has a total tonnage of 99,901.",
+      "The USS Archerfish has a total tonnage of 59,800."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 209,
+    "old_score": 3.6666666666666665,
+    "new_score": 2.333333333333333,
+    "claims": [
+      "'Harmonic Motion Vol. 1' was released before 'Loyal Eyes Betrayed the Mind'.",
+      "'Loyal Eyes Betrayed the Mind' was released in the 2xLP format.",
+      "'Loyal Eyes Betrayed the Mind' was released under The Mylene Sheath label."
+    ],
+    "verifications": [
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 217,
+    "old_score": 3.0,
+    "new_score": 3.4,
+    "claims": [
+      "Unplugged (2016) received a total of 6 nominations from Anugerah Industri Muzik.",
+      "Unplugged (2016) received a total of 3 awards from Anugerah Industri Muzik.",
+      "Unplugged (2016) won the award for Best Nasyid Song.",
+      "Unplugged (2016) won the award for Best Vocal Performance in a Song (Female).",
+      "Unplugged (2016) won the award for Best Album."
+    ],
+    "verifications": [
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 219,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Greece won 2-1 against Nigeria on 17 June 2010."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 239,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The Scaled Composites Model 351 Roc is from 2019.",
+      "The Towed Glider Air-Launch Concept is from 2013."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 243,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "In the 2011-2012 season, Kieron Dyer was a part of Queens Park Rangers."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 248,
+    "old_score": 2.333333333333333,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "Michael Saruni finished 3rd in the 800m event.",
+      "Michael Saruni competed at the NCAA Men's Division I Outdoor Track and Field Championships.",
+      "The venue was Eugene, Oregon."
+    ],
+    "verifications": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 258,
+    "old_score": 3.857142857142857,
+    "new_score": 4.333333333333334,
+    "claims": [
+      "Simran appeared in the film Mrigaraju in 2001.",
+      "Simran appeared in the film Narasimha Naidu in 2001.",
+      "Simran appeared in the film Prematho Raa in 2001.",
+      "Simran appeared in the film Bava Nachadu in 2001.",
+      "Simran appeared in the film Daddy in 2001.",
+      "Simran appeared in the film Seema Simham in 2001."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 262,
+    "old_score": 3.0,
+    "new_score": 1.0,
+    "claims": [
+      "27 matches and 34 goals."
+    ],
+    "verifications": [
+      false
+    ]
+  },
+  {
+    "original_idx": 263,
+    "old_score": 2.333333333333333,
+    "new_score": 5.0,
+    "claims": [
+      "Luther A. Johnson resigned on July 17, 1946.",
+      "Luther A. Johnson was succeeded by Olin E. Teague.",
+      "Olin E. Teague was installed on August 24, 1946."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 264,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Fernando Peres's first recorded game in the table was on 4 June 1964 against England.",
+      "The match on 4 June 1964 ended in a 1 \u2013 1 draw.",
+      "Fernando Peres's most recent appearance in the table was on 25 June 1972 against the Republic of Ireland.",
+      "Fernando Peres scored a goal in the match on 25 June 1972.",
+      "The match on 25 June 1972 ended in a 2 \u2013 1 victory."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 271,
+    "old_score": 2.0,
+    "new_score": 5.0,
+    "claims": [
+      "2009 BET Awards for Video of the Year",
+      "2009 MOBO Awards for Best Video",
+      "2009 MTV Europe Music Awards for Best Video",
+      "2009 MTV Video Music Awards for Video of the Year",
+      "2009 MTV Video Music Awards for Best Editing in a Video",
+      "2009 MTV Video Music Awards for Best Choreography in a Video",
+      "2009 Kids' Choice Awards for Favorite Song",
+      "2009 Soul Train Music Awards for Song of the Year",
+      "2009 Teen Choice Awards for Choice R&B Track",
+      "2009 TRL Awards for Nokia Playlist Generation Award",
+      "2010 ASCAP Pop Music Awards for Most Performed Songs",
+      "2010 ASCAP Rhythm & Soul Music Awards for Award Winning R&B/Hip-Hop Songs",
+      "2010 52nd Annual Grammy Awards for Song of the Year",
+      "2010 52nd Annual Grammy Awards for Best R&B Song",
+      "2010 52nd Annual Grammy Awards for Best Female R&B Vocal Performance"
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 274,
+    "old_score": 2.0,
+    "new_score": 3.0,
+    "claims": [
+      "Jemma Rix played the role of Elphaba.",
+      "The production was Wicked.",
+      "The location was Sydney.",
+      "The year was 2010."
+    ],
+    "verifications": [
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 275,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "\u00c1lvaro Morte played the role of David Ortiz.",
+      "\u00c1lvaro Morte played in the film Mirage.",
+      "\u00c1lvaro Morte played in 2018."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 277,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Manyonga jumped 8.48 meters.",
+      "Samaai jumped 8.32 meters."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 280,
+    "old_score": 4.2,
+    "new_score": 5.0,
+    "claims": [
+      "Calum Jahraldo-Martin was transferred to Oldham Athletic.",
+      "Calum Jahraldo-Martin is from Antigua and Barbuda.",
+      "The transfer occurred on 12 August 2016."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 288,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Barry Sanders played in 12 games in 1988."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 293,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Ogden Avenue intersects with West Chestnut Street in Chicago.",
+      "Ogden Avenue intersects with I-294 (Tri-State Tollway) at the Hinsdale \u2013 Western Springs line.",
+      "Ogden Avenue intersects with I-88 (Ronald Reagan Memorial Tollway) in Lisle.",
+      "Ogden Avenue intersects with I-355 (Veterans Memorial Tollway) in Lisle."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 294,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "England had the highest team inning during the 2010-11 Ashes series.",
+      "England had a score of 644."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 295,
+    "old_score": 2.333333333333333,
+    "new_score": 5.0,
+    "claims": [
+      "In 2007, Tompkins played himself in the documentary 'Super High Me'.",
+      "In 2007, Tompkins played Prescott in 'There Will Be Blood'.",
+      "In 1999, Tompkins played Chad, Seduce & Destroy (voice) in 'Magnolia'."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 297,
+    "old_score": 3.6666666666666665,
+    "new_score": 3.0,
+    "claims": [
+      "John Kelai was 3rd in the Mumbai Marathon.",
+      "John Kelai was 4th in the Ruhr Marathon.",
+      "John Kelai was 5th in the Singapore Marathon.",
+      "These events occurred in 2009."
+    ],
+    "verifications": [
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 298,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "The radio frequency associated with CJGY-FM in Dawson Creek is 96.7 FM.",
+      "The radio frequency associated with CJGY-FM in Fort St. John is 97.1 FM."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 301,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Georges Boucher played in the NHL for 12 seasons.",
+      "Georges Boucher totaled 204 points in 449 games."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 302,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "In 2018, Zo\u00eb Kravitz played the role of Leta Lestrange in Fantastic Beasts: The Crimes of Grindelwald."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 307,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Anthony Coombs was elected in 1987.",
+      "David Lock was elected in 1997."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 309,
+    "old_score": 2.333333333333333,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "In 2006, they won the Album of the Year award.",
+      "In 2007, they won the Album of the Year award.",
+      "In 2013, they won the Best Nordic Album of the Year."
+    ],
+    "verifications": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 315,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Michael Mizrachi won the Poker Players Championship in 2010.",
+      "Michael Mizrachi won the Poker Players Championship in 2012.",
+      "Michael Mizrachi won the Poker Players Championship in 2018."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 317,
+    "old_score": 3.0,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "Freeman won a gold medal in the 200m event at the 1994 Commonwealth Games in Canada.",
+      "Freeman won a gold medal in the 400m event at the 1994 Commonwealth Games in Canada.",
+      "Freeman won a silver medal in the 4x100m relay at the 1994 Commonwealth Games in Canada."
+    ],
+    "verifications": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 318,
+    "old_score": 4.0,
+    "new_score": 1.0,
+    "claims": [
+      "The teams that made up Group D were Egypt, Zambia, and Tunisia."
+    ],
+    "verifications": [
+      false
+    ]
+  },
+  {
+    "original_idx": 322,
+    "old_score": 3.0,
+    "new_score": 1.0,
+    "claims": [],
+    "verifications": []
+  },
+  {
+    "original_idx": 323,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Tara Fitzgerald appeared in A Doll's House as Christine Lyle at the Donmar Warehouse.",
+      "Tara Fitzgerald appeared in The Misanthrope as Marcia at the Comedy Theatre in 2009."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 324,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The USS Rasher has a total tonnage of 99,901.",
+      "The USS Archerfish has a total tonnage of 59,800."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 325,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The song 'Caramel' was released for 'Bop City 2: TerroRising'.",
+      "The song 'Death Wish' was released for 'Bop City 2: TerroRising'."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 329,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Gurnam Singh has served as MLA for Qila Raipur.",
+      "Gurnam Singh was a member of the Shiromani Akali Dal (BJS)."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 335,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "The records listed in the table are either relay records or records set in the Big Ten Conference."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 340,
+    "old_score": 2.333333333333333,
+    "new_score": 5.0,
+    "claims": [
+      "Ashley Leggat was involved in the film 'Confessions of a Teenage Drama Queen'.",
+      "Ashley Leggat was involved in the film in 2004.",
+      "Ashley Leggat played the role of Marcia."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 344,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "In 2016, Russell Brand portrayed God in 'Army of One'.",
+      "In 2016, Russell Brand portrayed Creek in 'Trolls'."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 347,
+    "old_score": 4.272727272727273,
+    "new_score": 4.0,
+    "claims": [
+      "Unplugged (2016) received 3 awards from Anugerah Industri Muzik.",
+      "Unplugged (2016) received the Best Album award.",
+      "Unplugged (2016) received the Best Vocal Performance in a Song (Female) award.",
+      "Unplugged (2016) received the Best Musical Arrangement in a Song award.",
+      "Unplugged (2016) received 3 nominations.",
+      "Unplugged (2016) was nominated for Best Musical Arrangement in a Song.",
+      "Unplugged (2016) was nominated for Best Pop Song.",
+      "Unplugged (2016) was nominated for Best Engineered Album."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 348,
+    "old_score": 3.4,
+    "new_score": 5.0,
+    "claims": [
+      "In 2003, Ryan Shay placed 1st in the USA Half Marathon Championships.",
+      "In 2003, Ryan Shay placed 3rd in the USA 25 km Championships.",
+      "In 2003, Ryan Shay placed 3rd in the USA 5 km Championships.",
+      "Ryan Shay did not compete in the USA 20 km Championships in 2003.",
+      "Ryan Shay did not compete in the USA 10 mile Championships in 2003."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 350,
+    "old_score": 3.4,
+    "new_score": 5.0,
+    "claims": [
+      "In 2008, Janina Gavankar portrayed Laura in Factory.",
+      "In 2008, Janina Gavankar portrayed Sgt. 'Dusty' Mehra in \"Whispers\" (Stargate Atlantis).",
+      "In 2008, Janina Gavankar portrayed Intern Lisa in \"There's No 'I' in Team\" (Grey's Anatomy)."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 351,
+    "old_score": 1.0,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "The match against Nigeria was on 17 June 2010.",
+      "The match was during the 2010 FIFA World Cup.",
+      "The match ended with a 2-1 victory for Greece."
+    ],
+    "verifications": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 357,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Anne Jeffreys played the role of Siress Blassie in Battlestar Galactica."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 358,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 1984, Doug Nordquist placed 5th at the Olympic Games.",
+      "The 1984 Olympic Games were held in Los Angeles, United States."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 362,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "\u0160u\u0161kevi\u010dius finished 17th in the 50 km race walk event at the 2009 World Championships."
+    ],
+    "verifications": [
+      false
+    ]
+  },
+  {
+    "original_idx": 366,
+    "old_score": 4.333333333333334,
+    "new_score": 5.0,
+    "claims": [
+      "Madhumitha appeared in a Tamil film in 2005: Amudhey.",
+      "Madhumitha appeared in a Tamil film in 2005: Englishkaran."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 368,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Tom Burke played the role of Stephen in The Cut.",
+      "Tom Burke played the role of Adolph in Creditors.",
+      "Tom Burke performed at the Donmar Warehouse."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 381,
+    "old_score": 2.333333333333333,
+    "new_score": 5.0,
+    "claims": [
+      "J J Feild portrayed Major John Andr\u00e9 in Turn: Washington's Spies.",
+      "J J Feild was involved in Turn: Washington's Spies from 2014 to 2016."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 383,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2015, Julia Sarah Stone won the Leo Award for Best Lead Performance by a Female in a Motion Picture for Wet Bum."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 384,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Daniel Zovatto played Gideon LeMarchal in Revenge.",
+      "Daniel Zovatto played Jack in Fear the Walking Dead."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 398,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The governor of Bengal in 1945 was Richard Casey."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 402,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Chelcee Grimes' debut single is 'Just Like That'.",
+      "'Just Like That' was released in 2018."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 403,
+    "old_score": 3.0,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "23.7% of the Netherlands population was Roman Catholic in 2015.",
+      "40.5% of the population was Roman Catholic in 1960.",
+      "The decline from 1960 to 2015 in the Roman Catholic population is 16.8%."
+    ],
+    "verifications": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 407,
+    "old_score": 4.333333333333334,
+    "new_score": 5.0,
+    "claims": [
+      "Simran appeared in the film Mrigaraju in 2001.",
+      "Simran appeared in the film Narasimha Naidu in 2001.",
+      "Simran appeared in the film Prematho Raa in 2001.",
+      "Simran appeared in the film Bava Nachadu in 2001.",
+      "Simran appeared in the film Daddy in 2001."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 409,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "On 7 December 2014, a record was achieved in the 50 m breaststroke short course.",
+      "On 7 December 2014, a record was achieved in the 4 \u00d7 100 m medley short course."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 411,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "Mitsunori Yoshida played 271 matches for Yamaha Motors.",
+      "Mitsunori Yoshida scored 35 goals for Yamaha Motors."
+    ],
+    "verifications": [
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 413,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Fernando Peres's first recorded game in the table was on 4 June 1964 against England in the Ta\u00e7a das Na\u00e7\u00f5es.",
+      "The match on 4 June 1964 ended in a 1 \u2013 1 draw.",
+      "Fernando Peres's most recent appearance in the table was on 25 June 1972 against the Republic of Ireland in the Brazil Independence Cup.",
+      "The match on 25 June 1972 ended in a 2 \u2013 1 victory for his team."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 416,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "David Wecht from the Democratic Party received 1,029,560 votes.",
+      "David Wecht from the Democratic Party accounted for 54.5% of the total votes.",
+      "Vic Stabile from the Republican Party received 859,687 votes.",
+      "Vic Stabile from the Republican Party accounted for 45.5% of the total votes."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 418,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "Mamta Kulkarni was a part of the Hindi film 'Aashiq Awara' in 1993.",
+      "Mamta Kulkarni was a part of the Hindi film 'Bhookamp' in 1993.",
+      "Mamta Kulkarni was a part of the Hindi film 'Waqt Hamara Hai' in 1993.",
+      "Mamta Kulkarni was a part of the Hindi film 'Ashaant' in 1993."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 420,
+    "old_score": 2.333333333333333,
+    "new_score": 5.0,
+    "claims": [
+      "In 2009, 'Single Ladies' won the Video of the Year award at the MTV Video Music Awards.",
+      "In 2009, 'Single Ladies' won the Best Video award at the MOBO Awards.",
+      "In 2009, 'Single Ladies' won the Best Video award at the MTV Europe Music Awards.",
+      "In 2009, 'Single Ladies' won the Best Editing in a Video award at the MTV Video Music Awards.",
+      "In 2009, 'Single Ladies' won the Best Choreography in a Video award at the MTV Video Music Awards.",
+      "In 2009, 'Single Ladies' won the Favorite Song award at the Kids' Choice Awards.",
+      "In 2009, 'Single Ladies' won the Song of the Year award at the Soul Train Music Awards.",
+      "In 2009, 'Single Ladies' won the Choice R&B Track award at the Teen Choice Awards.",
+      "In 2009, 'Single Ladies' won the Nokia Playlist Generation Award at the TRL Awards.",
+      "In 2010, 'Single Ladies' won the Most Performed Songs award at the ASCAP Pop Music Awards.",
+      "In 2010, 'Single Ladies' won the Award Winning R&B/Hip-Hop Songs award at the ASCAP Rhythm & Soul Music Awards.",
+      "In 2010, 'Single Ladies' won the Song of the Year award at the 52nd Annual Grammy Awards.",
+      "In 2010, 'Single Ladies' won the Best R&B Song award at the 52nd Annual Grammy Awards.",
+      "In 2010, 'Single Ladies' won the Best Female R&B Vocal Performance award at the 52nd Annual Grammy Awards."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 421,
+    "old_score": 4.2,
+    "new_score": 5.0,
+    "claims": [
+      "In 2003, P\u00e9ter Scherer appeared in 'Kontroll'.",
+      "In 2005, P\u00e9ter Scherer appeared in 'One day in Europe'.",
+      "In 2005, P\u00e9ter Scherer appeared in 'Doll No. 639'.",
+      "In 2010, P\u00e9ter Scherer played roles in 'So Much for Justice!'.",
+      "In 2010, P\u00e9ter Scherer played roles in 'Carlos'."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 422,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "The German submarine U-21 sank the Swedish ship Carl Henckel.",
+      "The German submarine U-21 sank the Swedish ship Mars."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 423,
+    "old_score": 3.6666666666666665,
+    "new_score": 3.0,
+    "claims": [
+      "Jemma Rix played the role of Elphaba.",
+      "The production was in 2010.",
+      "The production was of Wicked.",
+      "The production was performed in Sydney."
+    ],
+    "verifications": [
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 427,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Martin de Redin was the Grand Master of the Knights Hospitaller.",
+      "Martin de Redin's tenure was from 1657 to 1660."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 436,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The table does not provide information about Barry Sanders' performance in 1998.",
+      "The table only includes data from Barry Sanders' 1988 game logs.",
+      "Barry Sanders had a total of 2,850 yards in 1988.",
+      "Barry Sanders had 42 touchdowns in 1988.",
+      "Barry Sanders played in 12 games in 1988."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 441,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Ogden Avenue intersects I-90/I-94 (Kennedy Expressway) and West Chestnut Street in Chicago.",
+      "Ogden Avenue intersects I-294 (Tri-State Tollway) at the Hinsdale\u2013Western Springs line.",
+      "Ogden Avenue intersects IL 53 (Lincoln Avenue) in Lisle."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 444,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Warren Woods Natural Area was designated as a National Natural Landmark in 1967.",
+      "The Porcupine Mountains were designated as a National Natural Landmark in 1984."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 447,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Robin Korving secured the 3rd position in the 110 m hurdles at the European Championships in Budapest, Hungary in 1998."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 448,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Motta made 16 league appearances for Roma during the 2009-10 Serie A season."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 449,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Georges Boucher played in the NHL from the 1917\u201318 season to the 1931\u201332 season.",
+      "Georges Boucher played 449 games during his NHL career.",
+      "Georges Boucher scored 117 goals during his NHL career.",
+      "Georges Boucher had 87 assists during his NHL career.",
+      "Georges Boucher had a total of 204 points during his NHL career.",
+      "Georges Boucher accumulated 838 penalty minutes during his NHL career."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 452,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Derek Jacobi played the role of Cyrano de Bergerac in 'Cyrano de Bergerac'.",
+      "Derek Jacobi played the role of Malvolio in 'Twelfth Night'."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 453,
+    "old_score": 3.0,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "Sally Pearson achieved 2nd place.",
+      "The event was 100 m hurdles.",
+      "The competition was the 2008 Olympic Games."
+    ],
+    "verifications": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 454,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Jahangir Khan Tareen was a candidate from PTI.",
+      "Muhammad Saddique Khan Baloch was a candidate from PML (N).",
+      "Jahangir Khan Tareen received 138,719 votes.",
+      "Jahangir Khan Tareen received 56.05% of the total votes.",
+      "Muhammad Saddique Khan Baloch received 99,933 votes.",
+      "Muhammad Saddique Khan Baloch received 40.38% of the total votes."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 459,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The Michigan Wolverines men's basketball team won against Kalamazoo College on February 13, 1918."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 461,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 1982, Simon MacCorkindale starred in 'The Sword and the Sorcerer' as Prince Mikah.",
+      "In 1982, Simon MacCorkindale starred in 'An Outpost of Progress' as Kayerts.",
+      "In 1983, Simon MacCorkindale starred in 'Jaws 3-D' as Philip FitzRoyce."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 466,
+    "old_score": 4.0,
+    "new_score": 1.0,
+    "claims": [],
+    "verifications": []
+  },
+  {
+    "original_idx": 471,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2009, Tara Fitzgerald appeared in 'A Doll's House' as Christine Lyle.",
+      "In 2009, Tara Fitzgerald appeared in 'The Misanthrope' as Marcia."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 472,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "U S S R a s h e r has a total tonnage of 99,901.",
+      "U S S A r c h e r f i s h has a total tonnage of 59,800."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 473,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The table does not provide specific release order information for the songs in Bop City 2: TerroRising."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 476,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Adrian's final time was 47.52.",
+      "James Magnussen finished with a time of 47.53."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 483,
+    "old_score": 3.0,
+    "new_score": 1.0,
+    "claims": [
+      "The table does not specify the exact date the national record for the 200m SC butterfly was set."
+    ],
+    "verifications": [
+      false
+    ]
+  },
+  {
+    "original_idx": 484,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "The table does not contain information about a 2018 movie.",
+      "The table lists a theatre production in 2018.",
+      "Brooks Ashmanskas played Barry Glickman in The Prom on Broadway."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 486,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Alec Milne made 276 appearances at Stoke."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 495,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "Unplugged received a total of 2 nominations from Anugerah Industri Muzik.",
+      "Unplugged won 1 award from Anugerah Industri Muzik."
+    ],
+    "verifications": [
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 497,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "In 2013, Genesis Rodriguez played Agent Ellen Richards in The Last Stand.",
+      "In 2013, Genesis Rodriguez played Marisol in Identity Thief."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 498,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2008, Janina Gavankar portrayed the role of Terri in 'My Boys'.",
+      "In 2008, Janina Gavankar portrayed the role of Laura in 'Factory'.",
+      "In 2008, Janina Gavankar portrayed the role of Sgt. 'Dusty' Mehra in 'Stargate Atlantis'.",
+      "In 2008, Janina Gavankar portrayed the role of Intern Lisa in 'Grey's Anatomy'."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 499,
+    "old_score": 1.0,
+    "new_score": 2.333333333333333,
+    "claims": [
+      "On 17 June 2010, Greece played against Nigeria.",
+      "The match was part of the 2010 FIFA World Cup.",
+      "The match ended with a 2\u20131 victory for Greece."
+    ],
+    "verifications": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 506,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Doug Nordquist placed 5th at the 1984 Olympic Games.",
+      "The 1984 Olympic Games were held in Los Angeles, United States."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 507,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2017, Adivi Sesh won the IIFA Utsavam award for Best Screenplay for Kshanam.",
+      "In 2017, Adivi Sesh won the Nandi Award for Best Screenplay Writer for Kshanam."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 508,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "The album Pretty Much was released in 2018.",
+      "The album Pretty Much is 'PRETTYMUCH an EP'."
+    ],
+    "verifications": [
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 510,
+    "old_score": 1.0,
+    "new_score": 3.0,
+    "claims": [
+      "Tadas \u0160u\u0161kevi\u010dius placed 17th in the 50 km event.",
+      "The event was at the 2009 World Championships."
+    ],
+    "verifications": [
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 514,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Madhumitha appeared in the Tamil film 'Amudhey'.",
+      "Madhumitha appeared in the Tamil film 'Englishkaran'.",
+      "Madhumitha appeared in the film 'Amudhey' in 2005.",
+      "Madhumitha appeared in the film 'Englishkaran' in 2005."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 524,
+    "old_score": 2.6,
+    "new_score": 5.0,
+    "claims": [
+      "In 2007, Karen David acted in 'Flight of Fury'.",
+      "In 2007, Karen David took up the role of Barnes's Operational Soldier Flanders.",
+      "In 2008, Karen David appeared in 'The Scorpion King 2: Rise of a Warrior'.",
+      "In 2008, Karen David appeared as Layla in 'The Scorpion King 2: Rise of a Warrior'.",
+      "In 2008, Karen David appeared in 'The Colour of Magic'.",
+      "In 2008, Karen David appeared as Liessa in 'The Colour of Magic'."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 532,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "The \u00b2\u2074\u2078Cm(\u00b2\u00b2Ne,5n) reaction produces the isotope 265Sg.",
+      "The \u00b2\u2074\u2078Cm(\u00b2\u00b2Ne,5n) reaction produces the isotope 265mSg.",
+      "The isotope 265Sg has a half-life of 8 s.",
+      "The isotope 265mSg has a half-life of 16.2 s."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 546,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2008, Kirani James competed in the CARIFTA Games.",
+      "Kirani James competed in the 200m event at the 2008 CARIFTA Games.",
+      "Kirani James competed in the 400m event at the 2008 CARIFTA Games.",
+      "Kirani James placed 1st in the 200m event at the 2008 CARIFTA Games.",
+      "Kirani James placed 1st in the 400m event at the 2008 CARIFTA Games."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 548,
+    "old_score": 2.333333333333333,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "George Eastham made 129 appearances for Newcastle United.",
+      "George Eastham scored 34 goals for Newcastle United.",
+      "George Eastham made 223 appearances for Arsenal.",
+      "George Eastham scored 41 goals for Arsenal.",
+      "George Eastham made 352 appearances in total before joining Stoke City.",
+      "George Eastham scored 75 goals in total before joining Stoke City."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 549,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Chelcee Grimes's debut single is 'Just Like That'.",
+      "'Just Like That' was released in 2018."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 558,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "As a player for Yamaha Motors, Mitsunori Yoshida had 248 matches.",
+      "As a player for Yamaha Motors, Mitsunori Yoshida had 35 goals."
+    ],
+    "verifications": [
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 559,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Luther A. Johnson was succeeded by Olin E. Teague.",
+      "Luther A. Johnson resigned from his position as a representative."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 571,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "\u00c1lvaro Morte played the role of David Ortiz.",
+      "The film Mirage was released in 2018."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 576,
+    "old_score": 4.0,
+    "new_score": 4.0,
+    "claims": [
+      "The transfer happened on 12 August 2016.",
+      "The transfer involved Calaum Jahraldo-Martin.",
+      "Calaum Jahraldo-Martin transferred to Oldham Athletic.",
+      "The transfer was a free transfer."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 589,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "In Chicago, Ogden Avenue intersects I-90/I-94 west (Kennedy Expressway).",
+      "In the Hinsdale \u2013 Western Springs line, it intersects I-294 (Tri-State Tollway).",
+      "In Lisle, it intersects IL 53 (Lincoln Avenue)."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 592,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Warren Woods Natural Area was designated as a National Natural Landmark in 1967.",
+      "Porcupine Mountains was designated as a National Natural Landmark in 1984."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 597,
+    "old_score": 4.428571428571429,
+    "new_score": 5.0,
+    "claims": [
+      "Georges Boucher played in the NHL for 12 seasons.",
+      "Georges Boucher played from 1917\u201318 to 1931\u201332.",
+      "Georges Boucher scored 117 goals during his NHL career.",
+      "Georges Boucher made 87 assists during his NHL career.",
+      "Georges Boucher accumulated 204 points during his NHL career.",
+      "Georges Boucher played 449 games during his NHL career.",
+      "Georges Boucher had 838 penalty minutes during his NHL career."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 602,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Sally Pearson achieved a silver medal.",
+      "The event was the 100 m hurdles.",
+      "The competition was the 2008 Olympic Games.",
+      "The venue was Beijing, China."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 614,
+    "old_score": 4.2,
+    "new_score": 4.2,
+    "claims": [
+      "Freeman was successful in the 1994 Commonwealth Games competition.",
+      "Freeman won two gold medals in the 1994 Commonwealth Games.",
+      "Freeman won a gold medal in the 200m event in the 1994 Commonwealth Games.",
+      "Freeman won a gold medal in the 400m event in the 1994 Commonwealth Games.",
+      "Freeman won a silver medal in the 4 \u00d7 100 m relay in the 1994 Commonwealth Games."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 619,
+    "old_score": 3.0,
+    "new_score": 2.333333333333333,
+    "claims": [
+      "Roy W. Johnson coached the New Mexico Lobos from 1919-1920.",
+      "Roy W. Johnson coached the New Mexico Lobos from 1921-1931.",
+      "Roy W. Johnson coached the New Mexico Lobos from 1933-1940."
+    ],
+    "verifications": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 634,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 1961, Kathleen Widdoes appeared in 'Way Out'.",
+      "In 1961, Kathleen Widdoes appeared in 'Armstrong Circle Theatre'.",
+      "In 1961, Kathleen Widdoes appeared in 'Festival'.",
+      "In 1967, Kathleen Widdoes appeared in 'The Invaders'.",
+      "In 1967, Kathleen Widdoes appeared in 'A Bell for Adano'."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 644,
+    "old_score": 1.0,
+    "new_score": 3.0,
+    "claims": [
+      "Unplugged (2016) received 7 nominations from Anugerah Industri Muzik.",
+      "Unplugged (2016) won 3 awards from Anugerah Industri Muzik."
+    ],
+    "verifications": [
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 646,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "In 2013, Genesis Rodriguez played the role of Agent Ellen Richards in The Last Stand.",
+      "In 2013, Genesis Rodriguez played the role of Marisol in Identity Thief.",
+      "In 2013, Genesis Rodriguez played the role of Abigail Hayes in Hours."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 648,
+    "old_score": 3.0,
+    "new_score": 3.0,
+    "claims": [
+      "The match was against Nigeria.",
+      "The match was on 17 June 2010.",
+      "The match was part of the 2010 FIFA World Cup.",
+      "The result of the match was 2-1."
+    ],
+    "verifications": [
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 649,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Suhas Joshi appeared in a Hindi project titled Ek Packet Umeed.",
+      "Suhas Joshi appeared in a Hindi project titled Khamoshiyaan."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 659,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "Tadas \u0160u\u0161kevi\u010dius finished 17th in the 50 km event at the 2009 World Championships."
+    ],
+    "verifications": [
+      false
+    ]
+  },
+  {
+    "original_idx": 663,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Madhumitha appeared in the Tamil film 'Amudhey'.",
+      "Madhumitha appeared in the Tamil film 'Englishkaran'.",
+      "Madhumitha appeared in films in 2005."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 665,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Tom Burke played the role of Stephen in The Cut.",
+      "Tom Burke played the role of Adolph in Creditors.",
+      "Tom Burke played in The Cut at the Donmar Warehouse.",
+      "Tom Burke played in Creditors at the Donmar Warehouse."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 675,
+    "old_score": 4.428571428571429,
+    "new_score": 5.0,
+    "claims": [
+      "The year Momo Asakura had the most roles was 2014.",
+      "Momo Asakura had a role in Witch Craft Works in 2014.",
+      "Momo Asakura had a role in Sakura Trick in 2014.",
+      "Momo Asakura had a role in Noragami in 2014.",
+      "Momo Asakura had a role in Hamatora: The Animation in 2014.",
+      "Momo Asakura had a role in Bladedance of Elementalers in 2014.",
+      "Momo Asakura had a role in Sword Art Online II in 2014."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 677,
+    "old_score": 1.0,
+    "new_score": 3.0,
+    "claims": [
+      "The Towed Glider Air-Launch Concept is a project from 2013.",
+      "The Scaled Composites Model 351 Roc is a project from 2019."
+    ],
+    "verifications": [
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 678,
+    "old_score": 2.333333333333333,
+    "new_score": 3.0,
+    "claims": [
+      "Feild portrayed Major John Andr\u00e9 in 2014.",
+      "Feild portrayed Major John Andr\u00e9 in 2015.",
+      "Feild portrayed Major John Andr\u00e9 in 2016.",
+      "Feild portrayed Major John Andr\u00e9 in the TV series Turn: Washington's Spies."
+    ],
+    "verifications": [
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 698,
+    "old_score": 3.0,
+    "new_score": 3.0,
+    "claims": [
+      "George Eastham played for Newcastle United before joining Stoke City.",
+      "George Eastham played for Arsenal before joining Stoke City.",
+      "George Eastham recorded a total of 336 appearances before joining Stoke City.",
+      "George Eastham recorded a total of 75 goals before joining Stoke City."
+    ],
+    "verifications": [
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 699,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Title: Just Like That",
+      "Year: 2018"
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 706,
+    "old_score": 3.0,
+    "new_score": 3.0,
+    "claims": [
+      "On 7 December 2014, a record was achieved for the 4 \u00d7 100 m medley.",
+      "The record was South American, Short Course."
+    ],
+    "verifications": [
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 708,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "Mitsunori Yoshida played a total of 251 matches for Yamaha Motors.",
+      "Mitsunori Yoshida scored 35 goals as a player for Yamaha Motors."
+    ],
+    "verifications": [
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 717,
+    "old_score": 3.6666666666666665,
+    "new_score": 4.6923076923076925,
+    "claims": [
+      "Beyonc\u00e9's \"Single Ladies\" won Best Video at the MOBO Awards.",
+      "Beyonc\u00e9's \"Single Ladies\" won Video of the Year at the MTV Video Music Awards.",
+      "Beyonc\u00e9's \"Single Ladies\" won Best Editing in a Video at the MTV Video Music Awards.",
+      "Beyonc\u00e9's \"Single Ladies\" won Best Choreography in a Video at the MTV Video Music Awards.",
+      "Beyonc\u00e9's \"Single Ladies\" won Favorite Song at the Kids' Choice Awards.",
+      "Beyonc\u00e9's \"Single Ladies\" won Song of the Year at the Soul Train Music Awards.",
+      "Beyonc\u00e9's \"Single Ladies\" won Choice R&B Track at the Teen Choice Awards.",
+      "Beyonc\u00e9's \"Single Ladies\" won the Nokia Playlist Generation Award at the TRL Awards.",
+      "Beyonc\u00e9's \"Single Ladies\" won Most Performed Songs at the ASCAP Pop Music Awards.",
+      "Beyonc\u00e9's \"Single Ladies\" won Award Winning R&B/Hip-Hop Songs at the ASCAP Rhythm & Soul Music Awards.",
+      "Beyonc\u00e9's \"Single Ladies\" won Song of the Year at the 52nd Annual Grammy Awards.",
+      "Beyonc\u00e9's \"Single Ladies\" won Best R&B Song at the 52nd Annual Grammy Awards.",
+      "Beyonc\u00e9's \"Single Ladies\" won Best Female R&B Vocal Performance at the 52nd Annual Grammy Awards."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 718,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "P\u00e9ter Scherer appeared in the film 'Kontroll' in 2003.",
+      "P\u00e9ter Scherer appeared in the film 'One day in Europe' in 2005.",
+      "P\u00e9ter Scherer appeared in the film 'So Much for Justice!' in 2010.",
+      "P\u00e9ter Scherer appeared in the TV mini-series 'Carlos' in 2010."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 722,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "The Verve did not win any Best Song awards."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 726,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "On 12 August 2016, a free transfer occurred in Hull City A.F.C. season.",
+      "The transfer was of RW Calaum Jahraldo-Martin.",
+      "Calaum Jahraldo-Martin is from Antigua and Barbuda.",
+      "The transfer was to Oldham Athletic."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 730,
+    "old_score": 3.6666666666666665,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "In 1997, Toby Stephens was a part of the film 'Photographing Fairies'.",
+      "In 1997, Toby Stephens played as Duke Orsino in the film 'Twelfth Night'.",
+      "The film 'Twelfth Night' was directed by Trevor Nunn."
+    ],
+    "verifications": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 733,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Neethling placed 8th.",
+      "Neethling had a time of 3:48.52.",
+      "Hackett placed 7th.",
+      "Hackett had a time of 3:48.22."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 739,
+    "old_score": 4.2,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "In Chicago, Ogden Avenue intersects with I-90/I-94 west (Kennedy Expressway) and West Chestnut Street.",
+      "In Western Springs, there is no specific intersection listed for Ogden Avenue.",
+      "In Lisle, Ogden Avenue has an interchange with IL 53 (Lincoln Avenue) and intersects with I-88 (Ronald Reagan Memorial Tollway)."
+    ],
+    "verifications": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 741,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2007, Thomkins played a role in 'Super High Me' as himself.",
+      "In 2007, Thomkins played a role in 'There Will Be Blood' as Prescott.",
+      "In 1999, Thomkins played a role in 'Magnolia' as the voice of Chad, Seduce & Destroy."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 742,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Warren Woods Natural Area was designated in 1967.",
+      "Porcupine Mountains was designated in 1984."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 745,
+    "old_score": 3.0,
+    "new_score": 2.333333333333333,
+    "claims": [
+      "In 1998, Robin Korving won the bronze medal in the 110 m hurdles.",
+      "The event took place at the European Championships.",
+      "The venue for the event was Budapest, Hungary."
+    ],
+    "verifications": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 750,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Derek Jacobi played the role of Cyrano de Bergerac."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 752,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2008, Sally Pearson achieved 2nd place in the 100 m hurdles."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 756,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "The Knife won an Album of the Year award in 2007."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 760,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 1982, Simon MacCorkindale starred in the role of Prince Mikah in the film The Sword and the Sorcerer.",
+      "In 1983, Simon MacCorkindale starred in the role of Philip FitzRoyce in the film Jaws 3-D."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 764,
+    "old_score": 4.0,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "Freeman won gold medals in the 200 meters event at the 1994 Commonwealth Games.",
+      "Freeman won gold medals in the 400 meters event at the 1994 Commonwealth Games.",
+      "Freeman secured a silver medal in the 4 \u00d7 100 meter relay at the 1994 Commonwealth Games."
+    ],
+    "verifications": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 765,
+    "old_score": 4.0,
+    "new_score": 1.0,
+    "claims": [
+      "The teams that made up Group D were Egypt, Tunisia, and Zambia."
+    ],
+    "verifications": [
+      false
+    ]
+  },
+  {
+    "original_idx": 766,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Cody Simpson guest-starred as Pete on the show Cougar Town in 2015."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 769,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "R o y W . J o h n s o n coached the N e w M e x i c o L o b o s from the 1 9 1 9 \u2013 2 0 season to the 1 9 3 0 \u2013 3 1 season.",
+      "R o y W . J o h n s o n coached the N e w M e x i c o L o b o s from the 1 9 3 3 \u2013 3 4 season to the 1 9 3 9 \u2013 4 0 season."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 776,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Gurnam Singh served as the Chief Minister of Punjab, India, for two terms.",
+      "Gurnam Singh's first term was from March 8, 1967, to November 25, 1967.",
+      "Gurnam Singh's second term was from February 17, 1969, to March 27, 1970."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 782,
+    "old_score": 3.4,
+    "new_score": 5.0,
+    "claims": [
+      "The record for the 200m SC butterfly with a time of 1:51.90 was set at the 2011 Duel in the Pool in Atlanta, GA.",
+      "The record for the 200m SC butterfly with a time of 1:51.90 is listed as an American record."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 790,
+    "old_score": 4.428571428571429,
+    "new_score": 4.333333333333334,
+    "claims": [
+      "Kawasaki has won the Superbike World Championship in 1993 with Scott Russell.",
+      "Kawasaki has won the Superbike World Championship in 2013 with Jonathan Rea.",
+      "Kawasaki has won the Superbike World Championship in 2015 with Jonathan Rea.",
+      "Kawasaki has won the Superbike World Championship in 2016 with Jonathan Rea.",
+      "Kawasaki has won the Superbike World Championship in 2017 with Jonathan Rea.",
+      "Kawasaki has won the Superbike World Championship in 2018 with Jonathan Rea."
+    ],
+    "verifications": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 794,
+    "old_score": 2.6,
+    "new_score": 2.333333333333333,
+    "claims": [
+      "Unplugged (2016) received two nominations from Anugerah Industri Muzik.",
+      "Unplugged (2016) won in one category.",
+      "Unplugged (2016) won in the Best Album category."
+    ],
+    "verifications": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 795,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "Ryan Shay placed 1st in the USA Half Marathon Championships in 2003.",
+      "Ryan Shay placed 3rd in the 25 km championships.",
+      "Ryan Shay placed 3rd in the 5 km championships in 2003."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 797,
+    "old_score": 4.2,
+    "new_score": 5.0,
+    "claims": [
+      "In 2008, Janina Gavankar portrayed the role of Terri in 'My Boys'.",
+      "In 2008, Janina Gavankar portrayed the role of Laura in 'Factory'.",
+      "In 2008, Janina Gavankar portrayed the role of Sgt. 'Dusty' Mehra in 'Stargate Atlantis'.",
+      "In 2008, Janina Gavankar portrayed the role of Intern Lisa in 'Grey's Anatomy'."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 806,
+    "old_score": 3.6666666666666665,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "Adivi Sesh received the Nandi Award for Best Screenplay Writer.",
+      "The film Kshanam is in Telugu.",
+      "The award was received in 2017."
+    ],
+    "verifications": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 810,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2016, Shayne Ward won the award for Best Newcomer."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 813,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2005, Madhumitha appeared in the Tamil film 'Amudhey'.",
+      "In 2005, Madhumitha appeared in the Tamil film 'Englishkaran'."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 815,
+    "old_score": 2.333333333333333,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "Tom Burke played the role of Adolph.",
+      "The production was 'Creditors'.",
+      "The theatre was the Donmar Warehouse."
+    ],
+    "verifications": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 819,
+    "old_score": 3.0,
+    "new_score": 4.0,
+    "claims": [
+      "Yukino Kishii played the role of Shiori Mochizuki in School Lawyer.",
+      "Yukino Kishii played the role of Taka K\u014dda in Manpuku.",
+      "Yukino Kishii played these roles in 2018.",
+      "Yukino Kishii played these roles on NHK."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 823,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Marisol Nichols played the character Tracy Keller.",
+      "Marisol Nichols appeared in NCIS: Los Angeles.",
+      "Marisol Nichols was in the episode 'Stand-off'."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 825,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "In 2016, Momo Asakura had roles for High School Fleet.",
+      "In 2016, Momo Asakura had roles for WWW.Working!!."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 828,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "From 2014-2016, Feild portrayed Major John Andr\u00e9.",
+      "Feild portrayed Major John Andr\u00e9 in the series 'Turn: Washington's Spies'."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 831,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Daniel Zovatto played the role of Gideon LeMarchal in Revenge.",
+      "Daniel Zovatto played the role of Jack in Fear the Walking Dead."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 833,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "In the 2011-2012 season, Kieron Dyer was a part of Queens Park Rangers."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 839,
+    "old_score": 2.333333333333333,
+    "new_score": 2.333333333333333,
+    "claims": [
+      "Michael Saruni placed 3rd in the 800m.",
+      "The event was the NCAA Men's Division I Outdoor Track and Field Championships.",
+      "The venue was Eugene, Oregon."
+    ],
+    "verifications": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 841,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The Central Java period of the Medang Kingdom spans from 732 to 929."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 848,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "George Eastham made a total of 352 appearances.",
+      "George Eastham scored 75 goals."
+    ],
+    "verifications": [
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 858,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "Mitsunori Yoshida played 246 matches for Yamaha Motors.",
+      "Mitsunori Yoshida scored 35 goals for Yamaha Motors."
+    ],
+    "verifications": [
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 867,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "'Single Ladies' by Beyonc\u00e9 won Best Video at the MOBO Awards.",
+      "'Single Ladies' by Beyonc\u00e9 won Video of the Year at the MTV Europe Music Awards.",
+      "'Single Ladies' by Beyonc\u00e9 won Best Editing in a Video at the MTV Video Music Awards.",
+      "'Single Ladies' by Beyonc\u00e9 won Best Choreography in a Video at the MTV Video Music Awards.",
+      "'Single Ladies' by Beyonc\u00e9 won Favorite Song at the Kids' Choice Awards.",
+      "'Single Ladies' by Beyonc\u00e9 won Choice R&B Track at the Teen Choice Awards.",
+      "'Single Ladies' by Beyonc\u00e9 won the Nokia Playlist Generation Award at the TRL Awards.",
+      "'Single Ladies' by Beyonc\u00e9 won Most Performed Songs at the ASCAP Pop Music Awards.",
+      "'Single Ladies' by Beyonc\u00e9 won Award Winning R&B/Hip-Hop Songs at the ASCAP Rhythm & Soul Music Awards.",
+      "'Single Ladies' by Beyonc\u00e9 won Song of the Year at the Grammy Awards.",
+      "'Single Ladies' by Beyonc\u00e9 won Best R&B Song at the Grammy Awards.",
+      "'Single Ladies' by Beyonc\u00e9 won Best Female R&B Vocal Performance at the Grammy Awards."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 880,
+    "old_score": 3.0,
+    "new_score": 3.0,
+    "claims": [
+      "In 1997, Toby Stephens was a part of 'Photographing Fairies' directed by Nick Willing.",
+      "In 1997, Toby Stephens played Duke Orsino in 'Twelfth Night' directed by Trevor Nunn."
+    ],
+    "verifications": [
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 889,
+    "old_score": 4.333333333333334,
+    "new_score": 5.0,
+    "claims": [
+      "Ogden Avenue intersects I-90/I-94 west (Kennedy Expressway) and West Chestnut Street in Chicago.",
+      "Ogden Avenue intersects I-294 (Tri-State Tollway) at the Hinsdale\u2013Western Springs line.",
+      "Ogden Avenue intersects both IL 53 (Lincoln Avenue) and I-88/I-355 in Lisle."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 895,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "In 1998, Robin Korving won the bronze medal in the 110 m hurdles.",
+      "The event took place at the European Championships in Budapest, Hungary.",
+      "Robin Korving's time was 13.20 seconds."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 897,
+    "old_score": 4.555555555555555,
+    "new_score": 4.0,
+    "claims": [
+      "Georges Boucher accumulated 117 goals in regular-season games.",
+      "Georges Boucher accumulated 87 assists in regular-season games.",
+      "Georges Boucher accumulated 204 points in regular-season games.",
+      "Georges Boucher played 449 regular-season games.",
+      "Georges Boucher had 838 penalty minutes in regular-season games.",
+      "In the playoffs, Georges Boucher scored 5 goals.",
+      "In the playoffs, Georges Boucher had 3 points.",
+      "Georges Boucher played 28 playoff games."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 906,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "The Knife won the Album of the Year award in 2006."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 914,
+    "old_score": 3.6666666666666665,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "Cathy Freeman won a gold medal in the 200m event at the 1994 Commonwealth Games in Canada.",
+      "Cathy Freeman won a gold medal in the 400m event at the 1994 Commonwealth Games in Canada.",
+      "Cathy Freeman won a silver medal in the 4 \u00d7 100 m relay at the 1994 Commonwealth Games in Canada."
+    ],
+    "verifications": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 919,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "The New Mexico Lobos basketball team was part of the Border Conference from 1933 to 1940."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 930,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Loyal Eyes Betrayed the Mind was released as a 2xLP by The Mylene Sheath in 2008."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 932,
+    "old_score": 3.4,
+    "new_score": 5.0,
+    "claims": [
+      "Davis Tarwater set an individual national record in the 200m SC butterfly.",
+      "The time for the record was 1:51.90.",
+      "The record was set on December 17, 2011."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 944,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "Unplugged (2016) received a total of two nominations.",
+      "Unplugged (2016) won one award from Anugerah Industri Muzik."
+    ],
+    "verifications": [
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 946,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "In 2013, Genesis Rodriguez played the role of Agent Ellen Richards in 'The Last Stand'.",
+      "In 2013, Genesis Rodriguez played the role of Marisol in 'Identity Thief'."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 948,
+    "old_score": 2.333333333333333,
+    "new_score": 2.333333333333333,
+    "claims": [
+      "On 17 June 2010, Greece played against Nigeria.",
+      "The match was part of the 2010 FIFA World Cup.",
+      "Greece won the match with a score of 2\u20131."
+    ],
+    "verifications": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 953,
+    "old_score": 4.2,
+    "new_score": 5.0,
+    "claims": [
+      "The Hunting Ground was nominated for an Emmy Award for Exceptional Merit in Documentary Filmmaking.",
+      "The Hunting Ground was nominated for a PGA Award for Outstanding Producer of Documentary Theatrical Motion Picture.",
+      "The Hunting Ground was nominated for a Stanley Kramer Award."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 972,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Ariana Grande played Cat Valentine in 'Victorious' from 2010 to 2013.",
+      "Ariana Grande played Cat Valentine in 'Sam & Cat' from 2013 to 2014."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 973,
+    "old_score": 2.333333333333333,
+    "new_score": 5.0,
+    "claims": [
+      "Marisol Nichols played the character Tracy Keller.",
+      "Marisol Nichols appeared in the episode 'Stand-off'.",
+      "Marisol Nichols was in 'NCIS: Los Angeles'."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 978,
+    "old_score": 2.333333333333333,
+    "new_score": 2.333333333333333,
+    "claims": [
+      "In 2014, JJ Feild portrayed Major John Andr\u00e9 in 'Turn: Washington's Spies'.",
+      "In 2015, JJ Feild portrayed Major John Andr\u00e9 in 'Turn: Washington's Spies'.",
+      "In 2016, JJ Feild portrayed Major John Andr\u00e9 in 'Turn: Washington's Spies'."
+    ],
+    "verifications": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 998,
+    "old_score": 3.6666666666666665,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "George Eastham made 124 appearances for Newcastle United.",
+      "George Eastham scored 34 goals for Newcastle United.",
+      "George Eastham made 223 appearances for Arsenal.",
+      "George Eastham scored 41 goals for Arsenal.",
+      "George Eastham made a total of 347 appearances before joining Stoke City.",
+      "George Eastham scored a total of 75 goals before joining Stoke City."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 1002,
+    "old_score": 4.555555555555555,
+    "new_score": 5.0,
+    "claims": [
+      "Feel The Love was released in 2013 under the label Avex Trax.",
+      "Feel The Love was released in 2013 under the label Avex Taiwan.",
+      "Feel The Love was released in 2013 under the label Avex Entertainment Inc."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1006,
+    "old_score": 2.333333333333333,
+    "new_score": 5.0,
+    "claims": [
+      "On December 7, 2014, a record was achieved in a short course pool."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 1007,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 1979, Bruce Fitzgerald was the captain of The Brisbane Bullets.",
+      "In 1979, Bob Young was the coach of The Brisbane Bullets."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1008,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "Mitsunori Yoshida played a total of 251 matches for Yamaha Motors.",
+      "Mitsunori Yoshida scored 35 goals for Yamaha Motors."
+    ],
+    "verifications": [
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 1017,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "'Single Ladies' won Best Video at the MOBO Awards.",
+      "'Single Ladies' won Best Video at the MTV Europe Music Awards.",
+      "'Single Ladies' won Song of the Year at the Grammy Awards.",
+      "'Single Ladies' won Video of the Year at the MTV Video Music Awards."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1020,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2010, Jemma Rix played the role of Elphaba.",
+      "In 2010, Wicked was performed in Sydney."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1021,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "\u00c1lvaro Morte played the role of David Ortiz.",
+      "\u00c1lvaro Morte was in the film Mirage.",
+      "The film Mirage was released in 2018."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1023,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Luvo Manyonga participated in the Men's long jump final at the 2017 World Championships in Athletics.",
+      "Rushwahl Samaai participated in the Men's long jump final at the 2017 World Championships in Athletics."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1026,
+    "old_score": 4.0,
+    "new_score": 3.0,
+    "claims": [
+      "The transfer happened on 12 August 2016.",
+      "The transfer involved Calum Jahraldo-Martin.",
+      "Calum Jahraldo-Martin transferred to Oldham Athletic.",
+      "The transfer was a free transfer."
+    ],
+    "verifications": [
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 1037,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Dutee Chand competed in the 100 m event in India in 2017.",
+      "Dutee Chand competed in the 4\u00d7100 m relay event in India in 2017."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1039,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Ogden Avenue intersects I-90/I-94 (Kennedy Expressway) in Chicago.",
+      "Ogden Avenue intersects I-294 (Tri-State Tollway) at the Hinsdale\u2013Western Springs line.",
+      "Ogden Avenue intersects I-88/I-355 (Ronald Reagan Memorial Tollway/Veterans Memorial Tollway) in Lisle."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1042,
+    "old_score": 1.0,
+    "new_score": 4.0,
+    "claims": [
+      "The first National Natural Landmark in Michigan is Warren Woods Natural Area.",
+      "Warren Woods Natural Area was designated in 1967.",
+      "The most recent National Natural Landmark in Michigan is Porcupine Mountains.",
+      "Porcupine Mountains was designated in 1984."
+    ],
+    "verifications": [
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1045,
+    "old_score": 2.333333333333333,
+    "new_score": 3.0,
+    "claims": [
+      "In 1998, Robin Korving won the bronze medal in the 110 m hurdles.",
+      "The event took place at the European Championships."
+    ],
+    "verifications": [
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 1047,
+    "old_score": 4.2,
+    "new_score": 4.333333333333334,
+    "claims": [
+      "Georges Boucher played 449 regular season games.",
+      "Georges Boucher scored 117 goals in regular season games.",
+      "Georges Boucher made 87 assists in regular season games.",
+      "Georges Boucher played 28 playoff games.",
+      "Georges Boucher scored 5 goals in playoff games.",
+      "Georges Boucher made 3 assists in playoff games."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1052,
+    "old_score": 3.6666666666666665,
+    "new_score": 1.0,
+    "claims": [
+      "Sally Pearson achieved 2nd place in the 100 m hurdles event.",
+      "The event took place at the 2008 Olympic Games.",
+      "The venue for the event was Beijing, China."
+    ],
+    "verifications": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 1056,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "The Knife won the Album of the Year award in 2007."
+    ],
+    "verifications": [
+      false
+    ]
+  },
+  {
+    "original_idx": 1064,
+    "old_score": 3.6666666666666665,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "Freeman won a gold medal in the 200m event at the 1994 Commonwealth Games in Victoria, Canada.",
+      "Freeman won a gold medal in the 400m event at the 1994 Commonwealth Games in Victoria, Canada.",
+      "Freeman won a silver medal in the 4 \u00d7 100 m relay at the 1994 Commonwealth Games in Victoria, Canada."
+    ],
+    "verifications": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 1069,
+    "old_score": 4.0,
+    "new_score": 4.72,
+    "claims": [
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1919\u201320 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1920\u201321 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1921\u201322 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1922\u201323 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1923\u201324 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1924\u201325 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1925\u201326 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1926\u201327 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1927\u201328 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1928\u201329 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1929\u201330 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1930\u201331 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1933\u201334 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1934\u201335 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1935\u201336 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1936\u201337 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1937\u201338 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1938\u201339 season.",
+      "Roy W. Johnson coached the New Mexico Lobos basketball team in the 1939\u201340 season."
+    ],
+    "verifications": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "original_idx": 1071,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The USS Rasher has a total tonnage of 99,901.",
+      "The USS Archerfish has a total tonnage of 59,800."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1080,
+    "old_score": 3.0,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "The next release after Harmonic Motion Vol. 1 is From Fathoms by Gifts from Enola.",
+      "From Fathoms by Gifts from Enola was released in 2009.",
+      "From Fathoms by Gifts from Enola was released on The Mylene Sheath label."
+    ],
+    "verifications": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1094,
+    "old_score": 3.0,
+    "new_score": 4.2,
+    "claims": [
+      "Unplugged (2016) received a total of 6 nominations from Anugerah Industri Muzik.",
+      "Unplugged (2016) won in 3 categories at Anugerah Industri Muzik.",
+      "Unplugged (2016) won Best Nasyid Song for 'Mikraj Cinta'.",
+      "Unplugged (2016) won Best Vocal Performance in a Song (Female) for 'Menatap dalam Mimpi'.",
+      "Unplugged (2016) won Best Album for 'Unplugged'."
+    ],
+    "verifications": [
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1095,
+    "old_score": 4.2,
+    "new_score": 5.0,
+    "claims": [
+      "In 2003, Ryan Shay placed 1st in the USA Half Marathon Championships.",
+      "In 2003, Ryan Shay placed 3rd in the 25 km Championships.",
+      "In 2003, Ryan Shay placed 3rd in the 5 km Championships."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1096,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "In 2013, Genesis Rodriguez played the role of Agent Ellen Richards in 'The Last Stand'.",
+      "In 2013, Genesis Rodriguez played the role of Marisol in 'Identity Thief'."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1098,
+    "old_score": 2.333333333333333,
+    "new_score": 2.333333333333333,
+    "claims": [
+      "The match against Nigeria was on 17 June 2010.",
+      "The match ended in a 2-1 victory for Greece.",
+      "The match was during the 2010 FIFA World Cup."
+    ],
+    "verifications": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 1113,
+    "old_score": 4.333333333333334,
+    "new_score": 5.0,
+    "claims": [
+      "Madhumitha appeared in the Tamil film 'Amudhey'.",
+      "Madhumitha appeared in the Tamil film 'Englishkaran'.",
+      "Madhumitha appeared in the films 'Amudhey' and 'Englishkaran' in 2005."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1128,
+    "old_score": 2.333333333333333,
+    "new_score": 2.333333333333333,
+    "claims": [
+      "Feild portrayed Major John Andr\u00e9 in \"Turn: Washington's Spies\" in 2014.",
+      "Feild portrayed Major John Andr\u00e9 in \"Turn: Washington's Spies\" in 2015.",
+      "Feild portrayed Major John Andr\u00e9 in \"Turn: Washington's Spies\" in 2016."
+    ],
+    "verifications": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 1145,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Richard Casey was the governor of Bengal in 1945."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 1148,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [
+      "George Eastham had a total of 352 appearances before joining Stoke City.",
+      "George Eastham scored 75 goals before joining Stoke City."
+    ],
+    "verifications": [
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 1154,
+    "old_score": 3.857142857142857,
+    "new_score": 5.0,
+    "claims": [
+      "Simran appeared in the film Mrigaraju in 2001.",
+      "Simran appeared in the film Narasimha Naidu in 2001.",
+      "Simran appeared in the film Prematho Raa in 2001.",
+      "Simran appeared in the film Bava Nachadu in 2001.",
+      "Simran appeared in the film Daddy in 2001."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1158,
+    "old_score": 1.0,
+    "new_score": 3.0,
+    "claims": [
+      "Mitsunori Yoshida made a total of 271 appearances for Yamaha Motors across league, cup, and league cup competitions.",
+      "Mitsunori Yoshida scored 36 goals during that time."
+    ],
+    "verifications": [
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 1161,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "Lotte Friis finished fifth.",
+      "Lotte Friis is from Denmark.",
+      "Lotte Friis had a time of 8:23.86.",
+      "Bogl\u00e1rka Kap\u00e1s finished sixth.",
+      "Bogl\u00e1rka Kap\u00e1s is from Hungary.",
+      "Bogl\u00e1rka Kap\u00e1s had a time of 8:23.89."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1165,
+    "old_score": 3.4,
+    "new_score": 4.111111111111111,
+    "claims": [
+      "Mamta Kulkarni acted in the film 'Aashiq Awara' in 1993.",
+      "Mamta Kulkarni played the role of 'Jyoti' in 'Aashiq Awara'.",
+      "Mamta Kulkarni acted in the film 'Ashaant' in 1993.",
+      "Mamta Kulkarni played the role of 'Sonali' in 'Ashaant'.",
+      "Mamta Kulkarni acted in the film 'Bhookamp' in 1993.",
+      "Mamta Kulkarni played the role of 'Kavita Anand' in 'Bhookamp'.",
+      "Mamta Kulkarni acted in the film 'Waqt Hamara Hai' in 1993.",
+      "Mamta Kulkarni played the role of 'Mamta Vidrohi' in 'Waqt Hamara Hai'.",
+      "All four films were in Hindi."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 1169,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "U-21 sank a Swedish ship named Mars.",
+      "The ship Mars had a tonnage of 1,475.",
+      "U-21 sank a Swedish ship named Carl Henckel.",
+      "The ship Carl Henckel had a tonnage of 1,352."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1170,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Jemma Rix played the role of Elphaba in Sydney in 2010."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 1176,
+    "old_score": 4.2,
+    "new_score": 5.0,
+    "claims": [
+      "Calum Jahraldo-Martin moved from Hull City A.F.C. to Oldham Athletic.",
+      "Calum Jahraldo-Martin is from Antigua and Barbuda.",
+      "Calum Jahraldo-Martin moved on 12 August 2016.",
+      "Calum Jahraldo-Martin moved on a free transfer."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1179,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "M o l appeared in the TV film 'Picnic' in 2000.",
+      "M o l appeared in the TV film 'The Magnificent Ambersons' in 2002."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1180,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Toby Stephens was part of the film 'Photographing Fairies' in 1997.",
+      "Toby Stephens played the role of Charles Castle in 'Photographing Fairies'.",
+      "Toby Stephens played the role of Duke Orsino in the film 'Twelfth Night'.",
+      "'Twelfth Night' was directed by Trevor Nunn.",
+      "'Twelfth Night' was released in 1996."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1181,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Gippy Grewal acted in Mirza: The Untold Story in 2012.",
+      "Gippy Grewal acted in Carry On Jatta in 2012."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1184,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Barry Sanders appeared in 12 games.",
+      "Barry Sanders completed 2,850 yards.",
+      "Barry Sanders completed 42 touchdowns."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1189,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Ogden Avenue intersects with I-90/I-94 (Kennedy Expressway) in Chicago.",
+      "Ogden Avenue intersects with I-294 (Tri-State Tollway) at the Hinsdale\u2013Western Springs line.",
+      "Ogden Avenue intersects with IL 53 (Lincoln Avenue) in Lisle."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1191,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Paul F. Tompkins played the role of Himself in the documentary 'Super High Me' in 2007.",
+      "Paul F. Tompkins voiced the role of Chad, Seduce & Destroy in the film 'Magnolia' in 1999."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1192,
+    "old_score": 3.0,
+    "new_score": 4.0,
+    "claims": [
+      "The first National Natural Landmark in Michigan was designated in 1967.",
+      "The first National Natural Landmark in Michigan was at Warren Woods Natural Area.",
+      "The most recent National Natural Landmark in Michigan was designated in 1984.",
+      "The most recent National Natural Landmark in Michigan was at Porcupine Mountains."
+    ],
+    "verifications": [
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1195,
+    "old_score": 2.0,
+    "new_score": 5.0,
+    "claims": [
+      "Robin Korving finished 3rd in 1998.",
+      "Robin Korving competed in the 110m hurdles in 1998.",
+      "Robin Korving's 3rd place finish was at the European Championships in 1998."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1197,
+    "old_score": 3.857142857142857,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "Georges Boucher recorded 117 goals in regular season games.",
+      "Georges Boucher recorded 87 assists in regular season games.",
+      "Georges Boucher recorded 204 points in regular season games.",
+      "Georges Boucher played 449 regular season games.",
+      "Georges Boucher recorded 5 goals in the playoffs.",
+      "Georges Boucher recorded 3 assists in the playoffs."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "original_idx": 1203,
+    "old_score": 2.333333333333333,
+    "new_score": 5.0,
+    "claims": [
+      "Jahangir Khan Tareen from PTI received 138,719 votes.",
+      "Jahangir Khan Tareen from PTI received 56.05%.",
+      "Muhammad Saddique Khan Baloch from PML (N) received 99,933 votes.",
+      "Muhammad Saddique Khan Baloch from PML (N) received 40.38%."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1207,
+    "old_score": 2.333333333333333,
+    "new_score": 5.0,
+    "claims": [
+      "Stian Ohr played for Stab\u00e6k in the Tippeligaen in 2003.",
+      "Stian Ohr played for Stab\u00e6k in the Tippeligaen in 2004."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1209,
+    "old_score": 4.2,
+    "new_score": 5.0,
+    "claims": [
+      "Bill Grant is from the Conservative party.",
+      "Bill Grant won the most votes in the 2017 Ayr, Carrick and Cumnock constituency election.",
+      "Bill Grant had a majority of 2,774 votes over the nearest opponent.",
+      "The nearest opponent was Corri Wilson from the SNP party."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1215,
+    "old_score": 2.0,
+    "new_score": 1.0,
+    "claims": [],
+    "verifications": []
+  },
+  {
+    "original_idx": 1216,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Cody Simpson guest starred as Pete in Cougar Town.",
+      "Cody Simpson appeared in the sixth season of Cougar Town.",
+      "Cody Simpson appeared in episode seven of Cougar Town.",
+      "Cody Simpson appeared in Cougar Town in the year 2015."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1218,
+    "old_score": 3.6666666666666665,
+    "new_score": 1.0,
+    "claims": [],
+    "verifications": []
+  },
+  {
+    "original_idx": 1219,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Roy W. Johnson coached the New Mexico Lobos.",
+      "He coached from 1920 to 1931 as an independent team.",
+      "He coached from 1933 to 1940 in the Border Conference."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1226,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Gurnam Singh served as the Chief Minister of Punjab from 8 March 1967 to 25 November 1967.",
+      "Gurnam Singh served as the Chief Minister of Punjab from 17 February 1969 to 27 March 1970."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1227,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Ryan Cochrane finished third.",
+      "Ryan Cochrane's time was 14:42.69."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1229,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "The Paladins finished with an overall record of 19-16.",
+      "The Paladins had a conference record of 11-7.",
+      "The Paladins tied for 3rd place in the conference standings.",
+      "The Paladins reached the CIT Second Round."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1232,
+    "old_score": 3.4,
+    "new_score": 5.0,
+    "claims": [
+      "Davis Tarwater set an individual national record in the 200m SC butterfly with a time of 1:51.90 at the 2011 Duel in the Pool in Atlanta, GA on December 17, 2011.",
+      "Davis Tarwater helped set a national record in the 4\u00d7200m SC freestyle relay at the 2007 Short Course Nationals in Atlanta, GA on November 30, 2007."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1240,
+    "old_score": 4.2,
+    "new_score": 5.0,
+    "claims": [
+      "Kawasaki won the Superbike World Championship in 1993 with Scott Russell.",
+      "Kawasaki won the Superbike World Championship in 2013 with Tom Sykes.",
+      "Kawasaki won the Superbike World Championship in 2015 with Jonathan Rea.",
+      "Kawasaki won the Superbike World Championship in 2016 with Jonathan Rea.",
+      "Kawasaki won the Superbike World Championship in 2017 with Jonathan Rea.",
+      "Kawasaki won the Superbike World Championship in 2018 with Jonathan Rea."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1244,
+    "old_score": 3.0,
+    "new_score": 2.8181818181818183,
+    "claims": [
+      "In 2016, the album Unplugged received 7 nominations at the Anugerah Industri Muzik.",
+      "In 2016, the album Unplugged received 3 awards at the Anugerah Industri Muzik.",
+      "In 2016, the album Unplugged was nominated for Best Musical Arrangement in a Song at the Anugerah Industri Muzik.",
+      "In 2016, the album Unplugged was nominated for Best Pop Song at the Anugerah Industri Muzik.",
+      "In 2016, the album Unplugged was nominated for Best Engineered Album at the Anugerah Industri Muzik.",
+      "In 2016, the album Unplugged was nominated for Best Album at the Anugerah Industri Muzik.",
+      "In 2016, the album Unplugged won Best Nasyid Song at the Anugerah Industri Muzik.",
+      "In 2016, the album Unplugged won Best Vocal Performance in a Song (Female) at the Anugerah Industri Muzik.",
+      "In 2016, the album Unplugged won Best Musical Arrangement in a Song at the Anugerah Industri Muzik.",
+      "In 2016, the song 'Menatap dalam Mimpi' won two awards at the Anugerah Industri Muzik.",
+      "In 2016, the song 'Jaga Dia Untukku' (Live from Unplugged) received one nomination at the Anugerah Industri Muzik."
+    ],
+    "verifications": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1245,
+    "old_score": 2.6,
+    "new_score": 4.2,
+    "claims": [
+      "In 2003, Ryan Shay placed first in the USA Half Marathon Championships.",
+      "In 2003, Ryan Shay placed third in the USA 25 km Championships.",
+      "In 2003, Ryan Shay placed third in the USA 5 km Championships.",
+      "There is no record of Ryan Shay's participation in the USA 20 km Championships in 2003 in the table.",
+      "There is no record of Ryan Shay's participation in the USA 10 mile Championships in 2003 in the table."
+    ],
+    "verifications": [
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1247,
+    "old_score": 4.2,
+    "new_score": 5.0,
+    "claims": [
+      "In 2008, Janina Gavankar appeared on TV as Laura in Factory.",
+      "In 2008, Janina Gavankar appeared on TV as Sgt. 'Dusty' Mehra on Stargate Atlantis.",
+      "In 2008, Janina Gavankar appeared on TV as Intern Lisa on Grey's Anatomy.",
+      "In 2008, Janina Gavankar appeared on TV as Terri on My Boys."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1248,
+    "old_score": 3.0,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "Dimitris Salpingidis scored his first international goal against the Czech Republic.",
+      "The match was a friendly.",
+      "The match took place on 5 February 2008."
+    ],
+    "verifications": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 1259,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Tadas \u0160u\u0161kevi\u010dius finished 17th in the 50 km event at the 2009 World Championships."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 1260,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Shayne Ward won the Best Newcomer award at the Inside Soap Award in 2016.",
+      "Shayne Ward won the Newcomer award at the National Television Award in 2016."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1274,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2007, Karen David appeared as Barnes's Operational Soldier Flanders in 'Flight of Fury'.",
+      "In 2008, Karen David had a role as Layla in 'The Scorpion King 2: Rise of a Warrior'.",
+      "In 2008, Karen David had a role as Liessa in 'The Colour of Magic'."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1275,
+    "old_score": 3.0,
+    "new_score": 4.428571428571429,
+    "claims": [
+      "Momo Asakura had the most roles in the year 2014.",
+      "Momo Asakura played Rin Kazari in Witch Craft Works in 2014.",
+      "Momo Asakura played Sumi Otokawa in Sakura Trick in 2014.",
+      "Momo Asakura played Student B in Noragami in 2014.",
+      "Momo Asakura played Female student B in Hamatora: The Animation in 2014.",
+      "Momo Asakura played Vitte in Bladedance of Elementalers in 2014.",
+      "Momo Asakura played High school girl in Sword Art Online II in 2014."
+    ],
+    "verifications": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1277,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "The Towed Glider Air-Launch Concept is from 2013.",
+      "The Twin fuselage Lockheed C-5 Galaxy is from 1974."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1281,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Daniel Zovatto recurred in Revenge as Gideon LeMarchal.",
+      "Daniel Zovatto recurred in Fear the Walking Dead as Jack."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1286,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Zachery Ty Bryan appeared in the film 'The Game of Their Lives'.",
+      "The film 'The Game of Their Lives' was released in 2005."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1304,
+    "old_score": 4.333333333333334,
+    "new_score": 5.0,
+    "claims": [
+      "Simran appeared in Mrigaraju in 2001.",
+      "Simran appeared in Narasimha Naidu in 2001.",
+      "Simran appeared in Prematho Raa in 2001.",
+      "Simran appeared in Bava Nachadu in 2001.",
+      "Simran appeared in Daddy in 2001."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1305,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "In 2016, Julian Dennison played Ricky Baker in Hunt for the Wilderpeople.",
+      "In 2016, Julian Dennison played Beni in Chronesthesia.",
+      "In 2018, Julian Dennison played Russell Collins / Firefist in Deadpool 2."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1306,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "On 7 December 2014, a record was achieved for the 50 m breaststroke with a time of 25.63.",
+      "On 7 December 2014, a record was achieved for the 4 \u00d7 100 m medley with a time of 3:21.14."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1308,
+    "old_score": 1.0,
+    "new_score": 3.0,
+    "claims": [
+      "Mitsunori Yoshida had a total of 275 matches as a player for Yamaha Motors.",
+      "Mitsunori Yoshida had a total of 35 goals as a player for Yamaha Motors."
+    ],
+    "verifications": [
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 1310,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Fernando Peres's first recorded goal in the table was on 4 June 1964.",
+      "Fernando Peres's most recent appearance listed was on 25 June 1972."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1315,
+    "old_score": 4.2,
+    "new_score": 5.0,
+    "claims": [
+      "Mamta Kulkarni was a part of the Hindi film Waqt Hamara Hai in 1993.",
+      "Mamta Kulkarni was a part of the Hindi film Bhookamp in 1993.",
+      "Mamta Kulkarni was a part of the Hindi film Aashiq Awara in 1993.",
+      "Mamta Kulkarni was a part of the Hindi film Ashaant in 1993."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1320,
+    "old_score": 2.0,
+    "new_score": 5.0,
+    "claims": [
+      "Jemma Rix played the role of Elphaba in 2010.",
+      "Jemma Rix played the role of Elphaba in Sydney."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1321,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "\u00c1lvaro Morte played the role of David Ortiz.",
+      "\u00c1lvaro Morte played in the film Mirage.",
+      "\u00c1lvaro Morte played in 2018."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1323,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Luvo Manyonga jumped 8.48.",
+      "Rushwahl Samaai jumped 8.32."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1328,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2013, Johnny Coyne took on the role of Dr. Lydgate in Once Upon a Time in Wonderland.",
+      "In 2016, he played the role of George de Mohrenschildt in 11.22.63.",
+      "In 2016, he played the role of Dr. Lydgate in Once Upon a Time."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1329,
+    "old_score": 4.0,
+    "new_score": 3.6666666666666665,
+    "claims": [
+      "M o l appeared in a film titled Picnic between 2000 and 2002.",
+      "M o l appeared in a film titled The Magnificent Ambersons between 2000 and 2002.",
+      "M o l appeared in a film titled Freshening Up between 2000 and 2002."
+    ],
+    "verifications": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 1330,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Toby Stephens was part of the film Photographing Fairies in 1997.",
+      "Toby Stephens played the role of Charles Castle in Photographing Fairies.",
+      "Toby Stephens played the role of Duke Orsino in the film Twelfth Night.",
+      "Twelfth Night was directed by Trevor Nunn.",
+      "Twelfth Night was released in 1996."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1338,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "The winner of the male 60 metres was Michael Tumi.",
+      "The winner of the male high jump was Silvano Chesani.",
+      "The winner of the female pole vault was Roberta Bruni."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1342,
+    "old_score": 3.0,
+    "new_score": 3.0,
+    "claims": [
+      "The first destination on the table was designated in 1967.",
+      "The most recent destination was designated in 1984."
+    ],
+    "verifications": [
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 1346,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Motta made a total of 16 league appearances for Roma in the 2009-10 Serie A season."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 1347,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Georges Boucher played in the NHL for a total of 449 games.",
+      "Georges Boucher scored a total of 117 goals."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1351,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The single 'Scars' from the album '1927' peaked at position 46 on the Australian chart.",
+      "The single 'It Ain't Love' from the album '1927' peaked at position 123 on the Australian chart."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1360,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Simon MacCorkindale starred in the role of Prince Mikah in 1982.",
+      "Simon MacCorkindale starred in the role of Philip FitzRoyce in 1983."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1363,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The 1965 Giro d'Italia started on 15 May.",
+      "The 1965 Giro d'Italia ended on 6 June."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1366,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Cody Simpson guest starred as Pete in Cougar Town in 2015."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 1367,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Maja Neuenschwander won a marathon in Vienna in 2015."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 1369,
+    "old_score": 1.0,
+    "new_score": 1.0,
+    "claims": [],
+    "verifications": []
+  },
+  {
+    "original_idx": 1371,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The total tonnage for the USS Rasher is 99,901.",
+      "The total tonnage for the USS Archerfish is 59,800."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1376,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Gurnam Singh served as Chief Minister of Punjab twice.",
+      "Gurnam Singh's first term was from 8 March 1967 to 25 November 1967.",
+      "Gurnam Singh's second term was from 17 February 1969 to 27 March 1970."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1380,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Harmonic Motion Vol. 1 is followed by From Fathoms."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 1382,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Davis Tarwater did not set any individual national records."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 1383,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "The table does not provide any information about a 2018 movie role for Brooks Ashmanskas.",
+      "The table lists Brooks Ashmanskas' theatre role in 2018 as Barry Glickman in the Broadway production of The Prom."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1385,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Alec Milne made a total of 257 league appearances at Stoke."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 1388,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2001, Capshaw played the role of Dorothy Wheeler in the film 'Valentine'.",
+      "In 1998, Capshaw played the role of Marcia in the film 'Denial'."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1395,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2003, Ryan Shay placed first in the USA Half Marathon Championships.",
+      "In 2003, Ryan Shay placed third in the 25 km Championships.",
+      "In 2003, Ryan Shay placed third in the 5 km Championships.",
+      "In 2003, Ryan Shay did not compete in the 20 km Championships.",
+      "In 2003, Ryan Shay did not compete in the 10 mile Championships."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1398,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Greece won 2-1 against Nigeria on 17 June 2010."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 1403,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The Hunting Ground was nominated for an Emmy Award for Exceptional Merit in Documentary Filmmaking.",
+      "The Hunting Ground was nominated for a PGA Award for Outstanding Producer of Documentary Theatrical Motion Picture.",
+      "The Hunting Ground was nominated for a Stanley Kramer Award."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1406,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "In 2017, Adivi Sesh received the Best Screenplay award at the 2nd IIFA Utsavam for the film Kshanam.",
+      "In 2017, Adivi Sesh received the Best Screenplay Writer award at the Nandi Award for the film Kshanam."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1407,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "Pretty Much released the EP 'PRETTYMUCH an EP' in 2018."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 1409,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "Tadas \u0160u\u0161kevi\u010dius finished 17th in the 2009 World Championships.",
+      "The venue for the 2009 World Championships was Berlin, Germany."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1413,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "Madhumitha appeared in the Tamil film Amudhey.",
+      "Madhumitha appeared in the film Amudhey in 2005."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1422,
+    "old_score": 4.0,
+    "new_score": 5.0,
+    "claims": [
+      "Ariana Grande played Cat Valentine in 'Victorious' from 2010 to 2013.",
+      "Ariana Grande played Cat Valentine in 'iCarly' in 2011.",
+      "Ariana Grande played Cat Valentine in 'Sam & Cat' from 2013 to 2014."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1423,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Tracy Keller was played by Marisol Nichols.",
+      "Tracy Keller appeared in NCIS: Los Angeles.",
+      "Tracy Keller appeared in 2010."
+    ],
+    "verifications": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1428,
+    "old_score": 2.333333333333333,
+    "new_score": 3.0,
+    "claims": [
+      "Feild portrayed Major John Andr\u00e9 in 2014.",
+      "Feild portrayed Major John Andr\u00e9 in 2015.",
+      "Feild portrayed Major John Andr\u00e9 in 2016.",
+      "Feild portrayed Major John Andr\u00e9 in Turn: Washington's Spies."
+    ],
+    "verifications": [
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "original_idx": 1430,
+    "old_score": 1.0,
+    "new_score": 3.0,
+    "claims": [
+      "In 2015, Julia Sarah Stone was nominated for Best Actress in Canadian Film at the Vancouver Film Critics Circle.",
+      "In 2015, Julia Sarah Stone won the Leo Awards for Best Lead Performance by a Female in a Motion Picture."
+    ],
+    "verifications": [
+      true,
+      false
+    ]
+  },
+  {
+    "original_idx": 1431,
+    "old_score": 3.0,
+    "new_score": 5.0,
+    "claims": [
+      "In Revenge, Daniel Zovatto played the role of Gideon LeMarchal.",
+      "In Fear the Walking Dead, Daniel Zovatto played the role of Jack."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1432,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "The isotope 265Sg is produced in the 248Cm(22Ne,5n) reaction.",
+      "The isotope 265mSg is produced in the 248Cm(22Ne,5n) reaction."
+    ],
+    "verifications": [
+      true,
+      true
+    ]
+  },
+  {
+    "original_idx": 1439,
+    "old_score": 3.6666666666666665,
+    "new_score": 5.0,
+    "claims": [
+      "Michael Saruni finished third in the 800m."
+    ],
+    "verifications": [
+      true
+    ]
+  },
+  {
+    "original_idx": 1448,
+    "old_score": 1.0,
+    "new_score": 5.0,
+    "claims": [
+      "George Eastham made 124 league appearances for Newcastle United.",
+      "George Eastham scored 29 league goals for Newcastle United.",
+      "George Eastham made a total of 129 appearances for Newcastle United across all competitions.",
+      "George Eastham scored a total of 34 goals for Newcastle United across all competitions.",
+      "George Eastham made 207 league appearances for Arsenal.",
+      "George Eastham scored 41 league goals for Arsenal.",
+      "George Eastham made a total of 223 appearances for Arsenal across all competitions.",
+      "George Eastham scored a total of 41 goals for Arsenal across all competitions."
+    ],
+    "verifications": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+FETAQA – coarse faithfulness
+examples total        : 1452
+mitigated datapoints  : 303
+average before (total): 4.517
+average after  (total): 4.972
+change total          : +9.1%
+
+average before (affected): 2.686
+average after  (affected): 4.865
+change affected          : +43.6%
